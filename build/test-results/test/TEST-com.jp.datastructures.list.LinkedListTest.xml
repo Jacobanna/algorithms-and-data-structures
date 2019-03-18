@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jp.datastructures.list.LinkedListTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-18T18:52:17" hostname="DESKTOP-DILTDO4" time="0.002">
+  <properties/>
+  <testcase name="testAddLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.002"/>
+  <testcase name="testAddFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
