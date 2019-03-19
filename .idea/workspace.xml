@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" afterDir="false" />
     </list>
@@ -19,12 +20,12 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="787">
-                    <caret line="361" column="5" lean-forward="true" selection-start-line="361" selection-start-column="5" selection-end-line="361" selection-end-column="5" />
+                  <state relative-caret-position="355">
+                    <caret line="331" column="54" lean-forward="true" selection-start-line="331" selection-start-column="54" selection-end-line="331" selection-end-column="54" />
                     <folding>
                       <element signature="imports" expanded="true" />
                       <element signature="method#addFirst#0;class#LinkedListTest#0" />
@@ -34,109 +35,54 @@
                       <element signature="method#addAtPosLast#0;class#LinkedListTest#0" />
                       <element signature="method#addAtPosOutOfBoundaries#0;class#LinkedListTest#0" />
                       <element signature="method#getFirstNotEmpty#0;class#LinkedListTest#0" />
-                      <element signature="e#3873#3905#1" expanded="true" />
-                      <element signature="e#3883#3910#0" expanded="true" />
-                      <element signature="e#3883#3910#0" expanded="true" />
-                      <element signature="e#3950#3992#1" expanded="true" />
-                      <element signature="e#3943#3964#0" expanded="true" />
-                      <element signature="e#4019#4052#0" expanded="true" />
-                      <element signature="e#4019#4052#0" expanded="true" />
-                      <element signature="method#getFirstNotEmpty#1;class#LinkedListTest#0" />
-                      <element signature="e#4262#4303#1" expanded="true" />
-                      <element signature="e#4511#4553#1" expanded="true" />
-                      <element signature="e#4539#4560#0" expanded="true" />
+                      <element signature="method#getFirstEmpty#0;class#LinkedListTest#0" />
                       <element signature="method#getLastNotEmpty#0;class#LinkedListTest#0" />
-                      <element signature="e#4670#4703#1" expanded="true" />
-                      <element signature="e#4764#4806#1" expanded="true" />
-                      <element signature="e#4737#4757#0" expanded="true" />
-                      <element signature="e#4777#4810#0" expanded="true" />
-                      <element signature="e#4777#4810#0" expanded="true" />
-                      <element signature="method#getLastNotEmpty#1;class#LinkedListTest#0" />
-                      <element signature="e#5236#5277#1" expanded="true" />
-                      <element signature="e#5256#5276#0" expanded="true" />
+                      <element signature="method#getLastEmpty#0;class#LinkedListTest#0" />
                       <element signature="method#getNotEmpty#0;class#LinkedListTest#0" />
-                      <element signature="e#5135#5161#1" expanded="true" />
-                      <element signature="e#5170#5196#1" expanded="true" />
-                      <element signature="e#5205#5230#1" expanded="true" />
-                      <element signature="e#5231#5256#1" expanded="true" />
-                      <element signature="e#5265#5290#1" expanded="true" />
-                      <element signature="e#5239#5280#1" expanded="true" />
-                      <element signature="e#5394#5427#1" expanded="true" />
-                      <element signature="e#5573#5600#0" expanded="true" />
-                      <element signature="e#5573#5600#0" expanded="true" />
-                      <element signature="e#5488#5530#1" expanded="true" />
-                      <element signature="e#5705#5738#0" expanded="true" />
-                      <element signature="e#5705#5738#0" expanded="true" />
-                      <element signature="method#getWhenEmpty#0;class#LinkedListTest#0" />
-                      <element signature="e#5971#6012#1" expanded="true" />
-                      <element signature="e#6290#6328#1" expanded="true" />
+                      <element signature="method#getEmpty#0;class#LinkedListTest#0" />
                       <element signature="method#getOutOfBoundaries#0;class#LinkedListTest#0" />
-                      <element signature="e#6067#6093#1" expanded="true" />
-                      <element signature="e#6102#6128#1" expanded="true" />
-                      <element signature="e#6137#6163#1" expanded="true" />
-                      <element signature="e#6172#6198#1" expanded="true" />
-                      <element signature="e#6242#6283#1" expanded="true" />
-                      <element signature="e#6561#6599#1" expanded="true" />
                       <element signature="method#clear#0;class#LinkedListTest#0" />
-                      <element signature="e#6596#6622#1" expanded="true" />
-                      <element signature="e#6631#6657#1" expanded="true" />
-                      <element signature="e#6666#6692#1" expanded="true" />
-                      <element signature="e#6701#6727#1" expanded="true" />
-                      <element signature="e#6736#6777#1" expanded="true" />
-                      <element signature="e#6981#7001#0" expanded="true" />
-                      <element signature="e#7038#7059#0" expanded="true" />
                       <element signature="method#containsNotEmpty#0;class#LinkedListTest#0" />
-                      <element signature="e#7152#7178#1" expanded="true" />
-                      <element signature="e#7187#7213#1" expanded="true" />
-                      <element signature="e#7222#7248#1" expanded="true" />
-                      <element signature="e#7257#7283#1" expanded="true" />
-                      <element signature="e#7292#7333#1" expanded="true" />
-                      <element signature="method#containsNotEmpty#1;class#LinkedListTest#0" />
-                      <element signature="e#7771#7812#1" expanded="true" />
-                      <element signature="e#7685#7769#1" expanded="true" />
+                      <element signature="method#containsEmpty#0;class#LinkedListTest#0" />
                       <element signature="method#indexOfExists#0;class#LinkedListTest#0" />
-                      <element signature="e#7863#7889#1" expanded="true" />
-                      <element signature="e#7898#7924#1" expanded="true" />
-                      <element signature="e#7933#7959#1" expanded="true" />
-                      <element signature="e#7968#7994#1" expanded="true" />
-                      <element signature="e#8003#8044#1" expanded="true" />
-                      <element signature="e#8200#8283#1" expanded="true" />
                       <element signature="method#indexOfDoesNotExist#0;class#LinkedListTest#0" />
-                      <element signature="e#8382#8408#1" expanded="true" />
-                      <element signature="e#8417#8443#1" expanded="true" />
-                      <element signature="e#8452#8478#1" expanded="true" />
-                      <element signature="e#8487#8513#1" expanded="true" />
-                      <element signature="e#8522#8563#1" expanded="true" />
-                      <element signature="e#8727#8762#1" expanded="true" />
                       <element signature="method#indexOfEmptyList#0;class#LinkedListTest#0" />
-                      <element signature="e#8504#8545#1" expanded="true" />
-                      <element signature="e#8709#8744#1" expanded="true" />
-                      <element signature="method#reverseIterativeManyElements#0;class#LinkedListTest#0" />
-                      <element signature="e#9137#9163#1" expanded="true" />
-                      <element signature="e#9172#9198#1" expanded="true" />
-                      <element signature="e#9207#9233#1" expanded="true" />
-                      <element signature="e#9242#9268#1" expanded="true" />
-                      <element signature="e#9277#9318#1" expanded="true" />
-                      <element signature="e#9460#9484#1" expanded="true" />
-                      <element signature="e#9475#9529#1" expanded="true" />
-                      <element signature="e#9584#9687#1" expanded="true" />
-                      <element signature="e#9644#9682#0" expanded="true" />
-                      <element signature="e#9644#9682#0" expanded="true" />
                       <element signature="method#reverseIterativeOneElement#0;class#LinkedListTest#0" />
-                      <element signature="e#9894#9920#1" expanded="true" />
-                      <element signature="e#10035#10076#1" expanded="true" />
-                      <element signature="e#10225#10262#1" expanded="true" />
-                      <element signature="e#10286#10340#1" expanded="true" />
-                      <element signature="e#10349#10392#1" expanded="true" />
-                      <element signature="e#10141#10179#0" expanded="true" />
-                      <element signature="e#10141#10179#0" expanded="true" />
                       <element signature="method#reverseIterativeNoElements#0;class#LinkedListTest#0" />
-                      <element signature="e#10818#10859#1" expanded="true" />
-                      <element signature="e#11069#11123#1" expanded="true" />
-                      <element signature="e#11132#11175#1" expanded="true" />
-                      <element signature="e#10532#10570#0" expanded="true" />
-                      <element signature="e#10532#10570#0" expanded="true" />
-                      <element signature="e#10666#10688#0" expanded="true" />
+                      <element signature="e#10395#10433#0" expanded="true" />
+                      <element signature="e#10395#10433#0" expanded="true" />
+                      <element signature="e#10613#10635#0" expanded="true" />
+                      <element signature="method#reverseRecursiveManyElements#0;class#LinkedListTest#0" />
+                      <element signature="e#11160#11180#0" expanded="true" />
+                      <element signature="method#reverseRecursiveManyElements#1;class#LinkedListTest#0" />
+                      <element signature="e#11778#11798#0" expanded="true" />
+                      <element signature="method#reverseRecursiveNoElements#0;class#LinkedListTest#0" />
+                      <element signature="e#11946#11966#0" expanded="true" />
+                      <element signature="e#11896#11916#0" expanded="true" />
+                      <element signature="method#removeFirstWithElements#0;class#LinkedListTest#0" />
+                      <element signature="e#12012#12035#1" expanded="true" />
+                      <element signature="e#12047#12073#1" expanded="true" />
+                      <element signature="e#12082#12108#1" expanded="true" />
+                      <element signature="e#12117#12143#1" expanded="true" />
+                      <element signature="e#12020#12061#1" expanded="true" />
+                      <element signature="e#12070#12095#1" expanded="true" />
+                      <element signature="e#12119#12163#1" expanded="true" />
+                      <element signature="method#removeFirstNoElements#0;class#LinkedListTest#0" />
+                      <element signature="e#12088#12129#1" expanded="true" />
+                      <element signature="e#12138#12186#1" expanded="true" />
+                      <element signature="e#12187#12231#1" expanded="true" />
+                      <element signature="method#removeFirstWithElements#1;class#LinkedListTest#0" />
+                      <element signature="e#12899#12925#1" expanded="true" />
+                      <element signature="e#12934#12960#1" expanded="true" />
+                      <element signature="e#12969#12995#1" expanded="true" />
+                      <element signature="e#13004#13030#1" expanded="true" />
+                      <element signature="e#13039#13080#1" expanded="true" />
+                      <element signature="e#13229#13255#1" expanded="true" />
+                      <element signature="e#13279#13323#1" expanded="true" />
+                      <element signature="method#removeFirstNoElements#1;class#LinkedListTest#0" />
+                      <element signature="e#13478#13519#1" expanded="true" />
+                      <element signature="e#13528#13553#1" expanded="true" />
+                      <element signature="e#13577#13621#1" expanded="true" />
                     </folding>
                   </state>
                 </provider>
@@ -157,118 +103,160 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="138" column="27" lean-forward="true" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
+            <state relative-caret-position="417">
+              <caret line="164" column="14" selection-start-line="164" selection-start-column="14" selection-end-line="164" selection-end-column="14" />
               <folding>
                 <element signature="method#LinkedList#0;class#LinkedList#0" />
                 <element signature="method#addFirst#0;class#LinkedList#0" />
                 <element signature="e#300#460#0" expanded="true" />
                 <element signature="e#300#460#0" expanded="true" />
-                <element signature="e#249#266#1" expanded="true" />
+                <element signature="e#375#392#1" expanded="true" />
                 <element signature="e#431#449#0" expanded="true" />
                 <element signature="e#431#449#0" expanded="true" />
                 <element signature="method#addLast#0;class#LinkedList#0" />
                 <element signature="e#513#764#0" expanded="true" />
                 <element signature="e#513#764#0" expanded="true" />
-                <element signature="e#481#498#1" expanded="true" />
+                <element signature="e#607#624#1" expanded="true" />
                 <element signature="e#637#722#0" expanded="true" />
-                <element signature="e#518#532#0" expanded="true" />
+                <element signature="e#644#658#0" expanded="true" />
                 <element signature="e#637#722#0" expanded="true" />
-                <element signature="e#567#581#0" expanded="true" />
+                <element signature="e#693#707#0" expanded="true" />
                 <element signature="e#735#753#0" expanded="true" />
                 <element signature="e#735#753#0" expanded="true" />
                 <element signature="method#add#0;class#LinkedList#0" />
-                <element signature="e#703#720#1" expanded="true" />
-                <element signature="e#729#746#1" expanded="true" />
-                <element signature="e#881#1295#0" expanded="true" />
-                <element signature="e#881#1295#0" expanded="true" />
-                <element signature="e#981#1285#0" expanded="true" />
-                <element signature="e#870#884#0" expanded="true" />
-                <element signature="e#981#1285#0" expanded="true" />
-                <element signature="e#919#933#0" expanded="true" />
-                <element signature="e#1097#1271#0" expanded="true" />
-                <element signature="e#1097#1271#0" expanded="true" />
-                <element signature="e#1146#1179#0" expanded="true" />
-                <element signature="e#1046#1060#0" expanded="true" />
-                <element signature="e#1146#1179#0" expanded="true" />
-                <element signature="e#1201#1224#0" expanded="true" />
-                <element signature="e#1201#1224#0" expanded="true" />
-                <element signature="e#1304#1542#0" expanded="true" />
-                <element signature="e#1304#1542#0" expanded="true" />
-                <element signature="e#1345#1368#0" expanded="true" />
-                <element signature="e#1345#1368#0" expanded="true" />
-                <element signature="e#1433#1443#0" expanded="true" />
-                <element signature="e#1643#1697#0" expanded="true" />
-                <element signature="e#1643#1697#0" expanded="true" />
-                <element signature="e#1849#1866#1" expanded="true" />
-                <element signature="e#1834#1848#0" expanded="true" />
-                <element signature="e#1879#1893#0" expanded="true" />
+                <element signature="e#829#846#1" expanded="true" />
+                <element signature="e#855#872#1" expanded="true" />
+                <element signature="e#876#1275#0" expanded="true" />
+                <element signature="e#876#1275#0" expanded="true" />
+                <element signature="e#971#1265#0" expanded="true" />
+                <element signature="e#988#1002#0" expanded="true" />
+                <element signature="e#971#1265#0" expanded="true" />
+                <element signature="e#1037#1051#0" expanded="true" />
+                <element signature="e#1087#1251#0" expanded="true" />
+                <element signature="e#1087#1251#0" expanded="true" />
+                <element signature="e#1136#1164#0" expanded="true" />
+                <element signature="e#1164#1178#0" expanded="true" />
+                <element signature="e#1136#1164#0" expanded="true" />
+                <element signature="e#1186#1204#0" expanded="true" />
+                <element signature="e#1186#1204#0" expanded="true" />
+                <element signature="e#1284#1519#0" expanded="true" />
+                <element signature="e#1284#1519#0" expanded="true" />
+                <element signature="e#1325#1343#0" expanded="true" />
+                <element signature="e#1325#1343#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="e#1393#1507#0" expanded="true" />
+                <element signature="method#getLast#0;class#LinkedList#0" />
+                <element signature="e#1620#1674#0" expanded="true" />
+                <element signature="e#1620#1674#0" expanded="true" />
+                <element signature="e#1706#1723#1" expanded="true" />
+                <element signature="e#1709#1786#0" expanded="true" />
+                <element signature="e#1738#1752#0" expanded="true" />
+                <element signature="e#1709#1786#0" expanded="true" />
+                <element signature="e#1783#1797#0" expanded="true" />
                 <element signature="method#get#0;class#LinkedList#0" />
-                <element signature="e#2032#2049#1" expanded="true" />
-                <element signature="e#2049#2066#1" expanded="true" />
-                <element signature="e#1930#2387#0" expanded="true" />
-                <element signature="e#1930#2387#0" expanded="true" />
-                <element signature="e#2062#2072#1" expanded="true" />
-                <element signature="e#2008#2159#0" expanded="true" />
-                <element signature="e#2008#2159#0" expanded="true" />
-                <element signature="e#2208#2257#0" expanded="true" />
-                <element signature="e#2208#2257#0" expanded="true" />
-                <element signature="e#2172#2377#0" expanded="true" />
-                <element signature="e#2169#2183#0" expanded="true" />
-                <element signature="e#2172#2377#0" expanded="true" />
-                <element signature="e#2218#2232#0" expanded="true" />
-                <element signature="e#2288#2363#0" expanded="true" />
-                <element signature="e#2288#2363#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
-                <element signature="e#2430#2440#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
-                <element signature="e#2415#2524#0" expanded="true" />
+                <element signature="e#1878#1895#1" expanded="true" />
+                <element signature="e#1904#1921#1" expanded="true" />
+                <element signature="e#1908#2365#0" expanded="true" />
+                <element signature="e#1908#2365#0" expanded="true" />
+                <element signature="e#1967#1977#0" expanded="true" />
+                <element signature="e#1986#2137#0" expanded="true" />
+                <element signature="e#1986#2137#0" expanded="true" />
+                <element signature="e#2063#2114#0" expanded="true" />
+                <element signature="e#2063#2114#0" expanded="true" />
+                <element signature="e#2150#2355#0" expanded="true" />
+                <element signature="e#2179#2193#0" expanded="true" />
+                <element signature="e#2150#2355#0" expanded="true" />
+                <element signature="e#2228#2242#0" expanded="true" />
+                <element signature="e#2266#2341#0" expanded="true" />
+                <element signature="e#2266#2341#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
+                <element signature="e#2393#2504#0" expanded="true" />
                 <element signature="method#clear#0;class#LinkedList#0" />
                 <element signature="method#contains#0;class#LinkedList#0" />
-                <element signature="e#2757#2812#0" expanded="true" />
-                <element signature="e#2757#2812#0" expanded="true" />
-                <element signature="e#2695#2712#1" expanded="true" />
-                <element signature="e#2847#3029#0" expanded="true" />
-                <element signature="e#2728#2742#0" expanded="true" />
-                <element signature="e#2847#3029#0" expanded="true" />
-                <element signature="e#2892#3019#0" expanded="true" />
-                <element signature="e#2896#2913#0" expanded="true" />
-                <element signature="e#2896#2913#0" expanded="true" />
-                <element signature="e#2892#3019#0" expanded="true" />
-                <element signature="e#2864#2878#0" expanded="true" />
+                <element signature="e#2737#2792#0" expanded="true" />
+                <element signature="e#2737#2792#0" expanded="true" />
+                <element signature="e#2821#2838#1" expanded="true" />
+                <element signature="e#2827#3009#0" expanded="true" />
+                <element signature="e#2854#2868#0" expanded="true" />
+                <element signature="e#2827#3009#0" expanded="true" />
+                <element signature="e#2872#2999#0" expanded="true" />
+                <element signature="e#2876#2893#0" expanded="true" />
+                <element signature="e#2876#2893#0" expanded="true" />
+                <element signature="e#2872#2999#0" expanded="true" />
+                <element signature="e#2990#3004#0" expanded="true" />
                 <element signature="method#indexOf#0;class#LinkedList#0" />
-                <element signature="e#3103#3155#0" expanded="true" />
-                <element signature="e#3103#3155#0" expanded="true" />
-                <element signature="e#3038#3055#1" expanded="true" />
-                <element signature="e#3064#3081#1" expanded="true" />
-                <element signature="e#3100#3114#0" expanded="true" />
-                <element signature="e#3260#3337#0" expanded="true" />
-                <element signature="e#3142#3156#0" expanded="true" />
-                <element signature="e#3260#3337#0" expanded="true" />
-                <element signature="e#3235#3249#0" expanded="true" />
+                <element signature="e#3083#3135#0" expanded="true" />
+                <element signature="e#3083#3135#0" expanded="true" />
+                <element signature="e#3164#3181#1" expanded="true" />
+                <element signature="e#3190#3207#1" expanded="true" />
+                <element signature="e#3196#3387#0" expanded="true" />
+                <element signature="e#3222#3236#0" expanded="true" />
+                <element signature="e#3196#3387#0" expanded="true" />
+                <element signature="e#3241#3318#0" expanded="true" />
+                <element signature="e#3264#3278#0" expanded="true" />
+                <element signature="e#3241#3318#0" expanded="true" />
+                <element signature="e#3381#3395#0" expanded="true" />
                 <element signature="method#traverse#0;class#LinkedList#0" />
-                <element signature="e#3472#3526#0" expanded="true" />
-                <element signature="e#3472#3526#0" expanded="true" />
-                <element signature="e#3530#3547#1" expanded="true" />
-                <element signature="e#2502#2519#1" expanded="true" />
-                <element signature="e#3587#3706#0" expanded="true" />
-                <element signature="e#2535#2549#0" expanded="true" />
-                <element signature="e#3587#3706#0" expanded="true" />
-                <element signature="e#3640#3660#0" expanded="true" />
-                <element signature="e#2581#2595#0" expanded="true" />
-                <element signature="e#3640#3660#0" expanded="true" />
-                <element signature="e#2622#2636#0" expanded="true" />
-                <element signature="e#2664#2678#0" expanded="true" />
-                <element signature="method#reverseIterative#0;class#LinkedList#0" />
-                <element signature="e#3811#3831#1" expanded="true" />
-                <element signature="e#3840#3861#1" expanded="true" />
-                <element signature="e#3808#3825#1" expanded="true" />
-                <element signature="e#3940#3957#0" expanded="true" />
-                <element signature="e#4034#4059#0" expanded="true" />
-                <element signature="e#4034#4059#0" expanded="true" />
+                <element signature="e#3453#3507#0" expanded="true" />
+                <element signature="e#3453#3507#0" expanded="true" />
+                <element signature="e#3535#3552#1" expanded="true" />
+                <element signature="e#3561#3578#1" expanded="true" />
+                <element signature="e#3568#3687#0" expanded="true" />
+                <element signature="e#3594#3608#0" expanded="true" />
+                <element signature="e#3568#3687#0" expanded="true" />
+                <element signature="e#3621#3641#0" expanded="true" />
+                <element signature="e#3640#3654#0" expanded="true" />
+                <element signature="e#3621#3641#0" expanded="true" />
+                <element signature="e#3681#3695#0" expanded="true" />
+                <element signature="e#3723#3737#0" expanded="true" />
+                <element signature="e#3793#3842#0" expanded="true" />
+                <element signature="e#3793#3842#0" expanded="true" />
+                <element signature="e#3903#3924#1" expanded="true" />
+                <element signature="e#3933#3950#1" expanded="true" />
+                <element signature="e#3907#4064#0" expanded="true" />
+                <element signature="e#3907#4064#0" expanded="true" />
+                <element signature="e#4003#4020#0" expanded="true" />
+                <element signature="e#3977#3999#0" expanded="true" />
+                <element signature="e#3977#3999#0" expanded="true" />
+                <element signature="method#reverseRecursive#0;class#LinkedList#0" />
+                <element signature="e#4143#4193#0" expanded="true" />
+                <element signature="e#4143#4193#0" expanded="true" />
+                <element signature="e#4202#4288#0" expanded="true" />
+                <element signature="e#4248#4263#0" expanded="true" />
+                <element signature="e#4202#4288#0" expanded="true" />
+                <element signature="e#4327#4341#0" expanded="true" />
+                <element signature="e#4356#4374#1" expanded="true" />
+                <element signature="e#4369#4384#0" expanded="true" />
+                <element signature="e#4378#4398#0" expanded="true" />
+                <element signature="e#4378#4398#0" expanded="true" />
+                <element signature="e#4408#4427#0" expanded="true" />
+                <element signature="e#4408#4427#0" expanded="true" />
+                <element signature="method#removeFirst#0;class#LinkedList#0" />
+                <element signature="e#4476#4637#0" expanded="true" />
+                <element signature="e#4476#4637#0" expanded="true" />
+                <element signature="e#4608#4625#1" expanded="true" />
+                <element signature="e#4645#4659#0" expanded="true" />
+                <element signature="method#removeLast#0;class#LinkedList#0" />
+                <element signature="e#4684#4992#0" expanded="true" />
+                <element signature="e#4684#4992#0" expanded="true" />
+                <element signature="e#4820#4837#1" expanded="true" />
+                <element signature="e#4788#4883#0" expanded="true" />
+                <element signature="e#4857#4871#0" expanded="true" />
+                <element signature="e#4857#4881#0" expanded="true" />
+                <element signature="e#4788#4883#0" expanded="true" />
+                <element signature="e#4906#4920#0" expanded="true" />
+                <element signature="e#4958#4975#1" expanded="true" />
+                <element signature="e#4967#4981#0" expanded="true" />
+                <element signature="e#4937#4955#0" expanded="true" />
+                <element signature="e#4937#4955#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -277,29 +265,8 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="374">
               <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-              <folding>
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#522#549#0" expanded="true" />
-                <element signature="e#522#549#0" expanded="true" />
-                <element signature="e#558#616#0" expanded="true" />
-                <element signature="e#575#585#0" expanded="true" />
-                <element signature="e#589#601#0" expanded="true" />
-                <element signature="e#558#616#0" expanded="true" />
-                <element signature="e#625#646#1" expanded="true" />
-                <element signature="e#637#645#0" expanded="true" />
-                <element signature="e#662#671#0" expanded="true" />
-                <element signature="e#675#689#0" expanded="true" />
-                <element signature="e#709#750#0" expanded="true" />
-                <element signature="e#724#733#0" expanded="true" />
-                <element signature="e#709#750#0" expanded="true" />
-                <element signature="e#735#749#0" expanded="true" />
-                <element signature="e#709#750#0" expanded="true" />
-                <element signature="e#830#839#0" expanded="true" />
-                <element signature="e#841#850#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -629,8 +596,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/jp/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -653,9 +620,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -767,7 +734,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTest.reverseIterativeNoElements">
+  <component name="RunManager" selected="JUnit.LinkedListTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -794,7 +761,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListTest.reverseIterative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListTest.removeFirstWithElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -806,7 +773,53 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
-      <option name="METHOD_NAME" value="reverseIterative" />
+      <option name="METHOD_NAME" value="removeFirstWithElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.removeLastNoElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
+      <option name="METHOD_NAME" value="removeLastNoElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.removeLastWithElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
+      <option name="METHOD_NAME" value="removeLastWithElements" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -830,52 +843,6 @@
       <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
       <option name="METHOD_NAME" value="reverseIterativeManyElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LinkedListTest.reverseIterativeNoElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
-      <option name="METHOD_NAME" value="reverseIterativeNoElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LinkedListTest.reverseIterativeOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
-      <option name="METHOD_NAME" value="reverseIterativeOneElement" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -925,19 +892,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LinkedListTest" />
-      <item itemvalue="JUnit.LinkedListTest.reverseIterative" />
-      <item itemvalue="JUnit.LinkedListTest.reverseIterativeOneElement" />
+      <item itemvalue="JUnit.LinkedListTest.removeFirstWithElements" />
+      <item itemvalue="JUnit.LinkedListTest.removeLastWithElements" />
+      <item itemvalue="JUnit.LinkedListTest.removeLastNoElements" />
       <item itemvalue="JUnit.LinkedListTest.reverseIterativeManyElements" />
-      <item itemvalue="JUnit.LinkedListTest.reverseIterativeNoElements" />
+      <item itemvalue="JUnit.LinkedListTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedListTest.reverseIterativeNoElements" />
-        <item itemvalue="JUnit.LinkedListTest.reverseIterativeManyElements" />
-        <item itemvalue="JUnit.LinkedListTest.reverseIterativeOneElement" />
-        <item itemvalue="JUnit.LinkedListTest.reverseIterative" />
         <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.removeLastNoElements" />
+        <item itemvalue="JUnit.LinkedListTest.reverseIterativeManyElements" />
+        <item itemvalue="JUnit.LinkedListTest.removeLastWithElements" />
+        <item itemvalue="JUnit.LinkedListTest.removeFirstWithElements" />
       </list>
     </recent_temporary>
   </component>
@@ -952,47 +919,48 @@
       <option name="presentableId" value="Default" />
       <updated>1552929692950</updated>
       <workItem from="1552929698408" duration="5505000" />
-      <workItem from="1552999825781" duration="9734000" />
+      <workItem from="1552999825781" duration="10137000" />
+      <workItem from="1553029455833" duration="3343000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkedListTest_indexOfExists - 2019.03.19 at 17h 24m 37s.xml">
-      <configuration name="LinkedListTest.indexOfExists" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_reverseRecursiveOneElement - 2019.03.19 at 23h 22m 12s.xml">
+      <configuration name="LinkedListTest.reverseRecursiveOneElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest - 2019.03.19 at 17h 24m 49s.xml">
-      <configuration name="LinkedListTest" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_reverseRecursiveNoElements - 2019.03.19 at 23h 23m 05s.xml">
+      <configuration name="LinkedListTest.reverseRecursiveNoElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterative - 2019.03.19 at 17h 54m 11s.xml">
-      <configuration name="LinkedListTest.reverseIterative" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_reverseRecursiveNoElements - 2019.03.19 at 23h 23m 28s.xml">
+      <configuration name="LinkedListTest.reverseRecursiveNoElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterative - 2019.03.19 at 17h 54m 31s.xml">
-      <configuration name="LinkedListTest.reverseIterative" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_reverseRecursiveNoElements - 2019.03.19 at 23h 24m 41s.xml">
+      <configuration name="LinkedListTest.reverseRecursiveNoElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterative - 2019.03.19 at 17h 55m 23s.xml">
-      <configuration name="LinkedListTest.reverseIterative" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeFirstNoElements - 2019.03.19 at 23h 56m 00s.xml">
+      <configuration name="LinkedListTest.removeFirstNoElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterativeOneElement - 2019.03.19 at 17h 56m 23s.xml">
-      <configuration name="LinkedListTest.reverseIterativeOneElement" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeFirstWithElements - 2019.03.19 at 23h 57m 22s.xml">
+      <configuration name="LinkedListTest.removeFirstWithElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterativeManyElements - 2019.03.19 at 17h 56m 36s.xml">
-      <configuration name="LinkedListTest.reverseIterativeManyElements" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeLastWithElements - 2019.03.20 at 00h 02m 38s.xml">
+      <configuration name="LinkedListTest.removeLastWithElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterativeNoElements - 2019.03.19 at 17h 57m 45s.xml">
-      <configuration name="LinkedListTest.reverseIterativeNoElements" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeLastWithElements - 2019.03.20 at 00h 02m 57s.xml">
+      <configuration name="LinkedListTest.removeLastWithElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterativeNoElements - 2019.03.19 at 17h 57m 56s.xml">
-      <configuration name="LinkedListTest.reverseIterativeNoElements" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeLastWithElements - 2019.03.20 at 00h 03m 27s.xml">
+      <configuration name="LinkedListTest.removeLastWithElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_reverseIterativeNoElements - 2019.03.19 at 17h 58m 37s.xml">
-      <configuration name="LinkedListTest.reverseIterativeNoElements" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_removeLastNoElements - 2019.03.20 at 00h 03m 55s.xml">
+      <configuration name="LinkedListTest.removeLastNoElements" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15239000" />
+    <option name="totallyTimeSpent" value="18985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1004,20 +972,20 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28272828" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.19251925" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26258206" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26805252" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
@@ -1035,10 +1003,249 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="174" column="26" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="26" />
+          <folding>
+            <element signature="method#LinkedList#0;class#LinkedList#0" />
+            <element signature="method#addFirst#0;class#LinkedList#0" />
+            <element signature="e#300#460#0" expanded="true" />
+            <element signature="e#300#460#0" expanded="true" />
+            <element signature="e#375#392#1" expanded="true" />
+            <element signature="e#431#449#0" expanded="true" />
+            <element signature="e#431#449#0" expanded="true" />
+            <element signature="method#addLast#0;class#LinkedList#0" />
+            <element signature="e#513#764#0" expanded="true" />
+            <element signature="e#513#764#0" expanded="true" />
+            <element signature="e#607#624#1" expanded="true" />
+            <element signature="e#637#722#0" expanded="true" />
+            <element signature="e#644#658#0" expanded="true" />
+            <element signature="e#637#722#0" expanded="true" />
+            <element signature="e#693#707#0" expanded="true" />
+            <element signature="e#735#753#0" expanded="true" />
+            <element signature="e#735#753#0" expanded="true" />
+            <element signature="method#add#0;class#LinkedList#0" />
+            <element signature="e#829#846#1" expanded="true" />
+            <element signature="e#855#872#1" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#988#1002#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#1037#1051#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1164#1178#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="method#getLast#0;class#LinkedList#0" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1706#1723#1" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1738#1752#0" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1783#1797#0" expanded="true" />
+            <element signature="method#get#0;class#LinkedList#0" />
+            <element signature="e#1878#1895#1" expanded="true" />
+            <element signature="e#1904#1921#1" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1967#1977#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2179#2193#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2228#2242#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="method#clear#0;class#LinkedList#0" />
+            <element signature="method#contains#0;class#LinkedList#0" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2821#2838#1" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2854#2868#0" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2990#3004#0" expanded="true" />
+            <element signature="method#indexOf#0;class#LinkedList#0" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3164#3181#1" expanded="true" />
+            <element signature="e#3190#3207#1" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3222#3236#0" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3264#3278#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3381#3395#0" expanded="true" />
+            <element signature="method#traverse#0;class#LinkedList#0" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3535#3552#1" expanded="true" />
+            <element signature="e#3561#3578#1" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3594#3608#0" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3640#3654#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3681#3695#0" expanded="true" />
+            <element signature="e#3723#3737#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3903#3924#1" expanded="true" />
+            <element signature="e#3933#3950#1" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#4003#4020#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="method#reverseRecursive#0;class#LinkedList#0" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4248#4263#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4327#4341#0" expanded="true" />
+            <element signature="e#4356#4374#1" expanded="true" />
+            <element signature="e#4369#4384#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="method#removeFirst#0;class#LinkedList#0" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4608#4625#1" expanded="true" />
+            <element signature="e#4645#4659#0" expanded="true" />
+            <element signature="method#removeLast#0;class#LinkedList#0" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4820#4837#1" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4857#4871#0" expanded="true" />
+            <element signature="e#4857#4881#0" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4906#4920#0" expanded="true" />
+            <element signature="e#4958#4975#1" expanded="true" />
+            <element signature="e#4967#4981#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="361" column="5" lean-forward="true" selection-start-line="361" selection-start-column="5" selection-end-line="361" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addFirst#0;class#LinkedListTest#0" />
+            <element signature="method#addLast#0;class#LinkedListTest#0" />
+            <element signature="method#addAtPosFirst#0;class#LinkedListTest#0" />
+            <element signature="method#addAtPosMiddle#0;class#LinkedListTest#0" />
+            <element signature="method#addAtPosLast#0;class#LinkedListTest#0" />
+            <element signature="method#addAtPosOutOfBoundaries#0;class#LinkedListTest#0" />
+            <element signature="method#getFirstNotEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getFirstEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getLastNotEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getLastEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getNotEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#getOutOfBoundaries#0;class#LinkedListTest#0" />
+            <element signature="method#clear#0;class#LinkedListTest#0" />
+            <element signature="method#containsNotEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#containsEmpty#0;class#LinkedListTest#0" />
+            <element signature="method#indexOfExists#0;class#LinkedListTest#0" />
+            <element signature="method#indexOfDoesNotExist#0;class#LinkedListTest#0" />
+            <element signature="method#indexOfEmptyList#0;class#LinkedListTest#0" />
+            <element signature="method#reverseIterativeOneElement#0;class#LinkedListTest#0" />
+            <element signature="method#reverseIterativeNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10613#10635#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#0;class#LinkedListTest#0" />
+            <element signature="e#11160#11180#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#1;class#LinkedListTest#0" />
+            <element signature="e#11778#11798#0" expanded="true" />
+            <element signature="method#reverseRecursiveNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#11896#11916#0" expanded="true" />
+            <element signature="method#removeFirstWithElements#0;class#LinkedListTest#0" />
+            <element signature="e#12012#12035#1" expanded="true" />
+            <element signature="e#12047#12073#1" expanded="true" />
+            <element signature="e#12082#12108#1" expanded="true" />
+            <element signature="e#12117#12143#1" expanded="true" />
+            <element signature="e#12020#12061#1" expanded="true" />
+            <element signature="e#12070#12095#1" expanded="true" />
+            <element signature="e#12119#12163#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#12088#12129#1" expanded="true" />
+            <element signature="e#12138#12186#1" expanded="true" />
+            <element signature="e#12187#12231#1" expanded="true" />
+            <element signature="method#removeFirstWithElements#1;class#LinkedListTest#0" />
+            <element signature="e#12899#12925#1" expanded="true" />
+            <element signature="e#12934#12960#1" expanded="true" />
+            <element signature="e#12969#12995#1" expanded="true" />
+            <element signature="e#13004#13030#1" expanded="true" />
+            <element signature="e#13039#13080#1" expanded="true" />
+            <element signature="e#13229#13255#1" expanded="true" />
+            <element signature="e#13279#13323#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#1;class#LinkedListTest#0" />
+            <element signature="e#13478#13519#1" expanded="true" />
+            <element signature="e#13528#13553#1" expanded="true" />
+            <element signature="e#13577#13621#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1048,111 +1255,153 @@
             <element signature="method#addFirst#0;class#LinkedList#0" />
             <element signature="e#300#460#0" expanded="true" />
             <element signature="e#300#460#0" expanded="true" />
-            <element signature="e#249#266#1" expanded="true" />
+            <element signature="e#375#392#1" expanded="true" />
             <element signature="e#431#449#0" expanded="true" />
             <element signature="e#431#449#0" expanded="true" />
             <element signature="method#addLast#0;class#LinkedList#0" />
             <element signature="e#513#764#0" expanded="true" />
             <element signature="e#513#764#0" expanded="true" />
-            <element signature="e#481#498#1" expanded="true" />
+            <element signature="e#607#624#1" expanded="true" />
             <element signature="e#637#722#0" expanded="true" />
-            <element signature="e#518#532#0" expanded="true" />
+            <element signature="e#644#658#0" expanded="true" />
             <element signature="e#637#722#0" expanded="true" />
-            <element signature="e#567#581#0" expanded="true" />
+            <element signature="e#693#707#0" expanded="true" />
             <element signature="e#735#753#0" expanded="true" />
             <element signature="e#735#753#0" expanded="true" />
             <element signature="method#add#0;class#LinkedList#0" />
-            <element signature="e#703#720#1" expanded="true" />
-            <element signature="e#729#746#1" expanded="true" />
-            <element signature="e#881#1295#0" expanded="true" />
-            <element signature="e#881#1295#0" expanded="true" />
-            <element signature="e#981#1285#0" expanded="true" />
-            <element signature="e#870#884#0" expanded="true" />
-            <element signature="e#981#1285#0" expanded="true" />
-            <element signature="e#919#933#0" expanded="true" />
-            <element signature="e#1097#1271#0" expanded="true" />
-            <element signature="e#1097#1271#0" expanded="true" />
-            <element signature="e#1146#1179#0" expanded="true" />
-            <element signature="e#1046#1060#0" expanded="true" />
-            <element signature="e#1146#1179#0" expanded="true" />
-            <element signature="e#1201#1224#0" expanded="true" />
-            <element signature="e#1201#1224#0" expanded="true" />
-            <element signature="e#1304#1542#0" expanded="true" />
-            <element signature="e#1304#1542#0" expanded="true" />
-            <element signature="e#1345#1368#0" expanded="true" />
-            <element signature="e#1345#1368#0" expanded="true" />
-            <element signature="e#1433#1443#0" expanded="true" />
-            <element signature="e#1643#1697#0" expanded="true" />
-            <element signature="e#1643#1697#0" expanded="true" />
-            <element signature="e#1849#1866#1" expanded="true" />
-            <element signature="e#1834#1848#0" expanded="true" />
-            <element signature="e#1879#1893#0" expanded="true" />
+            <element signature="e#829#846#1" expanded="true" />
+            <element signature="e#855#872#1" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#988#1002#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#1037#1051#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1164#1178#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="method#getLast#0;class#LinkedList#0" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1706#1723#1" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1738#1752#0" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1783#1797#0" expanded="true" />
             <element signature="method#get#0;class#LinkedList#0" />
-            <element signature="e#2032#2049#1" expanded="true" />
-            <element signature="e#2049#2066#1" expanded="true" />
-            <element signature="e#1930#2387#0" expanded="true" />
-            <element signature="e#1930#2387#0" expanded="true" />
-            <element signature="e#2062#2072#1" expanded="true" />
-            <element signature="e#2008#2159#0" expanded="true" />
-            <element signature="e#2008#2159#0" expanded="true" />
-            <element signature="e#2208#2257#0" expanded="true" />
-            <element signature="e#2208#2257#0" expanded="true" />
-            <element signature="e#2172#2377#0" expanded="true" />
-            <element signature="e#2169#2183#0" expanded="true" />
-            <element signature="e#2172#2377#0" expanded="true" />
-            <element signature="e#2218#2232#0" expanded="true" />
-            <element signature="e#2288#2363#0" expanded="true" />
-            <element signature="e#2288#2363#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2430#2440#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
+            <element signature="e#1878#1895#1" expanded="true" />
+            <element signature="e#1904#1921#1" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1967#1977#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2179#2193#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2228#2242#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
             <element signature="method#clear#0;class#LinkedList#0" />
             <element signature="method#contains#0;class#LinkedList#0" />
-            <element signature="e#2757#2812#0" expanded="true" />
-            <element signature="e#2757#2812#0" expanded="true" />
-            <element signature="e#2695#2712#1" expanded="true" />
-            <element signature="e#2847#3029#0" expanded="true" />
-            <element signature="e#2728#2742#0" expanded="true" />
-            <element signature="e#2847#3029#0" expanded="true" />
-            <element signature="e#2892#3019#0" expanded="true" />
-            <element signature="e#2896#2913#0" expanded="true" />
-            <element signature="e#2896#2913#0" expanded="true" />
-            <element signature="e#2892#3019#0" expanded="true" />
-            <element signature="e#2864#2878#0" expanded="true" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2821#2838#1" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2854#2868#0" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2990#3004#0" expanded="true" />
             <element signature="method#indexOf#0;class#LinkedList#0" />
-            <element signature="e#3103#3155#0" expanded="true" />
-            <element signature="e#3103#3155#0" expanded="true" />
-            <element signature="e#3038#3055#1" expanded="true" />
-            <element signature="e#3064#3081#1" expanded="true" />
-            <element signature="e#3100#3114#0" expanded="true" />
-            <element signature="e#3260#3337#0" expanded="true" />
-            <element signature="e#3142#3156#0" expanded="true" />
-            <element signature="e#3260#3337#0" expanded="true" />
-            <element signature="e#3235#3249#0" expanded="true" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3164#3181#1" expanded="true" />
+            <element signature="e#3190#3207#1" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3222#3236#0" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3264#3278#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3381#3395#0" expanded="true" />
             <element signature="method#traverse#0;class#LinkedList#0" />
-            <element signature="e#3472#3526#0" expanded="true" />
-            <element signature="e#3472#3526#0" expanded="true" />
-            <element signature="e#3530#3547#1" expanded="true" />
-            <element signature="e#2502#2519#1" expanded="true" />
-            <element signature="e#3587#3706#0" expanded="true" />
-            <element signature="e#2535#2549#0" expanded="true" />
-            <element signature="e#3587#3706#0" expanded="true" />
-            <element signature="e#3640#3660#0" expanded="true" />
-            <element signature="e#2581#2595#0" expanded="true" />
-            <element signature="e#3640#3660#0" expanded="true" />
-            <element signature="e#2622#2636#0" expanded="true" />
-            <element signature="e#2664#2678#0" expanded="true" />
-            <element signature="method#reverseIterative#0;class#LinkedList#0" />
-            <element signature="e#3811#3831#1" expanded="true" />
-            <element signature="e#3840#3861#1" expanded="true" />
-            <element signature="e#3808#3825#1" expanded="true" />
-            <element signature="e#3940#3957#0" expanded="true" />
-            <element signature="e#4034#4059#0" expanded="true" />
-            <element signature="e#4034#4059#0" expanded="true" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3535#3552#1" expanded="true" />
+            <element signature="e#3561#3578#1" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3594#3608#0" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3640#3654#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3681#3695#0" expanded="true" />
+            <element signature="e#3723#3737#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3903#3924#1" expanded="true" />
+            <element signature="e#3933#3950#1" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#4003#4020#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="method#reverseRecursive#0;class#LinkedList#0" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4248#4263#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4327#4341#0" expanded="true" />
+            <element signature="e#4356#4374#1" expanded="true" />
+            <element signature="e#4369#4384#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="method#removeFirst#0;class#LinkedList#0" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4608#4625#1" expanded="true" />
+            <element signature="e#4645#4659#0" expanded="true" />
+            <element signature="method#removeLast#0;class#LinkedList#0" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4820#4837#1" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4857#4871#0" expanded="true" />
+            <element signature="e#4857#4881#0" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4906#4920#0" expanded="true" />
+            <element signature="e#4958#4975#1" expanded="true" />
+            <element signature="e#4967#4981#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1170,109 +1419,54 @@
             <element signature="method#addAtPosLast#0;class#LinkedListTest#0" />
             <element signature="method#addAtPosOutOfBoundaries#0;class#LinkedListTest#0" />
             <element signature="method#getFirstNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#3873#3905#1" expanded="true" />
-            <element signature="e#3883#3910#0" expanded="true" />
-            <element signature="e#3883#3910#0" expanded="true" />
-            <element signature="e#3950#3992#1" expanded="true" />
-            <element signature="e#3943#3964#0" expanded="true" />
-            <element signature="e#4019#4052#0" expanded="true" />
-            <element signature="e#4019#4052#0" expanded="true" />
-            <element signature="method#getFirstNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#4262#4303#1" expanded="true" />
-            <element signature="e#4511#4553#1" expanded="true" />
-            <element signature="e#4539#4560#0" expanded="true" />
+            <element signature="method#getFirstEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getLastNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#4670#4703#1" expanded="true" />
-            <element signature="e#4764#4806#1" expanded="true" />
-            <element signature="e#4737#4757#0" expanded="true" />
-            <element signature="e#4777#4810#0" expanded="true" />
-            <element signature="e#4777#4810#0" expanded="true" />
-            <element signature="method#getLastNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#5236#5277#1" expanded="true" />
-            <element signature="e#5256#5276#0" expanded="true" />
+            <element signature="method#getLastEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#5135#5161#1" expanded="true" />
-            <element signature="e#5170#5196#1" expanded="true" />
-            <element signature="e#5205#5230#1" expanded="true" />
-            <element signature="e#5231#5256#1" expanded="true" />
-            <element signature="e#5265#5290#1" expanded="true" />
-            <element signature="e#5239#5280#1" expanded="true" />
-            <element signature="e#5394#5427#1" expanded="true" />
-            <element signature="e#5573#5600#0" expanded="true" />
-            <element signature="e#5573#5600#0" expanded="true" />
-            <element signature="e#5488#5530#1" expanded="true" />
-            <element signature="e#5705#5738#0" expanded="true" />
-            <element signature="e#5705#5738#0" expanded="true" />
-            <element signature="method#getWhenEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#5971#6012#1" expanded="true" />
-            <element signature="e#6290#6328#1" expanded="true" />
+            <element signature="method#getEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getOutOfBoundaries#0;class#LinkedListTest#0" />
-            <element signature="e#6067#6093#1" expanded="true" />
-            <element signature="e#6102#6128#1" expanded="true" />
-            <element signature="e#6137#6163#1" expanded="true" />
-            <element signature="e#6172#6198#1" expanded="true" />
-            <element signature="e#6242#6283#1" expanded="true" />
-            <element signature="e#6561#6599#1" expanded="true" />
             <element signature="method#clear#0;class#LinkedListTest#0" />
-            <element signature="e#6596#6622#1" expanded="true" />
-            <element signature="e#6631#6657#1" expanded="true" />
-            <element signature="e#6666#6692#1" expanded="true" />
-            <element signature="e#6701#6727#1" expanded="true" />
-            <element signature="e#6736#6777#1" expanded="true" />
-            <element signature="e#6981#7001#0" expanded="true" />
-            <element signature="e#7038#7059#0" expanded="true" />
             <element signature="method#containsNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#7152#7178#1" expanded="true" />
-            <element signature="e#7187#7213#1" expanded="true" />
-            <element signature="e#7222#7248#1" expanded="true" />
-            <element signature="e#7257#7283#1" expanded="true" />
-            <element signature="e#7292#7333#1" expanded="true" />
-            <element signature="method#containsNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#7771#7812#1" expanded="true" />
-            <element signature="e#7685#7769#1" expanded="true" />
+            <element signature="method#containsEmpty#0;class#LinkedListTest#0" />
             <element signature="method#indexOfExists#0;class#LinkedListTest#0" />
-            <element signature="e#7863#7889#1" expanded="true" />
-            <element signature="e#7898#7924#1" expanded="true" />
-            <element signature="e#7933#7959#1" expanded="true" />
-            <element signature="e#7968#7994#1" expanded="true" />
-            <element signature="e#8003#8044#1" expanded="true" />
-            <element signature="e#8200#8283#1" expanded="true" />
             <element signature="method#indexOfDoesNotExist#0;class#LinkedListTest#0" />
-            <element signature="e#8382#8408#1" expanded="true" />
-            <element signature="e#8417#8443#1" expanded="true" />
-            <element signature="e#8452#8478#1" expanded="true" />
-            <element signature="e#8487#8513#1" expanded="true" />
-            <element signature="e#8522#8563#1" expanded="true" />
-            <element signature="e#8727#8762#1" expanded="true" />
             <element signature="method#indexOfEmptyList#0;class#LinkedListTest#0" />
-            <element signature="e#8504#8545#1" expanded="true" />
-            <element signature="e#8709#8744#1" expanded="true" />
-            <element signature="method#reverseIterativeManyElements#0;class#LinkedListTest#0" />
-            <element signature="e#9137#9163#1" expanded="true" />
-            <element signature="e#9172#9198#1" expanded="true" />
-            <element signature="e#9207#9233#1" expanded="true" />
-            <element signature="e#9242#9268#1" expanded="true" />
-            <element signature="e#9277#9318#1" expanded="true" />
-            <element signature="e#9460#9484#1" expanded="true" />
-            <element signature="e#9475#9529#1" expanded="true" />
-            <element signature="e#9584#9687#1" expanded="true" />
-            <element signature="e#9644#9682#0" expanded="true" />
-            <element signature="e#9644#9682#0" expanded="true" />
             <element signature="method#reverseIterativeOneElement#0;class#LinkedListTest#0" />
-            <element signature="e#9894#9920#1" expanded="true" />
-            <element signature="e#10035#10076#1" expanded="true" />
-            <element signature="e#10225#10262#1" expanded="true" />
-            <element signature="e#10286#10340#1" expanded="true" />
-            <element signature="e#10349#10392#1" expanded="true" />
-            <element signature="e#10141#10179#0" expanded="true" />
-            <element signature="e#10141#10179#0" expanded="true" />
             <element signature="method#reverseIterativeNoElements#0;class#LinkedListTest#0" />
-            <element signature="e#10818#10859#1" expanded="true" />
-            <element signature="e#11069#11123#1" expanded="true" />
-            <element signature="e#11132#11175#1" expanded="true" />
-            <element signature="e#10532#10570#0" expanded="true" />
-            <element signature="e#10532#10570#0" expanded="true" />
-            <element signature="e#10666#10688#0" expanded="true" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10613#10635#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#0;class#LinkedListTest#0" />
+            <element signature="e#11160#11180#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#1;class#LinkedListTest#0" />
+            <element signature="e#11778#11798#0" expanded="true" />
+            <element signature="method#reverseRecursiveNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#11896#11916#0" expanded="true" />
+            <element signature="method#removeFirstWithElements#0;class#LinkedListTest#0" />
+            <element signature="e#12012#12035#1" expanded="true" />
+            <element signature="e#12047#12073#1" expanded="true" />
+            <element signature="e#12082#12108#1" expanded="true" />
+            <element signature="e#12117#12143#1" expanded="true" />
+            <element signature="e#12020#12061#1" expanded="true" />
+            <element signature="e#12070#12095#1" expanded="true" />
+            <element signature="e#12119#12163#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#12088#12129#1" expanded="true" />
+            <element signature="e#12138#12186#1" expanded="true" />
+            <element signature="e#12187#12231#1" expanded="true" />
+            <element signature="method#removeFirstWithElements#1;class#LinkedListTest#0" />
+            <element signature="e#12899#12925#1" expanded="true" />
+            <element signature="e#12934#12960#1" expanded="true" />
+            <element signature="e#12969#12995#1" expanded="true" />
+            <element signature="e#13004#13030#1" expanded="true" />
+            <element signature="e#13039#13080#1" expanded="true" />
+            <element signature="e#13229#13255#1" expanded="true" />
+            <element signature="e#13279#13323#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#1;class#LinkedListTest#0" />
+            <element signature="e#13478#13519#1" expanded="true" />
+            <element signature="e#13528#13553#1" expanded="true" />
+            <element signature="e#13577#13621#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1284,34 +1478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#522#549#0" expanded="true" />
-            <element signature="e#522#549#0" expanded="true" />
-            <element signature="e#558#616#0" expanded="true" />
-            <element signature="e#575#585#0" expanded="true" />
-            <element signature="e#589#601#0" expanded="true" />
-            <element signature="e#558#616#0" expanded="true" />
-            <element signature="e#625#646#1" expanded="true" />
-            <element signature="e#637#645#0" expanded="true" />
-            <element signature="e#662#671#0" expanded="true" />
-            <element signature="e#675#689#0" expanded="true" />
-            <element signature="e#709#750#0" expanded="true" />
-            <element signature="e#724#733#0" expanded="true" />
-            <element signature="e#709#750#0" expanded="true" />
-            <element signature="e#735#749#0" expanded="true" />
-            <element signature="e#709#750#0" expanded="true" />
-            <element signature="e#830#839#0" expanded="true" />
-            <element signature="e#841#850#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1319,10 +1485,177 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="164" column="14" selection-start-line="164" selection-start-column="14" selection-end-line="164" selection-end-column="14" />
+          <folding>
+            <element signature="method#LinkedList#0;class#LinkedList#0" />
+            <element signature="method#addFirst#0;class#LinkedList#0" />
+            <element signature="e#300#460#0" expanded="true" />
+            <element signature="e#300#460#0" expanded="true" />
+            <element signature="e#375#392#1" expanded="true" />
+            <element signature="e#431#449#0" expanded="true" />
+            <element signature="e#431#449#0" expanded="true" />
+            <element signature="method#addLast#0;class#LinkedList#0" />
+            <element signature="e#513#764#0" expanded="true" />
+            <element signature="e#513#764#0" expanded="true" />
+            <element signature="e#607#624#1" expanded="true" />
+            <element signature="e#637#722#0" expanded="true" />
+            <element signature="e#644#658#0" expanded="true" />
+            <element signature="e#637#722#0" expanded="true" />
+            <element signature="e#693#707#0" expanded="true" />
+            <element signature="e#735#753#0" expanded="true" />
+            <element signature="e#735#753#0" expanded="true" />
+            <element signature="method#add#0;class#LinkedList#0" />
+            <element signature="e#829#846#1" expanded="true" />
+            <element signature="e#855#872#1" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#876#1275#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#988#1002#0" expanded="true" />
+            <element signature="e#971#1265#0" expanded="true" />
+            <element signature="e#1037#1051#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1087#1251#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1164#1178#0" expanded="true" />
+            <element signature="e#1136#1164#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1186#1204#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1284#1519#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1325#1343#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="e#1393#1507#0" expanded="true" />
+            <element signature="method#getLast#0;class#LinkedList#0" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1620#1674#0" expanded="true" />
+            <element signature="e#1706#1723#1" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1738#1752#0" expanded="true" />
+            <element signature="e#1709#1786#0" expanded="true" />
+            <element signature="e#1783#1797#0" expanded="true" />
+            <element signature="method#get#0;class#LinkedList#0" />
+            <element signature="e#1878#1895#1" expanded="true" />
+            <element signature="e#1904#1921#1" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1908#2365#0" expanded="true" />
+            <element signature="e#1967#1977#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#1986#2137#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2063#2114#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2179#2193#0" expanded="true" />
+            <element signature="e#2150#2355#0" expanded="true" />
+            <element signature="e#2228#2242#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2266#2341#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="e#2393#2504#0" expanded="true" />
+            <element signature="method#clear#0;class#LinkedList#0" />
+            <element signature="method#contains#0;class#LinkedList#0" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2737#2792#0" expanded="true" />
+            <element signature="e#2821#2838#1" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2854#2868#0" expanded="true" />
+            <element signature="e#2827#3009#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2876#2893#0" expanded="true" />
+            <element signature="e#2872#2999#0" expanded="true" />
+            <element signature="e#2990#3004#0" expanded="true" />
+            <element signature="method#indexOf#0;class#LinkedList#0" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3083#3135#0" expanded="true" />
+            <element signature="e#3164#3181#1" expanded="true" />
+            <element signature="e#3190#3207#1" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3222#3236#0" expanded="true" />
+            <element signature="e#3196#3387#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3264#3278#0" expanded="true" />
+            <element signature="e#3241#3318#0" expanded="true" />
+            <element signature="e#3381#3395#0" expanded="true" />
+            <element signature="method#traverse#0;class#LinkedList#0" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3453#3507#0" expanded="true" />
+            <element signature="e#3535#3552#1" expanded="true" />
+            <element signature="e#3561#3578#1" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3594#3608#0" expanded="true" />
+            <element signature="e#3568#3687#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3640#3654#0" expanded="true" />
+            <element signature="e#3621#3641#0" expanded="true" />
+            <element signature="e#3681#3695#0" expanded="true" />
+            <element signature="e#3723#3737#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3793#3842#0" expanded="true" />
+            <element signature="e#3903#3924#1" expanded="true" />
+            <element signature="e#3933#3950#1" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#3907#4064#0" expanded="true" />
+            <element signature="e#4003#4020#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="e#3977#3999#0" expanded="true" />
+            <element signature="method#reverseRecursive#0;class#LinkedList#0" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4143#4193#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4248#4263#0" expanded="true" />
+            <element signature="e#4202#4288#0" expanded="true" />
+            <element signature="e#4327#4341#0" expanded="true" />
+            <element signature="e#4356#4374#1" expanded="true" />
+            <element signature="e#4369#4384#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4378#4398#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="e#4408#4427#0" expanded="true" />
+            <element signature="method#removeFirst#0;class#LinkedList#0" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4476#4637#0" expanded="true" />
+            <element signature="e#4608#4625#1" expanded="true" />
+            <element signature="e#4645#4659#0" expanded="true" />
+            <element signature="method#removeLast#0;class#LinkedList#0" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4684#4992#0" expanded="true" />
+            <element signature="e#4820#4837#1" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4857#4871#0" expanded="true" />
+            <element signature="e#4857#4881#0" expanded="true" />
+            <element signature="e#4788#4883#0" expanded="true" />
+            <element signature="e#4906#4920#0" expanded="true" />
+            <element signature="e#4958#4975#1" expanded="true" />
+            <element signature="e#4967#4981#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
+            <element signature="e#4937#4955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="787">
-          <caret line="361" column="5" lean-forward="true" selection-start-line="361" selection-start-column="5" selection-end-line="361" selection-end-column="5" />
+        <state relative-caret-position="355">
+          <caret line="331" column="54" lean-forward="true" selection-start-line="331" selection-start-column="54" selection-end-line="331" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#addFirst#0;class#LinkedListTest#0" />
@@ -1332,227 +1665,54 @@
             <element signature="method#addAtPosLast#0;class#LinkedListTest#0" />
             <element signature="method#addAtPosOutOfBoundaries#0;class#LinkedListTest#0" />
             <element signature="method#getFirstNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#3873#3905#1" expanded="true" />
-            <element signature="e#3883#3910#0" expanded="true" />
-            <element signature="e#3883#3910#0" expanded="true" />
-            <element signature="e#3950#3992#1" expanded="true" />
-            <element signature="e#3943#3964#0" expanded="true" />
-            <element signature="e#4019#4052#0" expanded="true" />
-            <element signature="e#4019#4052#0" expanded="true" />
-            <element signature="method#getFirstNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#4262#4303#1" expanded="true" />
-            <element signature="e#4511#4553#1" expanded="true" />
-            <element signature="e#4539#4560#0" expanded="true" />
+            <element signature="method#getFirstEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getLastNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#4670#4703#1" expanded="true" />
-            <element signature="e#4764#4806#1" expanded="true" />
-            <element signature="e#4737#4757#0" expanded="true" />
-            <element signature="e#4777#4810#0" expanded="true" />
-            <element signature="e#4777#4810#0" expanded="true" />
-            <element signature="method#getLastNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#5236#5277#1" expanded="true" />
-            <element signature="e#5256#5276#0" expanded="true" />
+            <element signature="method#getLastEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#5135#5161#1" expanded="true" />
-            <element signature="e#5170#5196#1" expanded="true" />
-            <element signature="e#5205#5230#1" expanded="true" />
-            <element signature="e#5231#5256#1" expanded="true" />
-            <element signature="e#5265#5290#1" expanded="true" />
-            <element signature="e#5239#5280#1" expanded="true" />
-            <element signature="e#5394#5427#1" expanded="true" />
-            <element signature="e#5573#5600#0" expanded="true" />
-            <element signature="e#5573#5600#0" expanded="true" />
-            <element signature="e#5488#5530#1" expanded="true" />
-            <element signature="e#5705#5738#0" expanded="true" />
-            <element signature="e#5705#5738#0" expanded="true" />
-            <element signature="method#getWhenEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#5971#6012#1" expanded="true" />
-            <element signature="e#6290#6328#1" expanded="true" />
+            <element signature="method#getEmpty#0;class#LinkedListTest#0" />
             <element signature="method#getOutOfBoundaries#0;class#LinkedListTest#0" />
-            <element signature="e#6067#6093#1" expanded="true" />
-            <element signature="e#6102#6128#1" expanded="true" />
-            <element signature="e#6137#6163#1" expanded="true" />
-            <element signature="e#6172#6198#1" expanded="true" />
-            <element signature="e#6242#6283#1" expanded="true" />
-            <element signature="e#6561#6599#1" expanded="true" />
             <element signature="method#clear#0;class#LinkedListTest#0" />
-            <element signature="e#6596#6622#1" expanded="true" />
-            <element signature="e#6631#6657#1" expanded="true" />
-            <element signature="e#6666#6692#1" expanded="true" />
-            <element signature="e#6701#6727#1" expanded="true" />
-            <element signature="e#6736#6777#1" expanded="true" />
-            <element signature="e#6981#7001#0" expanded="true" />
-            <element signature="e#7038#7059#0" expanded="true" />
             <element signature="method#containsNotEmpty#0;class#LinkedListTest#0" />
-            <element signature="e#7152#7178#1" expanded="true" />
-            <element signature="e#7187#7213#1" expanded="true" />
-            <element signature="e#7222#7248#1" expanded="true" />
-            <element signature="e#7257#7283#1" expanded="true" />
-            <element signature="e#7292#7333#1" expanded="true" />
-            <element signature="method#containsNotEmpty#1;class#LinkedListTest#0" />
-            <element signature="e#7771#7812#1" expanded="true" />
-            <element signature="e#7685#7769#1" expanded="true" />
+            <element signature="method#containsEmpty#0;class#LinkedListTest#0" />
             <element signature="method#indexOfExists#0;class#LinkedListTest#0" />
-            <element signature="e#7863#7889#1" expanded="true" />
-            <element signature="e#7898#7924#1" expanded="true" />
-            <element signature="e#7933#7959#1" expanded="true" />
-            <element signature="e#7968#7994#1" expanded="true" />
-            <element signature="e#8003#8044#1" expanded="true" />
-            <element signature="e#8200#8283#1" expanded="true" />
             <element signature="method#indexOfDoesNotExist#0;class#LinkedListTest#0" />
-            <element signature="e#8382#8408#1" expanded="true" />
-            <element signature="e#8417#8443#1" expanded="true" />
-            <element signature="e#8452#8478#1" expanded="true" />
-            <element signature="e#8487#8513#1" expanded="true" />
-            <element signature="e#8522#8563#1" expanded="true" />
-            <element signature="e#8727#8762#1" expanded="true" />
             <element signature="method#indexOfEmptyList#0;class#LinkedListTest#0" />
-            <element signature="e#8504#8545#1" expanded="true" />
-            <element signature="e#8709#8744#1" expanded="true" />
-            <element signature="method#reverseIterativeManyElements#0;class#LinkedListTest#0" />
-            <element signature="e#9137#9163#1" expanded="true" />
-            <element signature="e#9172#9198#1" expanded="true" />
-            <element signature="e#9207#9233#1" expanded="true" />
-            <element signature="e#9242#9268#1" expanded="true" />
-            <element signature="e#9277#9318#1" expanded="true" />
-            <element signature="e#9460#9484#1" expanded="true" />
-            <element signature="e#9475#9529#1" expanded="true" />
-            <element signature="e#9584#9687#1" expanded="true" />
-            <element signature="e#9644#9682#0" expanded="true" />
-            <element signature="e#9644#9682#0" expanded="true" />
             <element signature="method#reverseIterativeOneElement#0;class#LinkedListTest#0" />
-            <element signature="e#9894#9920#1" expanded="true" />
-            <element signature="e#10035#10076#1" expanded="true" />
-            <element signature="e#10225#10262#1" expanded="true" />
-            <element signature="e#10286#10340#1" expanded="true" />
-            <element signature="e#10349#10392#1" expanded="true" />
-            <element signature="e#10141#10179#0" expanded="true" />
-            <element signature="e#10141#10179#0" expanded="true" />
             <element signature="method#reverseIterativeNoElements#0;class#LinkedListTest#0" />
-            <element signature="e#10818#10859#1" expanded="true" />
-            <element signature="e#11069#11123#1" expanded="true" />
-            <element signature="e#11132#11175#1" expanded="true" />
-            <element signature="e#10532#10570#0" expanded="true" />
-            <element signature="e#10532#10570#0" expanded="true" />
-            <element signature="e#10666#10688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="138" column="27" lean-forward="true" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
-          <folding>
-            <element signature="method#LinkedList#0;class#LinkedList#0" />
-            <element signature="method#addFirst#0;class#LinkedList#0" />
-            <element signature="e#300#460#0" expanded="true" />
-            <element signature="e#300#460#0" expanded="true" />
-            <element signature="e#249#266#1" expanded="true" />
-            <element signature="e#431#449#0" expanded="true" />
-            <element signature="e#431#449#0" expanded="true" />
-            <element signature="method#addLast#0;class#LinkedList#0" />
-            <element signature="e#513#764#0" expanded="true" />
-            <element signature="e#513#764#0" expanded="true" />
-            <element signature="e#481#498#1" expanded="true" />
-            <element signature="e#637#722#0" expanded="true" />
-            <element signature="e#518#532#0" expanded="true" />
-            <element signature="e#637#722#0" expanded="true" />
-            <element signature="e#567#581#0" expanded="true" />
-            <element signature="e#735#753#0" expanded="true" />
-            <element signature="e#735#753#0" expanded="true" />
-            <element signature="method#add#0;class#LinkedList#0" />
-            <element signature="e#703#720#1" expanded="true" />
-            <element signature="e#729#746#1" expanded="true" />
-            <element signature="e#881#1295#0" expanded="true" />
-            <element signature="e#881#1295#0" expanded="true" />
-            <element signature="e#981#1285#0" expanded="true" />
-            <element signature="e#870#884#0" expanded="true" />
-            <element signature="e#981#1285#0" expanded="true" />
-            <element signature="e#919#933#0" expanded="true" />
-            <element signature="e#1097#1271#0" expanded="true" />
-            <element signature="e#1097#1271#0" expanded="true" />
-            <element signature="e#1146#1179#0" expanded="true" />
-            <element signature="e#1046#1060#0" expanded="true" />
-            <element signature="e#1146#1179#0" expanded="true" />
-            <element signature="e#1201#1224#0" expanded="true" />
-            <element signature="e#1201#1224#0" expanded="true" />
-            <element signature="e#1304#1542#0" expanded="true" />
-            <element signature="e#1304#1542#0" expanded="true" />
-            <element signature="e#1345#1368#0" expanded="true" />
-            <element signature="e#1345#1368#0" expanded="true" />
-            <element signature="e#1433#1443#0" expanded="true" />
-            <element signature="e#1643#1697#0" expanded="true" />
-            <element signature="e#1643#1697#0" expanded="true" />
-            <element signature="e#1849#1866#1" expanded="true" />
-            <element signature="e#1834#1848#0" expanded="true" />
-            <element signature="e#1879#1893#0" expanded="true" />
-            <element signature="method#get#0;class#LinkedList#0" />
-            <element signature="e#2032#2049#1" expanded="true" />
-            <element signature="e#2049#2066#1" expanded="true" />
-            <element signature="e#1930#2387#0" expanded="true" />
-            <element signature="e#1930#2387#0" expanded="true" />
-            <element signature="e#2062#2072#1" expanded="true" />
-            <element signature="e#2008#2159#0" expanded="true" />
-            <element signature="e#2008#2159#0" expanded="true" />
-            <element signature="e#2208#2257#0" expanded="true" />
-            <element signature="e#2208#2257#0" expanded="true" />
-            <element signature="e#2172#2377#0" expanded="true" />
-            <element signature="e#2169#2183#0" expanded="true" />
-            <element signature="e#2172#2377#0" expanded="true" />
-            <element signature="e#2218#2232#0" expanded="true" />
-            <element signature="e#2288#2363#0" expanded="true" />
-            <element signature="e#2288#2363#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2430#2440#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="e#2415#2524#0" expanded="true" />
-            <element signature="method#clear#0;class#LinkedList#0" />
-            <element signature="method#contains#0;class#LinkedList#0" />
-            <element signature="e#2757#2812#0" expanded="true" />
-            <element signature="e#2757#2812#0" expanded="true" />
-            <element signature="e#2695#2712#1" expanded="true" />
-            <element signature="e#2847#3029#0" expanded="true" />
-            <element signature="e#2728#2742#0" expanded="true" />
-            <element signature="e#2847#3029#0" expanded="true" />
-            <element signature="e#2892#3019#0" expanded="true" />
-            <element signature="e#2896#2913#0" expanded="true" />
-            <element signature="e#2896#2913#0" expanded="true" />
-            <element signature="e#2892#3019#0" expanded="true" />
-            <element signature="e#2864#2878#0" expanded="true" />
-            <element signature="method#indexOf#0;class#LinkedList#0" />
-            <element signature="e#3103#3155#0" expanded="true" />
-            <element signature="e#3103#3155#0" expanded="true" />
-            <element signature="e#3038#3055#1" expanded="true" />
-            <element signature="e#3064#3081#1" expanded="true" />
-            <element signature="e#3100#3114#0" expanded="true" />
-            <element signature="e#3260#3337#0" expanded="true" />
-            <element signature="e#3142#3156#0" expanded="true" />
-            <element signature="e#3260#3337#0" expanded="true" />
-            <element signature="e#3235#3249#0" expanded="true" />
-            <element signature="method#traverse#0;class#LinkedList#0" />
-            <element signature="e#3472#3526#0" expanded="true" />
-            <element signature="e#3472#3526#0" expanded="true" />
-            <element signature="e#3530#3547#1" expanded="true" />
-            <element signature="e#2502#2519#1" expanded="true" />
-            <element signature="e#3587#3706#0" expanded="true" />
-            <element signature="e#2535#2549#0" expanded="true" />
-            <element signature="e#3587#3706#0" expanded="true" />
-            <element signature="e#3640#3660#0" expanded="true" />
-            <element signature="e#2581#2595#0" expanded="true" />
-            <element signature="e#3640#3660#0" expanded="true" />
-            <element signature="e#2622#2636#0" expanded="true" />
-            <element signature="e#2664#2678#0" expanded="true" />
-            <element signature="method#reverseIterative#0;class#LinkedList#0" />
-            <element signature="e#3811#3831#1" expanded="true" />
-            <element signature="e#3840#3861#1" expanded="true" />
-            <element signature="e#3808#3825#1" expanded="true" />
-            <element signature="e#3940#3957#0" expanded="true" />
-            <element signature="e#4034#4059#0" expanded="true" />
-            <element signature="e#4034#4059#0" expanded="true" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10395#10433#0" expanded="true" />
+            <element signature="e#10613#10635#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#0;class#LinkedListTest#0" />
+            <element signature="e#11160#11180#0" expanded="true" />
+            <element signature="method#reverseRecursiveManyElements#1;class#LinkedListTest#0" />
+            <element signature="e#11778#11798#0" expanded="true" />
+            <element signature="method#reverseRecursiveNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#11946#11966#0" expanded="true" />
+            <element signature="e#11896#11916#0" expanded="true" />
+            <element signature="method#removeFirstWithElements#0;class#LinkedListTest#0" />
+            <element signature="e#12012#12035#1" expanded="true" />
+            <element signature="e#12047#12073#1" expanded="true" />
+            <element signature="e#12082#12108#1" expanded="true" />
+            <element signature="e#12117#12143#1" expanded="true" />
+            <element signature="e#12020#12061#1" expanded="true" />
+            <element signature="e#12070#12095#1" expanded="true" />
+            <element signature="e#12119#12163#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#0;class#LinkedListTest#0" />
+            <element signature="e#12088#12129#1" expanded="true" />
+            <element signature="e#12138#12186#1" expanded="true" />
+            <element signature="e#12187#12231#1" expanded="true" />
+            <element signature="method#removeFirstWithElements#1;class#LinkedListTest#0" />
+            <element signature="e#12899#12925#1" expanded="true" />
+            <element signature="e#12934#12960#1" expanded="true" />
+            <element signature="e#12969#12995#1" expanded="true" />
+            <element signature="e#13004#13030#1" expanded="true" />
+            <element signature="e#13039#13080#1" expanded="true" />
+            <element signature="e#13229#13255#1" expanded="true" />
+            <element signature="e#13279#13323#1" expanded="true" />
+            <element signature="method#removeFirstNoElements#1;class#LinkedListTest#0" />
+            <element signature="e#13478#13519#1" expanded="true" />
+            <element signature="e#13528#13553#1" expanded="true" />
+            <element signature="e#13577#13621#1" expanded="true" />
           </folding>
         </state>
       </provider>

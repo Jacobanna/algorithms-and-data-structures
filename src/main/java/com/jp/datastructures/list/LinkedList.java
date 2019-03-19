@@ -37,27 +37,27 @@ public class LinkedList {
         }
     }
 
-    public void add(int index, Node nodeAtPos) {
+    public void add(int index, Node node) {
         Node temp = head;
         int position = 0;
         if (index == 0) {
-            addFirst(nodeAtPos);
+            addFirst(node);
             return;
         } else {
             while (temp.getNext() != null) {
                 temp = temp.getNext();
                 position++;
                 if (index == position + 1) {
-                    nodeAtPos.setNext(temp.getNext());
-                    temp.setNext(nodeAtPos);
+                    node.setNext(temp.getNext());
+                    temp.setNext(node);
                     return;
                 }
             }
         }
         if (index == position + 1) {
-            temp.setNext(nodeAtPos);
+            temp.setNext(node);
         } else {
-            System.out.println("List has " + (position+1) + " elements, possible indexes to add are: " + 0 + "-" +
+            System.out.println("List has " + (position + 1) + " elements, possible indexes to add are: " + 0 + "-" +
                     position);
         }
     }
@@ -71,7 +71,7 @@ public class LinkedList {
             return null;
         }
         Node temp = head;
-        while(temp.getNext() != null) {
+        while (temp.getNext() != null) {
             temp = temp.getNext();
         }
         return temp;
@@ -95,7 +95,7 @@ public class LinkedList {
                 }
             }
         }
-        System.out.println("List has " + (position+1) + " elements, possible indexes to get are : " + 0 + "-" +
+        System.out.println("List has " + (position + 1) + " elements, possible indexes to get are : " + 0 + "-" +
                 position);
         return null;
     }
@@ -126,7 +126,7 @@ public class LinkedList {
         }
         Node temp = head;
         int position = 0;
-        while(temp.getNext() != null) {
+        while (temp.getNext() != null) {
             if (temp.getData() == value) {
                 return position;
             }
@@ -151,13 +151,13 @@ public class LinkedList {
     }
 
     public Node reverseIterative() {
-        if(head == null) {
+        if (head == null) {
             return null;
         }
         Node current = head;
         Node previous = null;
         Node next = null;
-        while(current != null) {
+        while (current != null) {
             next = current.getNext();
             current.setNext(previous);
             previous = current;
@@ -166,12 +166,41 @@ public class LinkedList {
         return previous;
     }
 
-    public Node reverseRecursive() {
-        Node temp1 = head;
-        if (temp1.getNext() == null) {
-            head = temp1;
-            return head;
+    public void reverseRecursive(Node node1) {
+        if (node1 == null) {
+            return;
         }
-        reverseRecursive()
+        if (node1.getNext() == null) {
+            head = node1;
+            return;
+        }
+        reverseRecursive(node1.getNext());
+        Node node2 = node1.getNext();
+        node2.setNext(node1);
+        node1.setNext(null);
+    }
+
+    public Node removeFirst() {
+        if (head == null) {
+            return null;
+        } else {
+            Node temp = head;
+            head = head.getNext();
+            return temp;
+        }
+    }
+
+    public Node removeLast() {
+        if (head == null) {
+            return null;
+        } else {
+            Node temp = head;
+            while (temp.getNext().getNext() != null) {
+                temp = temp.getNext();
+            }
+            Node temp2 = temp.getNext();
+            temp.setNext(null);
+            return temp2;
+        }
     }
 }
