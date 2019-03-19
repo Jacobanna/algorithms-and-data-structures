@@ -51,7 +51,7 @@ public class LinkedListTest {
         linkedList.addLast(node2);
         linkedList.addLast(node3);
         linkedList.addLast(node4);
-        linkedList.addAtPos(0, node5);
+        linkedList.add(0, node5);
         //Then
         Assert.assertEquals(expectedList, linkedList.traverse());
     }
@@ -71,7 +71,7 @@ public class LinkedListTest {
         linkedList.addLast(node2);
         linkedList.addLast(node3);
         linkedList.addLast(node4);
-        linkedList.addAtPos(3, node5);
+        linkedList.add(3, node5);
         //Then
         Assert.assertEquals(expectedList, linkedList.traverse());
     }
@@ -91,7 +91,7 @@ public class LinkedListTest {
         linkedList.addLast(node2);
         linkedList.addLast(node3);
         linkedList.addLast(node4);
-        linkedList.addAtPos(4, node5);
+        linkedList.add(4, node5);
         //Then
         Assert.assertEquals(expectedList, linkedList.traverse());
     }
@@ -111,9 +111,205 @@ public class LinkedListTest {
         linkedList.addLast(node2);
         linkedList.addLast(node3);
         linkedList.addLast(node4);
-        linkedList.addAtPos(-3, node5);
-        linkedList.addAtPos(9, node5);
+        linkedList.add(-3, node5);
+        linkedList.add(9, node5);
         //Then
         Assert.assertEquals(expectedList, linkedList.traverse());
+    }
+
+    @Test
+    public void getFirstNotEmpty() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(33);
+        Node node3 = new Node(1);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        Node expectedNode = new Node(15);
+        expectedNode.setNext(node2);
+        //When
+        Node returnedNode = linkedList.getFirst();
+        //Then
+        Assert.assertTrue(expectedNode.equals(returnedNode));
+    }
+
+    @Test
+    public void getFirstEmpty() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        Node returnedNode = linkedList.getFirst();
+        //Then
+        Assert.assertTrue(returnedNode == null);
+    }
+
+    @Test
+    public void getLastNotEmpty() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(33);
+        Node node3 = new Node(1);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        Node expectedNode = new Node(1);
+        //When
+        Node returnedNode = linkedList.getLast();
+        //Then
+        Assert.assertTrue(expectedNode.equals(returnedNode));
+    }
+
+    @Test
+    public void getLastEmpty() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        Node returnedNode = linkedList.getLast();
+        //Then
+        Assert.assertTrue(returnedNode == null);
+    }
+
+    @Test
+    public void getNotEmpty() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        Node node5 = new Node(19);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        linkedList.addLast(node5);
+        Node expectedNode = new Node(81);
+        expectedNode.setNext(node5);
+        //When
+        Node returnedNode = linkedList.get(3);
+        //Then
+        Assert.assertTrue(expectedNode.equals(returnedNode));
+    }
+
+    @Test
+    public void getEmpty() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        Node returnedNode = linkedList.get(3);
+        //Then
+        Assert.assertTrue(returnedNode == null);
+    }
+
+    @Test
+    public void getOutOfBoundaries() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        //When
+        Node returnedNode = linkedList.get(-2);
+        //Then
+        Assert.assertTrue(returnedNode == null);
+    }
+
+    @Test
+    public void clear() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        //When
+        linkedList.clear();
+        //Then
+        Assert.assertTrue(linkedList.getLast() == null);
+        Assert.assertTrue(linkedList.getFirst() == null);
+    }
+
+    @Test
+    public void containsNotEmpty() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        //When&Then
+        Assert.assertTrue(linkedList.contains(node3));
+    }
+
+    @Test
+    public void containsEmpty() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        Node node = new Node(15);
+        // Then
+        Assert.assertFalse(linkedList.contains(node));
+    }
+
+    @Test
+    public void indexOfExists() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        //When
+        int value = linkedList.indexOf(33);
+        // Then
+        Assert.assertEquals(2, value);
+    }
+
+    @Test
+    public void indexOfDoesNotExist() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(34);
+        Node node3 = new Node(33);
+        Node node4 = new Node(81);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        //When
+        int value = linkedList.indexOf(101);
+        // Then
+        Assert.assertEquals(-1, value);
+    }
+
+    @Test
+    public void indexOfEmptyList() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        int value = linkedList.indexOf(21);
+        // Then
+        Assert.assertEquals(-1, value);
     }
 }
