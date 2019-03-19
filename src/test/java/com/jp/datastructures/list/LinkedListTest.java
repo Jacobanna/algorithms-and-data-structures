@@ -312,4 +312,52 @@ public class LinkedListTest {
         // Then
         Assert.assertEquals(-1, value);
     }
+
+    @Test
+    public void reverseIterativeManyElements() {
+        //Given
+        Node node1 = new Node(15);
+        Node node2 = new Node(30);
+        Node node3 = new Node(50);
+        Node node4 = new Node(100);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        String expectedList = "100 50 30 15";
+        //When
+        Node reversedListHead = linkedList.reverseIterative();
+        LinkedList reversedList = new LinkedList();
+        reversedList.setHead(reversedListHead);
+        //Then
+        Assert.assertEquals(expectedList, reversedList.traverse());
+    }
+
+    @Test
+    public void reverseIterativeOneElement() {
+        //Given
+        Node node1 = new Node(15);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        String expectedList = "15";
+        //When
+        Node reversedListHead = linkedList.reverseIterative();
+        LinkedList reversedList = new LinkedList();
+        reversedList.setHead(reversedListHead);
+        //Then
+        Assert.assertEquals(expectedList, reversedList.traverse());
+    }
+
+    @Test
+    public void reverseIterativeNoElements() {
+        //Given
+        LinkedList linkedList = new LinkedList();
+        //When
+        Node reversedListHead = linkedList.reverseIterative();
+        LinkedList reversedList = new LinkedList();
+        reversedList.setHead(reversedListHead);
+        //Then
+        Assert.assertTrue(reversedList.getHead() == null);
+    }
 }

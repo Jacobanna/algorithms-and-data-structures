@@ -6,6 +6,14 @@ public class LinkedList {
     public LinkedList() {
     }
 
+    public void setHead(Node head) {
+        this.head = head;
+    }
+
+    public Node getHead() {
+        return head;
+    }
+
     public void addFirst(Node first) {
         if (head == null) {
             head = first;
@@ -129,6 +137,9 @@ public class LinkedList {
     }
 
     public String traverse() {
+        if (head == null) {
+            return null;
+        }
         Node temp = head;
         String list = "";
         while (temp.getNext() != null) {
@@ -137,5 +148,30 @@ public class LinkedList {
         }
         list += temp.getData();
         return list;
+    }
+
+    public Node reverseIterative() {
+        if(head == null) {
+            return null;
+        }
+        Node current = head;
+        Node previous = null;
+        Node next = null;
+        while(current != null) {
+            next = current.getNext();
+            current.setNext(previous);
+            previous = current;
+            current = next;
+        }
+        return previous;
+    }
+
+    public Node reverseRecursive() {
+        Node temp1 = head;
+        if (temp1.getNext() == null) {
+            head = temp1;
+            return head;
+        }
+        reverseRecursive()
     }
 }
