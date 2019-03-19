@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="" />
+    <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/list/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/list/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/jp/datastructures/list/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/jp/datastructures/list/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -12,85 +19,129 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="Node.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="68">
-                    <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="443">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <caret line="62" column="116" selection-start-line="62" selection-start-column="116" selection-end-line="62" selection-end-column="116" />
               <folding>
                 <element signature="e#174#334#0" expanded="true" />
                 <element signature="e#174#334#0" expanded="true" />
-                <element signature="e#267#284#1" expanded="true" />
+                <element signature="e#249#266#1" expanded="true" />
                 <element signature="e#305#323#0" expanded="true" />
                 <element signature="e#305#323#0" expanded="true" />
                 <element signature="e#387#638#0" expanded="true" />
                 <element signature="e#387#638#0" expanded="true" />
-                <element signature="e#445#462#1" expanded="true" />
+                <element signature="e#481#498#1" expanded="true" />
                 <element signature="e#511#596#0" expanded="true" />
-                <element signature="e#482#496#0" expanded="true" />
+                <element signature="e#518#532#0" expanded="true" />
                 <element signature="e#511#596#0" expanded="true" />
-                <element signature="e#531#545#0" expanded="true" />
+                <element signature="e#567#581#0" expanded="true" />
                 <element signature="e#609#627#0" expanded="true" />
                 <element signature="e#609#627#0" expanded="true" />
-                <element signature="e#695#712#1" expanded="true" />
-                <element signature="e#721#740#1" expanded="true" />
+                <element signature="e#685#702#1" expanded="true" />
+                <element signature="e#711#728#1" expanded="true" />
                 <element signature="e#737#856#0" expanded="true" />
-                <element signature="e#374#388#0" expanded="true" />
+                <element signature="e#744#758#0" expanded="true" />
                 <element signature="e#737#856#0" expanded="true" />
                 <element signature="e#790#810#0" expanded="true" />
-                <element signature="e#795#809#0" expanded="true" />
+                <element signature="e#790#804#0" expanded="true" />
                 <element signature="e#790#810#0" expanded="true" />
-                <element signature="e#493#507#0" expanded="true" />
-                <element signature="e#885#899#0" expanded="true" />
+                <element signature="e#831#845#0" expanded="true" />
+                <element signature="e#873#887#0" expanded="true" />
+                <element signature="e#978#995#1" expanded="true" />
+                <element signature="e#1004#1021#1" expanded="true" />
+                <element signature="e#1031#1445#0" expanded="true" />
+                <element signature="e#1031#1445#0" expanded="true" />
+                <element signature="e#1131#1435#0" expanded="true" />
+                <element signature="e#1111#1125#0" expanded="true" />
+                <element signature="e#1131#1435#0" expanded="true" />
+                <element signature="e#1160#1174#0" expanded="true" />
+                <element signature="e#1247#1421#0" expanded="true" />
+                <element signature="e#1247#1421#0" expanded="true" />
+                <element signature="e#1296#1329#0" expanded="true" />
+                <element signature="e#1297#1311#0" expanded="true" />
+                <element signature="e#1296#1329#0" expanded="true" />
+                <element signature="e#1351#1374#0" expanded="true" />
+                <element signature="e#1351#1374#0" expanded="true" />
+                <element signature="e#1454#1697#0" expanded="true" />
+                <element signature="e#1454#1697#0" expanded="true" />
+                <element signature="e#1495#1518#0" expanded="true" />
+                <element signature="e#1495#1518#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
+                <element signature="e#1583#1593#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
+                <element signature="e#1568#1685#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="290">
+              <caret line="107" column="40" selection-start-line="107" selection-start-column="40" selection-end-line="107" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#193#219#1" expanded="true" />
-                <element signature="e#228#254#1" expanded="true" />
-                <element signature="e#263#289#1" expanded="true" />
-                <element signature="e#227#254#1" expanded="true" />
-                <element signature="e#337#410#1" expanded="true" />
-                <element signature="e#659#685#1" expanded="true" />
-                <element signature="e#694#720#1" expanded="true" />
-                <element signature="e#729#754#1" expanded="true" />
-                <element signature="e#763#804#1" expanded="true" />
-                <element signature="e#813#845#1" expanded="true" />
+                <element signature="e#183#209#1" expanded="true" />
+                <element signature="e#218#244#1" expanded="true" />
+                <element signature="e#253#278#1" expanded="true" />
+                <element signature="e#287#328#1" expanded="true" />
+                <element signature="e#337#369#1" expanded="true" />
+                <element signature="e#647#673#1" expanded="true" />
+                <element signature="e#682#708#1" expanded="true" />
+                <element signature="e#717#743#1" expanded="true" />
+                <element signature="e#752#793#1" expanded="true" />
+                <element signature="e#802#835#1" expanded="true" />
+                <element signature="e#1107#1133#1" expanded="true" />
+                <element signature="e#1142#1168#1" expanded="true" />
+                <element signature="e#1177#1203#1" expanded="true" />
+                <element signature="e#1204#1230#1" expanded="true" />
+                <element signature="e#1239#1265#1" expanded="true" />
+                <element signature="e#1212#1253#1" expanded="true" />
+                <element signature="e#1367#1392#1" expanded="true" />
+                <element signature="e#1730#1756#1" expanded="true" />
+                <element signature="e#1765#1791#1" expanded="true" />
+                <element signature="e#1800#1826#1" expanded="true" />
+                <element signature="e#1835#1861#1" expanded="true" />
+                <element signature="e#1870#1895#1" expanded="true" />
+                <element signature="e#1904#1945#1" expanded="true" />
+                <element signature="e#1954#1992#1" expanded="true" />
+                <element signature="e#2340#2366#1" expanded="true" />
+                <element signature="e#2375#2401#1" expanded="true" />
+                <element signature="e#2410#2436#1" expanded="true" />
+                <element signature="e#2445#2471#1" expanded="true" />
+                <element signature="e#2480#2505#1" expanded="true" />
+                <element signature="e#2514#2555#1" expanded="true" />
+                <element signature="e#2564#2602#1" expanded="true" />
+                <element signature="e#2952#2978#1" expanded="true" />
+                <element signature="e#2987#3013#1" expanded="true" />
+                <element signature="e#3022#3048#1" expanded="true" />
+                <element signature="e#3057#3083#1" expanded="true" />
+                <element signature="e#3092#3117#1" expanded="true" />
+                <element signature="e#3126#3167#1" expanded="true" />
+                <element signature="e#3176#3214#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -104,6 +155,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -403,8 +457,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/jp/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -419,14 +473,17 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -506,6 +563,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="code style&#9;ACTION&#9;ChangeCodeStyleScheme" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -515,6 +573,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -536,22 +595,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTest.testAddLast">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jp.Main" />
-      <module name="algorithms-and-data-structures_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LinkedListTest.addAtPosOutOfBoundaries">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LinkedListTest.testAddFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListTest.addAtPos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -563,7 +611,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
-      <option name="METHOD_NAME" value="testAddFirst" />
+      <option name="METHOD_NAME" value="addAtPos" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -574,7 +622,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListTest.testAddLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListTest.addAtPosFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -586,7 +634,76 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
-      <option name="METHOD_NAME" value="testAddLast" />
+      <option name="METHOD_NAME" value="addAtPosFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.addAtPosLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
+      <option name="METHOD_NAME" value="addAtPosLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.addAtPosMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
+      <option name="METHOD_NAME" value="addAtPosMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.addAtPosOutOfBoundaries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.list" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.list.LinkedListTest" />
+      <option name="METHOD_NAME" value="addAtPosOutOfBoundaries" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -636,15 +753,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.LinkedListTest.testAddFirst" />
-      <item itemvalue="JUnit.LinkedListTest.testAddLast" />
+      <item itemvalue="JUnit.LinkedListTest.addAtPos" />
+      <item itemvalue="JUnit.LinkedListTest.addAtPosFirst" />
+      <item itemvalue="JUnit.LinkedListTest.addAtPosMiddle" />
+      <item itemvalue="JUnit.LinkedListTest.addAtPosLast" />
+      <item itemvalue="JUnit.LinkedListTest.addAtPosOutOfBoundaries" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedListTest.testAddLast" />
-        <item itemvalue="JUnit.LinkedListTest.testAddFirst" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LinkedListTest.addAtPosOutOfBoundaries" />
+        <item itemvalue="JUnit.LinkedListTest.addAtPosLast" />
+        <item itemvalue="JUnit.LinkedListTest.addAtPosMiddle" />
+        <item itemvalue="JUnit.LinkedListTest.addAtPosFirst" />
+        <item itemvalue="JUnit.LinkedListTest.addAtPos" />
       </list>
     </recent_temporary>
   </component>
@@ -658,79 +779,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552929692950</updated>
-      <workItem from="1552929698408" duration="5294000" />
+      <workItem from="1552929698408" duration="5505000" />
+      <workItem from="1552999825781" duration="2083000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 13m 06s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPos - 2019.03.19 at 15h 18m 48s.xml">
+      <configuration name="LinkedListTest.addAtPos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 15m 40s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPos - 2019.03.19 at 15h 18m 59s.xml">
+      <configuration name="LinkedListTest.addAtPos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 38m 50s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPos - 2019.03.19 at 15h 19m 02s.xml">
+      <configuration name="LinkedListTest.addAtPos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddLast - 2019.03.18 at 20h 45m 59s.xml">
-      <configuration name="LinkedListTest.testAddLast" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPos - 2019.03.19 at 15h 19m 46s.xml">
+      <configuration name="LinkedListTest.addAtPos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 46m 09s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPos - 2019.03.19 at 15h 19m 53s.xml">
+      <configuration name="LinkedListTest.addAtPos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 46m 33s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPosFirst - 2019.03.19 at 15h 20m 41s.xml">
+      <configuration name="LinkedListTest.addAtPosFirst" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddFirst - 2019.03.18 at 20h 46m 46s.xml">
-      <configuration name="LinkedListTest.testAddFirst" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPosFirst - 2019.03.19 at 15h 22m 54s.xml">
+      <configuration name="LinkedListTest.addAtPosFirst" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddLast - 2019.03.18 at 20h 46m 52s.xml">
-      <configuration name="LinkedListTest.testAddLast" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPosFirst - 2019.03.19 at 15h 23m 05s.xml">
+      <configuration name="LinkedListTest.addAtPosFirst" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddLast - 2019.03.18 at 20h 48m 10s.xml">
-      <configuration name="LinkedListTest.testAddLast" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPosMiddle - 2019.03.19 at 15h 24m 01s.xml">
+      <configuration name="LinkedListTest.addAtPosMiddle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListTest_testAddLast - 2019.03.18 at 20h 49m 11s.xml">
-      <configuration name="LinkedListTest.testAddLast" configurationId="JUnit" />
+    <history-entry file="LinkedListTest_addAtPosLast - 2019.03.19 at 15h 24m 37s.xml">
+      <configuration name="LinkedListTest.addAtPosLast" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5294000" />
+    <option name="totallyTimeSpent" value="7588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
-      <window_info anchor="bottom" id="Build" weight="0.32893288" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893288" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.124200426" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,11 +861,116 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        <state relative-caret-position="612">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="e#174#334#0" expanded="true" />
+            <element signature="e#174#334#0" expanded="true" />
+            <element signature="e#249#266#1" expanded="true" />
+            <element signature="e#305#323#0" expanded="true" />
+            <element signature="e#305#323#0" expanded="true" />
+            <element signature="e#387#638#0" expanded="true" />
+            <element signature="e#387#638#0" expanded="true" />
+            <element signature="e#481#498#1" expanded="true" />
+            <element signature="e#511#596#0" expanded="true" />
+            <element signature="e#518#532#0" expanded="true" />
+            <element signature="e#511#596#0" expanded="true" />
+            <element signature="e#567#581#0" expanded="true" />
+            <element signature="e#609#627#0" expanded="true" />
+            <element signature="e#609#627#0" expanded="true" />
+            <element signature="e#685#702#1" expanded="true" />
+            <element signature="e#711#728#1" expanded="true" />
+            <element signature="e#737#856#0" expanded="true" />
+            <element signature="e#744#758#0" expanded="true" />
+            <element signature="e#737#856#0" expanded="true" />
+            <element signature="e#790#810#0" expanded="true" />
+            <element signature="e#790#804#0" expanded="true" />
+            <element signature="e#790#810#0" expanded="true" />
+            <element signature="e#831#845#0" expanded="true" />
+            <element signature="e#873#887#0" expanded="true" />
+            <element signature="e#978#995#1" expanded="true" />
+            <element signature="e#1004#1021#1" expanded="true" />
+            <element signature="e#1031#1445#0" expanded="true" />
+            <element signature="e#1031#1445#0" expanded="true" />
+            <element signature="e#1131#1435#0" expanded="true" />
+            <element signature="e#1111#1125#0" expanded="true" />
+            <element signature="e#1131#1435#0" expanded="true" />
+            <element signature="e#1160#1174#0" expanded="true" />
+            <element signature="e#1247#1421#0" expanded="true" />
+            <element signature="e#1247#1421#0" expanded="true" />
+            <element signature="e#1296#1329#0" expanded="true" />
+            <element signature="e#1297#1311#0" expanded="true" />
+            <element signature="e#1296#1329#0" expanded="true" />
+            <element signature="e#1351#1374#0" expanded="true" />
+            <element signature="e#1351#1374#0" expanded="true" />
+            <element signature="e#1454#1697#0" expanded="true" />
+            <element signature="e#1454#1697#0" expanded="true" />
+            <element signature="e#1495#1518#0" expanded="true" />
+            <element signature="e#1495#1518#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1583#1593#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#183#209#1" expanded="true" />
+            <element signature="e#218#244#1" expanded="true" />
+            <element signature="e#253#278#1" expanded="true" />
+            <element signature="e#287#328#1" expanded="true" />
+            <element signature="e#337#369#1" expanded="true" />
+            <element signature="e#647#673#1" expanded="true" />
+            <element signature="e#682#708#1" expanded="true" />
+            <element signature="e#717#743#1" expanded="true" />
+            <element signature="e#752#793#1" expanded="true" />
+            <element signature="e#802#835#1" expanded="true" />
+            <element signature="e#1107#1133#1" expanded="true" />
+            <element signature="e#1142#1168#1" expanded="true" />
+            <element signature="e#1177#1203#1" expanded="true" />
+            <element signature="e#1204#1230#1" expanded="true" />
+            <element signature="e#1239#1265#1" expanded="true" />
+            <element signature="e#1212#1253#1" expanded="true" />
+            <element signature="e#1367#1392#1" expanded="true" />
+            <element signature="e#1730#1756#1" expanded="true" />
+            <element signature="e#1765#1791#1" expanded="true" />
+            <element signature="e#1800#1826#1" expanded="true" />
+            <element signature="e#1835#1861#1" expanded="true" />
+            <element signature="e#1870#1895#1" expanded="true" />
+            <element signature="e#1904#1945#1" expanded="true" />
+            <element signature="e#1954#1992#1" expanded="true" />
+            <element signature="e#2340#2366#1" expanded="true" />
+            <element signature="e#2375#2401#1" expanded="true" />
+            <element signature="e#2410#2436#1" expanded="true" />
+            <element signature="e#2445#2471#1" expanded="true" />
+            <element signature="e#2480#2505#1" expanded="true" />
+            <element signature="e#2514#2555#1" expanded="true" />
+            <element signature="e#2564#2602#1" expanded="true" />
+            <element signature="e#2952#2978#1" expanded="true" />
+            <element signature="e#2987#3013#1" expanded="true" />
+            <element signature="e#3022#3048#1" expanded="true" />
+            <element signature="e#3057#3083#1" expanded="true" />
+            <element signature="e#3092#3117#1" expanded="true" />
+            <element signature="e#3126#3167#1" expanded="true" />
+            <element signature="e#3176#3214#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,55 +981,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#193#219#1" expanded="true" />
-            <element signature="e#228#254#1" expanded="true" />
-            <element signature="e#263#289#1" expanded="true" />
-            <element signature="e#227#254#1" expanded="true" />
-            <element signature="e#337#410#1" expanded="true" />
-            <element signature="e#659#685#1" expanded="true" />
-            <element signature="e#694#720#1" expanded="true" />
-            <element signature="e#729#754#1" expanded="true" />
-            <element signature="e#763#804#1" expanded="true" />
-            <element signature="e#813#845#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <caret line="62" column="116" selection-start-line="62" selection-start-column="116" selection-end-line="62" selection-end-column="116" />
           <folding>
             <element signature="e#174#334#0" expanded="true" />
             <element signature="e#174#334#0" expanded="true" />
-            <element signature="e#267#284#1" expanded="true" />
+            <element signature="e#249#266#1" expanded="true" />
             <element signature="e#305#323#0" expanded="true" />
             <element signature="e#305#323#0" expanded="true" />
             <element signature="e#387#638#0" expanded="true" />
             <element signature="e#387#638#0" expanded="true" />
-            <element signature="e#445#462#1" expanded="true" />
+            <element signature="e#481#498#1" expanded="true" />
             <element signature="e#511#596#0" expanded="true" />
-            <element signature="e#482#496#0" expanded="true" />
+            <element signature="e#518#532#0" expanded="true" />
             <element signature="e#511#596#0" expanded="true" />
-            <element signature="e#531#545#0" expanded="true" />
+            <element signature="e#567#581#0" expanded="true" />
             <element signature="e#609#627#0" expanded="true" />
             <element signature="e#609#627#0" expanded="true" />
-            <element signature="e#695#712#1" expanded="true" />
-            <element signature="e#721#740#1" expanded="true" />
+            <element signature="e#685#702#1" expanded="true" />
+            <element signature="e#711#728#1" expanded="true" />
             <element signature="e#737#856#0" expanded="true" />
-            <element signature="e#374#388#0" expanded="true" />
+            <element signature="e#744#758#0" expanded="true" />
             <element signature="e#737#856#0" expanded="true" />
             <element signature="e#790#810#0" expanded="true" />
-            <element signature="e#795#809#0" expanded="true" />
+            <element signature="e#790#804#0" expanded="true" />
             <element signature="e#790#810#0" expanded="true" />
-            <element signature="e#493#507#0" expanded="true" />
-            <element signature="e#885#899#0" expanded="true" />
+            <element signature="e#831#845#0" expanded="true" />
+            <element signature="e#873#887#0" expanded="true" />
+            <element signature="e#978#995#1" expanded="true" />
+            <element signature="e#1004#1021#1" expanded="true" />
+            <element signature="e#1031#1445#0" expanded="true" />
+            <element signature="e#1031#1445#0" expanded="true" />
+            <element signature="e#1131#1435#0" expanded="true" />
+            <element signature="e#1111#1125#0" expanded="true" />
+            <element signature="e#1131#1435#0" expanded="true" />
+            <element signature="e#1160#1174#0" expanded="true" />
+            <element signature="e#1247#1421#0" expanded="true" />
+            <element signature="e#1247#1421#0" expanded="true" />
+            <element signature="e#1296#1329#0" expanded="true" />
+            <element signature="e#1297#1311#0" expanded="true" />
+            <element signature="e#1296#1329#0" expanded="true" />
+            <element signature="e#1351#1374#0" expanded="true" />
+            <element signature="e#1351#1374#0" expanded="true" />
+            <element signature="e#1454#1697#0" expanded="true" />
+            <element signature="e#1454#1697#0" expanded="true" />
+            <element signature="e#1495#1518#0" expanded="true" />
+            <element signature="e#1495#1518#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1583#1593#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+            <element signature="e#1568#1685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="107" column="40" selection-start-line="107" selection-start-column="40" selection-end-line="107" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#183#209#1" expanded="true" />
+            <element signature="e#218#244#1" expanded="true" />
+            <element signature="e#253#278#1" expanded="true" />
+            <element signature="e#287#328#1" expanded="true" />
+            <element signature="e#337#369#1" expanded="true" />
+            <element signature="e#647#673#1" expanded="true" />
+            <element signature="e#682#708#1" expanded="true" />
+            <element signature="e#717#743#1" expanded="true" />
+            <element signature="e#752#793#1" expanded="true" />
+            <element signature="e#802#835#1" expanded="true" />
+            <element signature="e#1107#1133#1" expanded="true" />
+            <element signature="e#1142#1168#1" expanded="true" />
+            <element signature="e#1177#1203#1" expanded="true" />
+            <element signature="e#1204#1230#1" expanded="true" />
+            <element signature="e#1239#1265#1" expanded="true" />
+            <element signature="e#1212#1253#1" expanded="true" />
+            <element signature="e#1367#1392#1" expanded="true" />
+            <element signature="e#1730#1756#1" expanded="true" />
+            <element signature="e#1765#1791#1" expanded="true" />
+            <element signature="e#1800#1826#1" expanded="true" />
+            <element signature="e#1835#1861#1" expanded="true" />
+            <element signature="e#1870#1895#1" expanded="true" />
+            <element signature="e#1904#1945#1" expanded="true" />
+            <element signature="e#1954#1992#1" expanded="true" />
+            <element signature="e#2340#2366#1" expanded="true" />
+            <element signature="e#2375#2401#1" expanded="true" />
+            <element signature="e#2410#2436#1" expanded="true" />
+            <element signature="e#2445#2471#1" expanded="true" />
+            <element signature="e#2480#2505#1" expanded="true" />
+            <element signature="e#2514#2555#1" expanded="true" />
+            <element signature="e#2564#2602#1" expanded="true" />
+            <element signature="e#2952#2978#1" expanded="true" />
+            <element signature="e#2987#3013#1" expanded="true" />
+            <element signature="e#3022#3048#1" expanded="true" />
+            <element signature="e#3057#3083#1" expanded="true" />
+            <element signature="e#3092#3117#1" expanded="true" />
+            <element signature="e#3126#3167#1" expanded="true" />
+            <element signature="e#3176#3214#1" expanded="true" />
           </folding>
         </state>
       </provider>
