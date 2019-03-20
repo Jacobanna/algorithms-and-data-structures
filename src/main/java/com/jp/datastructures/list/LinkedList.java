@@ -150,9 +150,9 @@ public class LinkedList {
         return list;
     }
 
-    public Node reverseIterative() {
+    public void reverseIterative() {
         if (head == null) {
-            return null;
+            return;
         }
         Node current = head;
         Node previous = null;
@@ -163,7 +163,7 @@ public class LinkedList {
             previous = current;
             current = next;
         }
-        return previous;
+        head = previous;
     }
 
     public void reverseRecursive(Node node1) {
@@ -202,5 +202,29 @@ public class LinkedList {
             temp.setNext(null);
             return temp2;
         }
+    }
+
+    public boolean removeFirstOccurence(int data) {
+        if (head == null) {
+            return false;
+        } else if (head.getData() == data) {
+            head = head.getNext();
+            return true;
+        } else {
+            Node current = head;
+            Node previous;
+            Node next;
+            Node temp;
+            while (current.getNext() != null) {
+                previous = current;
+                current = current.getNext();
+                next = current.getNext();
+                if (current.getData() == data) {
+                    previous.setNext(next);
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 }

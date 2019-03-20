@@ -327,11 +327,9 @@ public class LinkedListTest {
         linkedList.addLast(node4);
         String expectedList = "100 50 30 15";
         //When
-        Node reversedListHead = linkedList.reverseIterative();
-        LinkedList reversedList = new LinkedList();
-        reversedList.setHead(reversedListHead);
+        linkedList.reverseIterative();
         //Then
-        Assert.assertEquals(expectedList, reversedList.traverse());
+        Assert.assertEquals(expectedList, linkedList.traverse());
     }
 
     @Test
@@ -342,11 +340,9 @@ public class LinkedListTest {
         linkedList.addLast(node1);
         String expectedList = "15";
         //When
-        Node reversedListHead = linkedList.reverseIterative();
-        LinkedList reversedList = new LinkedList();
-        reversedList.setHead(reversedListHead);
+        linkedList.reverseIterative();
         //Then
-        Assert.assertEquals(expectedList, reversedList.traverse());
+        Assert.assertEquals(expectedList, linkedList.traverse());
     }
 
     @Test
@@ -354,11 +350,9 @@ public class LinkedListTest {
         //Given
         LinkedList linkedList = new LinkedList();
         //When
-        Node reversedListHead = linkedList.reverseIterative();
-        LinkedList reversedList = new LinkedList();
-        reversedList.setHead(reversedListHead);
+        linkedList.reverseIterative();
         //Then
-        Assert.assertTrue(reversedList.getHead() == null);
+        Assert.assertTrue(linkedList.getHead() == null);
     }
 
     @Test
@@ -461,5 +455,85 @@ public class LinkedListTest {
         Node removedNode = linkedList.removeLast();
         //Then
         Assert.assertEquals(expectedNode, removedNode);
+    }
+
+    @Test
+    public void removeFirstOccurenceFirst() {
+        //Given
+        Node node1 = new Node(20);
+        Node node2 = new Node(13);
+        Node node3 = new Node(44);
+        Node node4 = new Node(67);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        String expectedList = "13 44 67";
+        //When
+        Boolean isDeleted = linkedList.removeFirstOccurence(20);
+        //Then
+        Assert.assertTrue(isDeleted);
+        Assert.assertEquals(expectedList, linkedList.traverse());
+    }
+
+    @Test
+    public void removeFirstOccurenceMiddle() {
+        //Given
+        Node node1 = new Node(20);
+        Node node2 = new Node(13);
+        Node node3 = new Node(44);
+        Node node4 = new Node(67);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        String expectedList = "20 13 67";
+        //When
+        Boolean isDeleted = linkedList.removeFirstOccurence(44);
+        //Then
+        Assert.assertTrue(isDeleted);
+        Assert.assertEquals(expectedList, linkedList.traverse());
+    }
+
+    @Test
+    public void removeFirstOccurenceLast() {
+        //Given
+        Node node1 = new Node(20);
+        Node node2 = new Node(13);
+        Node node3 = new Node(44);
+        Node node4 = new Node(67);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        String expectedList = "20 13 44";
+        //When
+        Boolean isDeleted = linkedList.removeFirstOccurence(67);
+        //Then
+        Assert.assertTrue(isDeleted);
+        Assert.assertEquals(expectedList, linkedList.traverse());
+    }
+
+    @Test
+    public void removeFirstOccurenceNotInList() {
+        //Given
+        Node node1 = new Node(20);
+        Node node2 = new Node(13);
+        Node node3 = new Node(44);
+        Node node4 = new Node(67);
+        LinkedList linkedList = new LinkedList();
+        linkedList.addLast(node1);
+        linkedList.addLast(node2);
+        linkedList.addLast(node3);
+        linkedList.addLast(node4);
+        String expectedList = "20 13 44 67";
+        //When
+        Boolean isDeleted = linkedList.removeFirstOccurence(101);
+        //Then
+        Assert.assertFalse(isDeleted);
+        Assert.assertEquals(expectedList, linkedList.traverse());
     }
 }
