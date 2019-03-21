@@ -1,0 +1,8 @@
+8List has 4 elements, possible indexes to get are : 0-3
+!7List has 4 elements, possible indexes to add are: 0-3
+!7List has 4 elements, possible indexes to add are: 0-3
+*'Cannot perform get(3), list is empty.
+/1%Stack is empty, cannot pop element.
+/2%Stack is full, cannot push element.
+/6&Stack is empty, cannot peek element.
+/6&Stack is empty, cannot peek element.

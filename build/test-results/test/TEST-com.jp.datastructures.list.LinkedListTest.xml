@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.list.LinkedListTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-18T18:52:17" hostname="DESKTOP-DILTDO4" time="0.002">
+<testsuite name="com.jp.datastructures.list.LinkedListTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2019-03-21T12:11:05" hostname="DESKTOP-DILTDO4" time="0.006">
   <properties/>
-  <testcase name="testAddLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.002"/>
-  <testcase name="testAddFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="addAtPosLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
+  <testcase name="getFirstNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="containsEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseIterativeNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseRecursiveOneElement" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
+  <testcase name="indexOfExists" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getFirstEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstOccurenceMiddle" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addAtPosMiddle" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addAtPosFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseIterativeOneElement" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstWithElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getOutOfBoundaries" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="clear" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstOccurenceNotInList" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="indexOfDoesNotExist" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addAtPosOutOfBoundaries" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstOccurenceFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="containsNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeLastWithElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseIterativeManyElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getLastNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeFirstOccurenceLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseRecursiveManyElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="reverseRecursiveNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getLastEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="removeLastNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="indexOfEmptyList" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <system-out><![CDATA[List has 4 elements, possible indexes to get are : 0-3
+List has 4 elements, possible indexes to add are: 0-3
+List has 4 elements, possible indexes to add are: 0-3
+Cannot perform get(3), list is empty.
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
