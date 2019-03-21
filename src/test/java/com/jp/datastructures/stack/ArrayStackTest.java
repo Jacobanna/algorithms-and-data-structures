@@ -125,9 +125,9 @@ public class ArrayStackTest {
         int foundElement2 = arrayStack.search(4);
         int foundElement3 = arrayStack.search(11);
         //Then
-        Assert.assertEquals(0, foundElement1);
+        Assert.assertEquals(4, foundElement1);
         Assert.assertEquals(2, foundElement2);
-        Assert.assertEquals(4, foundElement3);
+        Assert.assertEquals(0, foundElement3);
     }
 
     @Test

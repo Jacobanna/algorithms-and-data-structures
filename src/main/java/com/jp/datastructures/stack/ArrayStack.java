@@ -46,11 +46,12 @@ public class ArrayStack {
         }
     }
 
+    //Returns how far from top is value (at top = 0, next after top = 1 ...), or -1 if value is not on stack.
     public int search(int value) {
         int temp = top;
         while(temp > -1) {
             if(value == stack[temp]) {
-                return temp;
+                return top-temp;
             }
             temp--;
         }
