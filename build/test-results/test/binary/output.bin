@@ -2,7 +2,13 @@
 !7List has 4 elements, possible indexes to add are: 0-3
 !7List has 4 elements, possible indexes to add are: 0-3
 *'Cannot perform get(3), list is empty.
-/1%Stack is empty, cannot pop element.
-/2%Stack is full, cannot push element.
-/6&Stack is empty, cannot peek element.
-/6&Stack is empty, cannot peek element.
+/.&Queue is full, remove element first.
+/.$Queue is empty, add element first.
+/1&Queue is full, remove element first.
+/2&Queue is full, remove element first.
+/2$Queue is empty, add element first.
+65$Queue is empty, add element first.
+<>%Stack is empty, cannot pop element.
+<?%Stack is full, cannot push element.
+<C&Stack is empty, cannot peek element.
+<C&Stack is empty, cannot peek element.

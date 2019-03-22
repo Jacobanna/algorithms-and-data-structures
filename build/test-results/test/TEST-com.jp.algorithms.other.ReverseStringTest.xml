@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.algorithms.other.ReverseStringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-21T12:11:05" hostname="DESKTOP-DILTDO4" time="0.0">
+<testsuite name="com.jp.algorithms.other.ReverseStringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-22T13:38:15" hostname="DESKTOP-DILTDO4" time="0.001">
   <properties/>
   <testcase name="reverseEmpty" classname="com.jp.algorithms.other.ReverseStringTest" time="0.0"/>
   <testcase name="reverse" classname="com.jp.algorithms.other.ReverseStringTest" time="0.0"/>
