@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/CheckBalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/CheckBalancedParenthesesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/ArrayQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/stack/ArrayStack.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,43 +22,24 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="CheckBalancedParentheses.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/CheckBalancedParentheses.java">
+            <file leaf-file-name="ArrayQueueTest.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/ArrayQueueTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="612">
-                    <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+                  <state relative-caret-position="787">
+                    <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
                     <folding>
-                      <element signature="e#566#603#1" expanded="true" />
-                      <element signature="e#612#662#1" expanded="true" />
-                      <element signature="e#683#1370#0" expanded="true" />
-                      <element signature="e#728#738#1" expanded="true" />
-                      <element signature="e#683#1370#0" expanded="true" />
-                      <element signature="e#683#1370#0" expanded="true" />
-                      <element signature="e#683#1370#0" expanded="true" />
-                      <element signature="e#683#1370#0" expanded="true" />
-                      <element signature="e#746#1360#0" expanded="true" />
-                      <element signature="e#746#1360#0" expanded="true" />
-                      <element signature="e#904#1360#0" expanded="true" />
-                      <element signature="e#904#1360#0" expanded="true" />
-                      <element signature="e#1083#1360#0" expanded="true" />
-                      <element signature="e#1083#1360#0" expanded="true" />
-                      <element signature="e#1190#1346#0" expanded="true" />
-                      <element signature="e#1190#1346#0" expanded="true" />
-                      <element signature="e#1379#1434#0" expanded="true" />
-                      <element signature="e#1379#1434#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="ReverseStringTest.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/ReverseStringTest.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="221">
-                    <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                      <element signature="e#153#201#1" expanded="true" />
+                      <element signature="method#add#0;class#ArrayQueueTest#0" />
+                      <element signature="method#remove#0;class#ArrayQueueTest#0" />
+                      <element signature="method#peek#0;class#ArrayQueueTest#0" />
+                      <element signature="e#1323#1365#1" expanded="true" />
+                      <element signature="e#1392#1423#1" expanded="true" />
+                      <element signature="e#1461#1492#1" expanded="true" />
+                      <element signature="e#1530#1561#1" expanded="true" />
+                      <element signature="e#1599#1630#1" expanded="true" />
+                      <element signature="e#1668#1699#1" expanded="true" />
+                      <element signature="e#2073#2100#1" expanded="true" />
+                      <element signature="e#2273#2324#1" expanded="true" />
+                      <element signature="e#2514#2565#1" expanded="true" />
                     </folding>
                   </state>
                 </provider>
@@ -78,11 +57,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/ReverseString.java">
+      <file leaf-file-name="ArrayQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/ArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="-117">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="e#295#405#0" expanded="true" />
+                <element signature="e#295#405#0" expanded="true" />
+                <element signature="e#482#742#0" expanded="true" />
+                <element signature="e#487#493#0" expanded="true" />
+                <element signature="e#482#742#0" expanded="true" />
+                <element signature="e#627#742#0" expanded="true" />
+                <element signature="e#631#640#0" expanded="true" />
+                <element signature="e#627#742#0" expanded="true" />
+                <element signature="e#711#717#0" expanded="true" />
+                <element signature="e#814#823#0" expanded="true" />
+                <element signature="e#974#1218#0" expanded="true" />
+                <element signature="e#979#988#0" expanded="true" />
+                <element signature="e#974#1218#0" expanded="true" />
+                <element signature="e#1096#1218#0" expanded="true" />
+                <element signature="e#1096#1218#0" expanded="true" />
+                <element signature="e#1186#1193#0" expanded="true" />
+                <element signature="e#1258#1306#0" expanded="true" />
+                <element signature="e#1193#1202#0" expanded="true" />
+                <element signature="e#1258#1306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -413,6 +413,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/CheckBalancedParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/ReverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/ArrayQueueTest.java" />
       </list>
     </option>
   </component>
@@ -435,6 +437,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -484,8 +489,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -495,6 +499,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -525,16 +530,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms-and-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -545,13 +540,20 @@
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-and-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jp" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -587,22 +589,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseStringTest.reverseNull">
+  <component name="RunManager" selected="JUnit.ArrayQueueTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CheckBalancedParenthesesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.other.*" />
+          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.other" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.other.CheckBalancedParenthesesTest" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.ArrayQueueTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -614,19 +616,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesFalse3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayQueueTest.peek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.other.*" />
+          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.other" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.other.CheckBalancedParenthesesTest" />
-      <option name="METHOD_NAME" value="checkBalancedParenthesesFalse3" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.ArrayQueueTest" />
+      <option name="METHOD_NAME" value="peek" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -637,19 +639,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReverseStringTest.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayQueueTest.sizeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.other.*" />
+          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.other" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.other.ReverseStringTest" />
-      <option name="METHOD_NAME" value="reverse" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.ArrayQueueTest" />
+      <option name="METHOD_NAME" value="sizeEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -660,19 +662,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReverseStringTest.reverseEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayQueueTest.sizeFrontEqualRear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.other.*" />
+          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.other" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.other.ReverseStringTest" />
-      <option name="METHOD_NAME" value="reverseEmpty" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.ArrayQueueTest" />
+      <option name="METHOD_NAME" value="sizeFrontEqualRear" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -683,19 +685,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReverseStringTest.reverseNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayQueueTest.sizeFull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.other.*" />
+          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.other" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.other.ReverseStringTest" />
-      <option name="METHOD_NAME" value="reverseNull" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.ArrayQueueTest" />
+      <option name="METHOD_NAME" value="sizeFull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -745,19 +747,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CheckBalancedParenthesesTest" />
-      <item itemvalue="JUnit.CheckBalancedParenthesesTest.checkBalancedParenthesesFalse3" />
-      <item itemvalue="JUnit.ReverseStringTest.reverse" />
-      <item itemvalue="JUnit.ReverseStringTest.reverseEmpty" />
-      <item itemvalue="JUnit.ReverseStringTest.reverseNull" />
+      <item itemvalue="JUnit.ArrayQueueTest.peek" />
+      <item itemvalue="JUnit.ArrayQueueTest.sizeEmpty" />
+      <item itemvalue="JUnit.ArrayQueueTest.sizeFrontEqualRear" />
+      <item itemvalue="JUnit.ArrayQueueTest.sizeFull" />
+      <item itemvalue="JUnit.ArrayQueueTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReverseStringTest.reverseNull" />
-        <item itemvalue="JUnit.ReverseStringTest.reverseEmpty" />
-        <item itemvalue="JUnit.ReverseStringTest.reverse" />
-        <item itemvalue="JUnit.CheckBalancedParenthesesTest" />
-        <item itemvalue="JUnit.CheckBalancedParenthesesTest.checkBalancedParenthesesFalse3" />
+        <item itemvalue="JUnit.ArrayQueueTest" />
+        <item itemvalue="JUnit.ArrayQueueTest.sizeFull" />
+        <item itemvalue="JUnit.ArrayQueueTest.sizeFrontEqualRear" />
+        <item itemvalue="JUnit.ArrayQueueTest.sizeEmpty" />
+        <item itemvalue="JUnit.ArrayQueueTest.peek" />
       </list>
     </recent_temporary>
   </component>
@@ -778,44 +780,46 @@
       <workItem from="1553099059463" duration="6960000" />
       <workItem from="1553161628183" duration="2781000" />
       <workItem from="1553164460419" duration="3240000" />
-      <workItem from="1553167797990" duration="2319000" />
+      <workItem from="1553167797990" duration="2867000" />
+      <workItem from="1553253327586" duration="3438000" />
+      <workItem from="1553256821974" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesNotTrue1 - 2019.03.21 at 12h 56m 37s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesNotTrue1" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_add - 2019.03.22 at 13h 09m 01s.xml">
+      <configuration name="ArrayQueueTest.add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest - 2019.03.21 at 12h 57m 52s.xml">
-      <configuration name="CheckBalancedParenthesesTest" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_add - 2019.03.22 at 13h 12m 02s.xml">
+      <configuration name="ArrayQueueTest.add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesTrue1 - 2019.03.21 at 13h 00m 05s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesTrue1" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_add - 2019.03.22 at 13h 12m 37s.xml">
+      <configuration name="ArrayQueueTest.add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesTrue1 - 2019.03.21 at 13h 00m 54s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesTrue1" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_add - 2019.03.22 at 13h 12m 50s.xml">
+      <configuration name="ArrayQueueTest.add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest - 2019.03.21 at 13h 01m 02s.xml">
-      <configuration name="CheckBalancedParenthesesTest" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest - 2019.03.22 at 13h 12m 55s.xml">
+      <configuration name="ArrayQueueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesNotTrue2 - 2019.03.21 at 13h 01m 20s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesNotTrue2" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_remove - 2019.03.22 at 13h 15m 32s.xml">
+      <configuration name="ArrayQueueTest.remove" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesFalse3 - 2019.03.21 at 13h 01m 52s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesFalse3" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_remove - 2019.03.22 at 13h 16m 35s.xml">
+      <configuration name="ArrayQueueTest.remove" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest_checkBalancedParenthesesFalse3 - 2019.03.21 at 13h 02m 04s.xml">
-      <configuration name="CheckBalancedParenthesesTest.checkBalancedParenthesesFalse3" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_peek - 2019.03.22 at 13h 20m 50s.xml">
+      <configuration name="ArrayQueueTest.peek" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest - 2019.03.21 at 13h 02m 10s.xml">
-      <configuration name="CheckBalancedParenthesesTest" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_sizeEmpty - 2019.03.22 at 13h 22m 41s.xml">
+      <configuration name="ArrayQueueTest.sizeEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckBalancedParenthesesTest - 2019.03.21 at 13h 02m 30s.xml">
-      <configuration name="CheckBalancedParenthesesTest" configurationId="JUnit" />
+    <history-entry file="ArrayQueueTest_sizeFrontEqualRear - 2019.03.22 at 13h 23m 41s.xml">
+      <configuration name="ArrayQueueTest.sizeFrontEqualRear" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34756000" />
+    <option name="totallyTimeSpent" value="39461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -830,20 +834,20 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41364136" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19471948" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3091309" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20682068" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39715537" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29978117" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
@@ -869,6 +873,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32893288" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Maven Projects" order="5" />
@@ -881,7 +886,6 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
     </layout-to-restore>
   </component>
@@ -897,13 +901,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/CheckBalancedParenthesesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1221,6 +1229,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/CheckBalancedParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/ReverseStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/CheckBalancedParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1248,30 +1270,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/CheckBalancedParenthesesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/ReverseStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/ArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        <state relative-caret-position="-117">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#153#201#1" expanded="true" />
+            <element signature="e#295#405#0" expanded="true" />
+            <element signature="e#295#405#0" expanded="true" />
+            <element signature="e#482#742#0" expanded="true" />
+            <element signature="e#487#493#0" expanded="true" />
+            <element signature="e#482#742#0" expanded="true" />
+            <element signature="e#627#742#0" expanded="true" />
+            <element signature="e#631#640#0" expanded="true" />
+            <element signature="e#627#742#0" expanded="true" />
+            <element signature="e#711#717#0" expanded="true" />
+            <element signature="e#814#823#0" expanded="true" />
+            <element signature="e#974#1218#0" expanded="true" />
+            <element signature="e#979#988#0" expanded="true" />
+            <element signature="e#974#1218#0" expanded="true" />
+            <element signature="e#1096#1218#0" expanded="true" />
+            <element signature="e#1096#1218#0" expanded="true" />
+            <element signature="e#1186#1193#0" expanded="true" />
+            <element signature="e#1258#1306#0" expanded="true" />
+            <element signature="e#1193#1202#0" expanded="true" />
+            <element signature="e#1258#1306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/ArrayQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+          <folding>
+            <element signature="method#add#0;class#ArrayQueueTest#0" />
+            <element signature="method#remove#0;class#ArrayQueueTest#0" />
+            <element signature="method#peek#0;class#ArrayQueueTest#0" />
+            <element signature="e#1323#1365#1" expanded="true" />
+            <element signature="e#1392#1423#1" expanded="true" />
+            <element signature="e#1461#1492#1" expanded="true" />
+            <element signature="e#1530#1561#1" expanded="true" />
+            <element signature="e#1599#1630#1" expanded="true" />
+            <element signature="e#1668#1699#1" expanded="true" />
+            <element signature="e#2073#2100#1" expanded="true" />
+            <element signature="e#2273#2324#1" expanded="true" />
+            <element signature="e#2514#2565#1" expanded="true" />
           </folding>
         </state>
       </provider>
