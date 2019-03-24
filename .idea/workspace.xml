@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -17,44 +18,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="LinkedListQueueTest.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="510">
-                    <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                      <element signature="method#add#0;class#LinkedListQueueTest#0" />
-                      <element signature="e#139#176#1" expanded="true" />
-                      <element signature="method#remove#0;class#LinkedListQueueTest#0" />
-                      <element signature="e#499#555#1" expanded="true" />
-                      <element signature="method#peek#0;class#LinkedListQueueTest#0" />
-                      <element signature="e#1064#1120#1" expanded="true" />
-                      <element signature="e#1365#1447#1" expanded="true" />
-                      <element signature="e#1444#1480#1" expanded="true" />
-                      <element signature="e#1523#1559#1" expanded="true" />
-                      <element signature="e#1602#1638#1" expanded="true" />
-                      <element signature="e#1681#1717#1" expanded="true" />
-                      <element signature="e#1760#1796#1" expanded="true" />
-                      <element signature="e#2148#2185#1" expanded="true" />
-                      <element signature="e#2253#2278#0" expanded="true" />
-                      <element signature="e#2362#2418#1" expanded="true" />
-                      <element signature="e#2467#2492#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -62,54 +25,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedListQueue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java">
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="99">
+              <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="40" />
               <folding>
-                <element signature="e#333#431#0" expanded="true" />
-                <element signature="e#333#431#0" expanded="true" />
-                <element signature="e#494#509#1" expanded="true" />
-                <element signature="e#545#708#0" expanded="true" />
-                <element signature="e#545#708#0" expanded="true" />
-                <element signature="e#644#662#0" expanded="true" />
-                <element signature="e#644#662#0" expanded="true" />
-                <element signature="e#688#702#0" expanded="true" />
-                <element signature="e#765#833#0" expanded="true" />
-                <element signature="e#765#833#0" expanded="true" />
-                <element signature="e#861#876#0" expanded="true" />
-                <element signature="e#936#1204#0" expanded="true" />
-                <element signature="e#936#1204#0" expanded="true" />
-                <element signature="e#1042#1204#0" expanded="true" />
-                <element signature="e#1046#1064#0" expanded="true" />
-                <element signature="e#1046#1064#0" expanded="true" />
-                <element signature="e#1042#1204#0" expanded="true" />
-                <element signature="e#1035#1050#0" expanded="true" />
-                <element signature="e#1393#1394#0" expanded="true" />
-                <element signature="e#1420#1421#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#365#561#0" expanded="true" />
+                <element signature="e#377#391#0" expanded="true" />
+                <element signature="e#365#561#0" expanded="true" />
+                <element signature="e#407#449#0" expanded="true" />
+                <element signature="e#427#441#0" expanded="true" />
+                <element signature="e#407#449#0" expanded="true" />
+                <element signature="e#477#491#0" expanded="true" />
+                <element signature="e#506#550#0" expanded="true" />
+                <element signature="e#527#542#0" expanded="true" />
+                <element signature="e#506#550#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#728#1014#0" expanded="true" />
+                <element signature="e#728#1014#0" expanded="true" />
+                <element signature="e#789#1014#0" expanded="true" />
+                <element signature="e#801#815#0" expanded="true" />
+                <element signature="e#789#1014#0" expanded="true" />
+                <element signature="e#859#1014#0" expanded="true" />
+                <element signature="e#871#885#0" expanded="true" />
+                <element signature="e#859#1014#0" expanded="true" />
+                <element signature="e#915#929#0" expanded="true" />
+                <element signature="e#981#996#0" expanded="true" />
+                <element signature="e#1214#1263#0" expanded="true" />
+                <element signature="e#1214#1263#0" expanded="true" />
+                <element signature="e#1291#1305#0" expanded="true" />
+                <element signature="e#1325#1339#0" expanded="true" />
+                <element signature="e#1359#1374#0" expanded="true" />
+                <element signature="e#1572#1621#0" expanded="true" />
+                <element signature="e#1572#1621#0" expanded="true" />
+                <element signature="e#1638#1652#0" expanded="true" />
+                <element signature="e#1682#1696#0" expanded="true" />
+                <element signature="e#1715#1730#0" expanded="true" />
+                <element signature="e#1936#1985#0" expanded="true" />
+                <element signature="e#1936#1985#0" expanded="true" />
+                <element signature="e#2004#2018#0" expanded="true" />
+                <element signature="e#2039#2054#0" expanded="true" />
+                <element signature="e#2084#2098#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
+      <file leaf-file-name="BinarySearchTreeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <state relative-caret-position="1148">
+              <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
               <folding>
-                <element signature="e#1554#1555#0" expanded="true" />
-                <element signature="e#1581#1582#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#insert#0;class#BinarySearchTreeTest#0" />
+                <element signature="e#1258#1317#1" expanded="true" />
+                <element signature="e#1632#1665#0" expanded="true" />
+                <element signature="e#1739#1798#1" expanded="true" />
+                <element signature="e#2186#2226#0" expanded="true" />
+                <element signature="e#2309#2368#1" expanded="true" />
+                <element signature="e#2683#2716#0" expanded="true" />
+                <element signature="e#2790#2849#1" expanded="true" />
+                <element signature="e#3237#3277#0" expanded="true" />
+                <element signature="e#3352#3411#1" expanded="true" />
+                <element signature="e#3726#3759#0" expanded="true" />
+                <element signature="e#3833#3892#1" expanded="true" />
+                <element signature="e#4280#4320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -445,6 +432,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" />
       </list>
     </option>
   </component>
@@ -454,8 +444,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="335" />
+    <option name="y" value="-17" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -467,9 +458,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -510,15 +500,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms-and-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -529,7 +510,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -569,6 +550,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-and-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jp" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -584,6 +575,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -619,46 +611,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListQueueTest">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.postorder2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LinkedListQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.inorder1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.LinkedListQueueTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LinkedListQueueTest.isEmptyFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.LinkedListQueueTest" />
-      <option name="METHOD_NAME" value="isEmptyFalse" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="inorder1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -669,19 +638,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListQueueTest.isEmptyTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.inorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.LinkedListQueueTest" />
-      <option name="METHOD_NAME" value="isEmptyTrue" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="inorder2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -692,19 +661,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListQueueTest.peek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.postorder1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.LinkedListQueueTest" />
-      <option name="METHOD_NAME" value="peek" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="postorder1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -715,19 +684,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListQueueTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.postorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.queue.*" />
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.queue.LinkedListQueueTest" />
-      <option name="METHOD_NAME" value="remove" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="postorder2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BinarySearchTreeTest.preorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="preorder2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -777,19 +769,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LinkedListQueueTest.remove" />
-      <item itemvalue="JUnit.LinkedListQueueTest.peek" />
-      <item itemvalue="JUnit.LinkedListQueueTest.isEmptyTrue" />
-      <item itemvalue="JUnit.LinkedListQueueTest.isEmptyFalse" />
-      <item itemvalue="JUnit.LinkedListQueueTest" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.preorder2" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.inorder1" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.inorder2" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.postorder1" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.postorder2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedListQueueTest" />
-        <item itemvalue="JUnit.LinkedListQueueTest.isEmptyFalse" />
-        <item itemvalue="JUnit.LinkedListQueueTest.isEmptyTrue" />
-        <item itemvalue="JUnit.LinkedListQueueTest.peek" />
-        <item itemvalue="JUnit.LinkedListQueueTest.remove" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.postorder2" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.postorder1" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.inorder2" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.inorder1" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.preorder2" />
       </list>
     </recent_temporary>
   </component>
@@ -812,47 +804,48 @@
       <workItem from="1553164460419" duration="3240000" />
       <workItem from="1553167797990" duration="2867000" />
       <workItem from="1553253327586" duration="3438000" />
-      <workItem from="1553256821974" duration="4386000" />
+      <workItem from="1553256821974" duration="5114000" />
+      <workItem from="1553455835378" duration="2021000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkedListQueueTest_remove - 2019.03.22 at 13h 57m 40s.xml">
-      <configuration name="LinkedListQueueTest.remove" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 47m 45s.xml">
+      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_remove - 2019.03.22 at 13h 58m 42s.xml">
-      <configuration name="LinkedListQueueTest.remove" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 30s.xml">
+      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_add - 2019.03.22 at 13h 59m 09s.xml">
-      <configuration name="LinkedListQueueTest.add" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 34s.xml">
+      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_add - 2019.03.22 at 14h 28m 55s.xml">
-      <configuration name="LinkedListQueueTest.add" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 48s.xml">
+      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_add - 2019.03.22 at 14h 29m 02s.xml">
-      <configuration name="LinkedListQueueTest.add" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder1 - 2019.03.24 at 20h 53m 22s.xml">
+      <configuration name="BinarySearchTreeTest.preorder1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_add - 2019.03.22 at 14h 30m 53s.xml">
-      <configuration name="LinkedListQueueTest.add" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder1 - 2019.03.24 at 20h 58m 52s.xml">
+      <configuration name="BinarySearchTreeTest.preorder1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_remove - 2019.03.22 at 14h 31m 14s.xml">
-      <configuration name="LinkedListQueueTest.remove" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 20h 59m 14s.xml">
+      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_peek - 2019.03.22 at 14h 33m 53s.xml">
-      <configuration name="LinkedListQueueTest.peek" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 20h 59m 24s.xml">
+      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_peek - 2019.03.22 at 14h 34m 13s.xml">
-      <configuration name="LinkedListQueueTest.peek" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 21h 01m 03s.xml">
+      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedListQueueTest_peek - 2019.03.22 at 14h 34m 49s.xml">
-      <configuration name="LinkedListQueueTest.peek" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 21h 01m 25s.xml">
+      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43128000" />
+    <option name="totallyTimeSpent" value="45877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -865,11 +858,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3091309" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23652366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21568628" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2342048" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37199125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -927,51 +920,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/other/CheckBalancedParenthesesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/other/CheckBalancedParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-          <folding>
-            <element signature="e#566#603#1" expanded="true" />
-            <element signature="e#612#662#1" expanded="true" />
-            <element signature="e#683#1370#0" expanded="true" />
-            <element signature="e#728#738#1" expanded="true" />
-            <element signature="e#683#1370#0" expanded="true" />
-            <element signature="e#683#1370#0" expanded="true" />
-            <element signature="e#683#1370#0" expanded="true" />
-            <element signature="e#683#1370#0" expanded="true" />
-            <element signature="e#746#1360#0" expanded="true" />
-            <element signature="e#746#1360#0" expanded="true" />
-            <element signature="e#904#1360#0" expanded="true" />
-            <element signature="e#904#1360#0" expanded="true" />
-            <element signature="e#1083#1360#0" expanded="true" />
-            <element signature="e#1083#1360#0" expanded="true" />
-            <element signature="e#1190#1346#0" expanded="true" />
-            <element signature="e#1190#1346#0" expanded="true" />
-            <element signature="e#1379#1434#0" expanded="true" />
-            <element signature="e#1379#1434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/stack/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/stack/LinkedListStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1175,13 +1127,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -1193,13 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="330" selection-start-line="330" selection-end-line="330" />
         </state>
       </provider>
     </entry>
@@ -1263,23 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
-          <folding>
-            <element signature="method#add#0;class#ArrayQueueTest#0" />
-            <element signature="method#remove#0;class#ArrayQueueTest#0" />
-            <element signature="method#peek#0;class#ArrayQueueTest#0" />
-            <element signature="e#1323#1365#1" expanded="true" />
-            <element signature="e#1392#1423#1" expanded="true" />
-            <element signature="e#1461#1492#1" expanded="true" />
-            <element signature="e#1530#1561#1" expanded="true" />
-            <element signature="e#1599#1630#1" expanded="true" />
-            <element signature="e#1668#1699#1" expanded="true" />
-            <element signature="method#sizeEmpty#0;class#ArrayQueueTest#0" />
-            <element signature="e#2073#2100#1" expanded="true" />
-            <element signature="method#sizeFrontEqualRear#0;class#ArrayQueueTest#0" />
-            <element signature="e#2273#2324#1" expanded="true" />
-            <element signature="method#sizeFull#0;class#ArrayQueueTest#0" />
-            <element signature="e#2514#2565#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1287,10 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding>
-            <element signature="e#1379#1434#0" expanded="true" />
-            <element signature="e#1379#1434#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,21 +1215,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="method#ArrayQueue#0;class#ArrayQueue#0" />
-            <element signature="method#isEmpty#0;class#ArrayQueue#0" />
-            <element signature="e#631#640#0" expanded="true" />
-            <element signature="method#peek#0;class#ArrayQueue#0" />
-            <element signature="e#814#823#0" expanded="true" />
-            <element signature="method#size#0;class#ArrayQueue#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="723">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
@@ -1327,57 +1243,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#333#431#0" expanded="true" />
-            <element signature="e#333#431#0" expanded="true" />
-            <element signature="e#494#509#1" expanded="true" />
-            <element signature="e#545#708#0" expanded="true" />
-            <element signature="e#545#708#0" expanded="true" />
-            <element signature="e#644#662#0" expanded="true" />
-            <element signature="e#644#662#0" expanded="true" />
-            <element signature="e#688#702#0" expanded="true" />
-            <element signature="e#765#833#0" expanded="true" />
-            <element signature="e#765#833#0" expanded="true" />
-            <element signature="e#861#876#0" expanded="true" />
-            <element signature="e#936#1204#0" expanded="true" />
-            <element signature="e#936#1204#0" expanded="true" />
-            <element signature="e#1042#1204#0" expanded="true" />
-            <element signature="e#1046#1064#0" expanded="true" />
-            <element signature="e#1046#1064#0" expanded="true" />
-            <element signature="e#1042#1204#0" expanded="true" />
-            <element signature="e#1035#1050#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#379#468#0" expanded="true" />
+            <element signature="e#379#468#0" expanded="true" />
+            <element signature="e#435#457#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+        <state relative-caret-position="192">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+          <folding>
+            <element signature="e#12146#12217#0" expanded="true" />
+            <element signature="e#12146#12217#0" expanded="true" />
+            <element signature="e#12206#12207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#365#561#0" expanded="true" />
+            <element signature="e#377#391#0" expanded="true" />
+            <element signature="e#365#561#0" expanded="true" />
+            <element signature="e#407#449#0" expanded="true" />
+            <element signature="e#427#441#0" expanded="true" />
+            <element signature="e#407#449#0" expanded="true" />
+            <element signature="e#477#491#0" expanded="true" />
+            <element signature="e#506#550#0" expanded="true" />
+            <element signature="e#527#542#0" expanded="true" />
+            <element signature="e#506#550#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#728#1014#0" expanded="true" />
+            <element signature="e#728#1014#0" expanded="true" />
+            <element signature="e#789#1014#0" expanded="true" />
+            <element signature="e#801#815#0" expanded="true" />
+            <element signature="e#789#1014#0" expanded="true" />
+            <element signature="e#859#1014#0" expanded="true" />
+            <element signature="e#871#885#0" expanded="true" />
+            <element signature="e#859#1014#0" expanded="true" />
+            <element signature="e#915#929#0" expanded="true" />
+            <element signature="e#981#996#0" expanded="true" />
+            <element signature="e#1214#1263#0" expanded="true" />
+            <element signature="e#1214#1263#0" expanded="true" />
+            <element signature="e#1291#1305#0" expanded="true" />
+            <element signature="e#1325#1339#0" expanded="true" />
+            <element signature="e#1359#1374#0" expanded="true" />
+            <element signature="e#1572#1621#0" expanded="true" />
+            <element signature="e#1572#1621#0" expanded="true" />
+            <element signature="e#1638#1652#0" expanded="true" />
+            <element signature="e#1682#1696#0" expanded="true" />
+            <element signature="e#1715#1730#0" expanded="true" />
+            <element signature="e#1936#1985#0" expanded="true" />
+            <element signature="e#1936#1985#0" expanded="true" />
+            <element signature="e#2004#2018#0" expanded="true" />
+            <element signature="e#2039#2054#0" expanded="true" />
+            <element signature="e#2084#2098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#add#0;class#LinkedListQueueTest#0" />
-            <element signature="e#139#176#1" expanded="true" />
-            <element signature="method#remove#0;class#LinkedListQueueTest#0" />
-            <element signature="e#499#555#1" expanded="true" />
-            <element signature="method#peek#0;class#LinkedListQueueTest#0" />
-            <element signature="e#1064#1120#1" expanded="true" />
-            <element signature="e#1365#1447#1" expanded="true" />
-            <element signature="e#1444#1480#1" expanded="true" />
-            <element signature="e#1523#1559#1" expanded="true" />
-            <element signature="e#1602#1638#1" expanded="true" />
-            <element signature="e#1681#1717#1" expanded="true" />
-            <element signature="e#1760#1796#1" expanded="true" />
-            <element signature="e#2148#2185#1" expanded="true" />
-            <element signature="e#2253#2278#0" expanded="true" />
-            <element signature="e#2362#2418#1" expanded="true" />
-            <element signature="e#2467#2492#0" expanded="true" />
+            <element signature="method#insert#0;class#BinarySearchTreeTest#0" />
+            <element signature="e#1258#1317#1" expanded="true" />
+            <element signature="e#1632#1665#0" expanded="true" />
+            <element signature="e#1739#1798#1" expanded="true" />
+            <element signature="e#2186#2226#0" expanded="true" />
+            <element signature="e#2309#2368#1" expanded="true" />
+            <element signature="e#2683#2716#0" expanded="true" />
+            <element signature="e#2790#2849#1" expanded="true" />
+            <element signature="e#3237#3277#0" expanded="true" />
+            <element signature="e#3352#3411#1" expanded="true" />
+            <element signature="e#3726#3759#0" expanded="true" />
+            <element signature="e#3833#3892#1" expanded="true" />
+            <element signature="e#4280#4320#0" expanded="true" />
           </folding>
         </state>
       </provider>
