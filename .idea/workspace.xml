@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -28,50 +26,123 @@
       <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="40" />
+            <state relative-caret-position="647">
+              <caret line="154" column="20" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
               <folding>
                 <element signature="e#129#130#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#197#198#0" expanded="true" />
                 <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#365#561#0" expanded="true" />
+                <element signature="method#insert#1;class#BinarySearchTree#0" />
+                <element signature="e#296#563#0" expanded="true" />
+                <element signature="e#296#563#0" expanded="true" />
+                <element signature="e#366#563#0" expanded="true" />
                 <element signature="e#377#391#0" expanded="true" />
-                <element signature="e#365#561#0" expanded="true" />
-                <element signature="e#407#449#0" expanded="true" />
+                <element signature="e#366#563#0" expanded="true" />
+                <element signature="e#408#450#0" expanded="true" />
                 <element signature="e#427#441#0" expanded="true" />
-                <element signature="e#407#449#0" expanded="true" />
+                <element signature="e#408#450#0" expanded="true" />
+                <element signature="e#467#563#0" expanded="true" />
                 <element signature="e#477#491#0" expanded="true" />
-                <element signature="e#506#550#0" expanded="true" />
+                <element signature="e#467#563#0" expanded="true" />
+                <element signature="e#508#552#0" expanded="true" />
                 <element signature="e#527#542#0" expanded="true" />
-                <element signature="e#506#550#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#728#1014#0" expanded="true" />
-                <element signature="e#728#1014#0" expanded="true" />
-                <element signature="e#789#1014#0" expanded="true" />
+                <element signature="e#508#552#0" expanded="true" />
+                <element signature="method#search#1;class#BinarySearchTree#0" />
+                <element signature="e#730#1016#0" expanded="true" />
+                <element signature="e#730#1016#0" expanded="true" />
+                <element signature="e#791#1016#0" expanded="true" />
                 <element signature="e#801#815#0" expanded="true" />
-                <element signature="e#789#1014#0" expanded="true" />
-                <element signature="e#859#1014#0" expanded="true" />
+                <element signature="e#791#1016#0" expanded="true" />
+                <element signature="e#861#1016#0" expanded="true" />
                 <element signature="e#871#885#0" expanded="true" />
-                <element signature="e#859#1014#0" expanded="true" />
+                <element signature="e#861#1016#0" expanded="true" />
                 <element signature="e#915#929#0" expanded="true" />
                 <element signature="e#981#996#0" expanded="true" />
-                <element signature="e#1214#1263#0" expanded="true" />
-                <element signature="e#1214#1263#0" expanded="true" />
+                <element signature="method#preorder#0;class#BinarySearchTree#0" />
+                <element signature="method#preorder#1;class#BinarySearchTree#0" />
+                <element signature="e#1216#1265#0" expanded="true" />
+                <element signature="e#1216#1265#0" expanded="true" />
                 <element signature="e#1291#1305#0" expanded="true" />
                 <element signature="e#1325#1339#0" expanded="true" />
                 <element signature="e#1359#1374#0" expanded="true" />
-                <element signature="e#1572#1621#0" expanded="true" />
-                <element signature="e#1572#1621#0" expanded="true" />
+                <element signature="method#inorder#0;class#BinarySearchTree#0" />
+                <element signature="method#inorder#1;class#BinarySearchTree#0" />
+                <element signature="e#1628#1677#0" expanded="true" />
+                <element signature="e#1628#1677#0" expanded="true" />
                 <element signature="e#1638#1652#0" expanded="true" />
                 <element signature="e#1682#1696#0" expanded="true" />
                 <element signature="e#1715#1730#0" expanded="true" />
-                <element signature="e#1936#1985#0" expanded="true" />
-                <element signature="e#1936#1985#0" expanded="true" />
+                <element signature="method#postorder#0;class#BinarySearchTree#0" />
+                <element signature="method#postorder#1;class#BinarySearchTree#0" />
+                <element signature="e#1992#2041#0" expanded="true" />
+                <element signature="e#1992#2041#0" expanded="true" />
                 <element signature="e#2004#2018#0" expanded="true" />
                 <element signature="e#2039#2054#0" expanded="true" />
                 <element signature="e#2084#2098#0" expanded="true" />
+                <element signature="e#2199#2266#0" expanded="true" />
+                <element signature="e#2199#2266#0" expanded="true" />
+                <element signature="e#2273#2290#1" expanded="true" />
+                <element signature="e#2301#2378#0" expanded="true" />
+                <element signature="e#2306#2320#0" expanded="true" />
+                <element signature="e#2301#2378#0" expanded="true" />
+                <element signature="e#2351#2365#0" expanded="true" />
+                <element signature="e#2392#2406#0" expanded="true" />
+                <element signature="e#2466#2533#0" expanded="true" />
+                <element signature="e#2466#2533#0" expanded="true" />
+                <element signature="e#2550#2567#1" expanded="true" />
+                <element signature="e#2568#2645#0" expanded="true" />
+                <element signature="e#2583#2597#0" expanded="true" />
+                <element signature="e#2568#2645#0" expanded="true" />
+                <element signature="e#2628#2642#0" expanded="true" />
+                <element signature="e#2669#2683#0" expanded="true" />
+                <element signature="method#findMin#1;class#BinarySearchTree#0" />
+                <element signature="e#2450#2467#1" expanded="true" />
+                <element signature="e#2745#2812#0" expanded="true" />
+                <element signature="e#2745#2812#0" expanded="true" />
+                <element signature="e#2821#2899#0" expanded="true" />
+                <element signature="e#2567#2581#0" expanded="true" />
+                <element signature="e#2821#2899#0" expanded="true" />
+                <element signature="e#2604#2619#0" expanded="true" />
+                <element signature="e#2653#2667#0" expanded="true" />
+                <element signature="method#findHeight#1;class#BinarySearchTree#0" />
+                <element signature="e#3117#3169#0" expanded="true" />
+                <element signature="e#3117#3169#0" expanded="true" />
+                <element signature="e#2912#2941#1" expanded="true" />
+                <element signature="e#2940#2954#0" expanded="true" />
+                <element signature="e#2965#3010#1" expanded="true" />
+                <element signature="e#2994#3009#0" expanded="true" />
+                <element signature="e#3293#3326#0" expanded="true" />
+                <element signature="e#3293#3326#0" expanded="true" />
+                <element signature="e#3105#3106#0" expanded="true" />
+                <element signature="e#3146#3147#0" expanded="true" />
+                <element signature="e#3471#3525#0" expanded="true" />
+                <element signature="e#3471#3525#0" expanded="true" />
+                <element signature="e#3534#4052#0" expanded="true" />
+                <element signature="e#3274#3288#0" expanded="true" />
+                <element signature="e#3534#4052#0" expanded="true" />
+                <element signature="e#3576#3618#0" expanded="true" />
+                <element signature="e#3324#3338#0" expanded="true" />
+                <element signature="e#3576#3618#0" expanded="true" />
+                <element signature="e#3635#4052#0" expanded="true" />
+                <element signature="e#3379#3393#0" expanded="true" />
+                <element signature="e#3635#4052#0" expanded="true" />
+                <element signature="e#3676#3720#0" expanded="true" />
+                <element signature="e#3430#3445#0" expanded="true" />
+                <element signature="e#3676#3720#0" expanded="true" />
+                <element signature="e#3487#3501#0" expanded="true" />
+                <element signature="e#3536#3551#0" expanded="true" />
+                <element signature="e#3839#3922#0" expanded="true" />
+                <element signature="e#3576#3591#0" expanded="true" />
+                <element signature="e#3839#3922#0" expanded="true" />
+                <element signature="e#3626#3640#0" expanded="true" />
+                <element signature="e#3935#3973#0" expanded="true" />
+                <element signature="e#3956#3971#0" expanded="true" />
+                <element signature="e#3935#3973#0" expanded="true" />
+                <element signature="e#3987#4041#0" expanded="true" />
+                <element signature="e#4008#4023#0" expanded="true" />
+                <element signature="e#4025#4039#0" expanded="true" />
+                <element signature="e#3987#4041#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,23 +151,44 @@
       <file leaf-file-name="BinarySearchTreeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1148">
-              <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+            <state relative-caret-position="654">
+              <caret line="226" column="35" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#insert#0;class#BinarySearchTreeTest#0" />
+                <element signature="method#preorder1#0;class#BinarySearchTreeTest#0" />
                 <element signature="e#1258#1317#1" expanded="true" />
                 <element signature="e#1632#1665#0" expanded="true" />
+                <element signature="method#preorder2#0;class#BinarySearchTreeTest#0" />
                 <element signature="e#1739#1798#1" expanded="true" />
                 <element signature="e#2186#2226#0" expanded="true" />
+                <element signature="method#inorder1#0;class#BinarySearchTreeTest#0" />
                 <element signature="e#2309#2368#1" expanded="true" />
-                <element signature="e#2683#2716#0" expanded="true" />
+                <element signature="e#2673#2706#0" expanded="true" />
+                <element signature="method#inorder2#0;class#BinarySearchTreeTest#0" />
                 <element signature="e#2790#2849#1" expanded="true" />
-                <element signature="e#3237#3277#0" expanded="true" />
+                <element signature="e#3225#3265#0" expanded="true" />
+                <element signature="method#preorder1#2;class#BinarySearchTreeTest#0" />
                 <element signature="e#3352#3411#1" expanded="true" />
-                <element signature="e#3726#3759#0" expanded="true" />
+                <element signature="e#3716#3749#0" expanded="true" />
+                <element signature="method#postorder2#0;class#BinarySearchTreeTest#0" />
                 <element signature="e#3833#3892#1" expanded="true" />
-                <element signature="e#4280#4320#0" expanded="true" />
+                <element signature="e#4272#4313#0" expanded="true" />
+                <element signature="method#findMinExists#0;class#BinarySearchTreeTest#0" />
+                <element signature="e#4404#4463#1" expanded="true" />
+                <element signature="method#findMinExists#1;class#BinarySearchTreeTest#0" />
+                <element signature="e#4720#4779#1" expanded="true" />
+                <element signature="method#findMinExists#1;class#BinarySearchTreeTest#0" />
+                <element signature="e#4952#5011#1" expanded="true" />
+                <element signature="method#findMinDoesNotExist#1;class#BinarySearchTreeTest#0" />
+                <element signature="e#5278#5337#1" expanded="true" />
+                <element signature="method#findHeightTypical#0;class#BinarySearchTreeTest#0" />
+                <element signature="e#5506#5565#1" expanded="true" />
+                <element signature="method#findHeightAtRoot#0;class#BinarySearchTreeTest#0" />
+                <element signature="e#6022#6081#1" expanded="true" />
+                <element signature="method#findHeightNoRoot#0;class#BinarySearchTreeTest#0" />
+                <element signature="e#6296#6355#1" expanded="true" />
+                <element signature="e#6521#6580#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -444,9 +536,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="335" />
-    <option name="y" value="-17" />
+    <option name="x" value="604" />
+    <option name="y" value="-18" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -611,11 +708,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.postorder2">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.delete">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BinarySearchTreeTest.inorder1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -627,7 +724,30 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="inorder1" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BinarySearchTreeTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="delete" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -638,7 +758,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BinarySearchTreeTest.inorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.findHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -650,7 +770,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="inorder2" />
+      <option name="METHOD_NAME" value="findHeight" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -661,7 +781,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BinarySearchTreeTest.postorder1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.findHeightAtRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -673,7 +793,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="postorder1" />
+      <option name="METHOD_NAME" value="findHeightAtRoot" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -684,7 +804,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BinarySearchTreeTest.postorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeTest.findHeightNullRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -696,30 +816,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
       <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="postorder2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="BinarySearchTreeTest.preorder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
-      <option name="METHOD_NAME" value="preorder2" />
+      <option name="METHOD_NAME" value="findHeightNullRoot" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -769,19 +866,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.BinarySearchTreeTest.preorder2" />
-      <item itemvalue="JUnit.BinarySearchTreeTest.inorder1" />
-      <item itemvalue="JUnit.BinarySearchTreeTest.inorder2" />
-      <item itemvalue="JUnit.BinarySearchTreeTest.postorder1" />
-      <item itemvalue="JUnit.BinarySearchTreeTest.postorder2" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.findHeight" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.findHeightNullRoot" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.findHeightAtRoot" />
+      <item itemvalue="JUnit.BinarySearchTreeTest" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BinarySearchTreeTest.postorder2" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.postorder1" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.inorder2" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.inorder1" />
-        <item itemvalue="JUnit.BinarySearchTreeTest.preorder2" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
+        <item itemvalue="JUnit.BinarySearchTreeTest" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.findHeightAtRoot" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.findHeightNullRoot" />
+        <item itemvalue="JUnit.BinarySearchTreeTest.findHeight" />
       </list>
     </recent_temporary>
   </component>
@@ -805,44 +902,44 @@
       <workItem from="1553167797990" duration="2867000" />
       <workItem from="1553253327586" duration="3438000" />
       <workItem from="1553256821974" duration="5114000" />
-      <workItem from="1553455835378" duration="2021000" />
+      <workItem from="1553455835378" duration="5670000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 47m 45s.xml">
-      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findMinDoesNotExist - 2019.03.24 at 21h 17m 16s.xml">
+      <configuration name="BinarySearchTreeTest.findMinDoesNotExist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 30s.xml">
-      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findMaxExists - 2019.03.24 at 21h 17m 32s.xml">
+      <configuration name="BinarySearchTreeTest.findMaxExists" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 34s.xml">
-      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findMaxExists - 2019.03.24 at 21h 17m 44s.xml">
+      <configuration name="BinarySearchTreeTest.findMaxExists" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_insert - 2019.03.24 at 20h 48m 48s.xml">
-      <configuration name="BinarySearchTreeTest.insert" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findMaxExists - 2019.03.24 at 21h 18m 05s.xml">
+      <configuration name="BinarySearchTreeTest.findMaxExists" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder1 - 2019.03.24 at 20h 53m 22s.xml">
-      <configuration name="BinarySearchTreeTest.preorder1" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findHeight - 2019.03.24 at 21h 29m 23s.xml">
+      <configuration name="BinarySearchTreeTest.findHeight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder1 - 2019.03.24 at 20h 58m 52s.xml">
-      <configuration name="BinarySearchTreeTest.preorder1" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findHeight - 2019.03.24 at 21h 29m 48s.xml">
+      <configuration name="BinarySearchTreeTest.findHeight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 20h 59m 14s.xml">
-      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findHeight - 2019.03.24 at 21h 31m 49s.xml">
+      <configuration name="BinarySearchTreeTest.findHeight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 20h 59m 24s.xml">
-      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findHeightNullRoot - 2019.03.24 at 21h 33m 09s.xml">
+      <configuration name="BinarySearchTreeTest.findHeightNullRoot" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 21h 01m 03s.xml">
-      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_findHeightAtRoot - 2019.03.24 at 21h 33m 16s.xml">
+      <configuration name="BinarySearchTreeTest.findHeightAtRoot" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTreeTest_preorder2 - 2019.03.24 at 21h 01m 25s.xml">
-      <configuration name="BinarySearchTreeTest.preorder2" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest - 2019.03.24 at 21h 33m 37s.xml">
+      <configuration name="BinarySearchTreeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45877000" />
+    <option name="totallyTimeSpent" value="49526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -858,11 +955,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21568628" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12418301" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2342048" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38059703" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -920,7 +1017,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="19" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1297,73 +1394,167 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="40" />
+        <state relative-caret-position="647">
+          <caret line="154" column="20" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
           <folding>
             <element signature="e#129#130#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#365#561#0" expanded="true" />
+            <element signature="method#insert#1;class#BinarySearchTree#0" />
+            <element signature="e#296#563#0" expanded="true" />
+            <element signature="e#296#563#0" expanded="true" />
+            <element signature="e#366#563#0" expanded="true" />
             <element signature="e#377#391#0" expanded="true" />
-            <element signature="e#365#561#0" expanded="true" />
-            <element signature="e#407#449#0" expanded="true" />
+            <element signature="e#366#563#0" expanded="true" />
+            <element signature="e#408#450#0" expanded="true" />
             <element signature="e#427#441#0" expanded="true" />
-            <element signature="e#407#449#0" expanded="true" />
+            <element signature="e#408#450#0" expanded="true" />
+            <element signature="e#467#563#0" expanded="true" />
             <element signature="e#477#491#0" expanded="true" />
-            <element signature="e#506#550#0" expanded="true" />
+            <element signature="e#467#563#0" expanded="true" />
+            <element signature="e#508#552#0" expanded="true" />
             <element signature="e#527#542#0" expanded="true" />
-            <element signature="e#506#550#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#728#1014#0" expanded="true" />
-            <element signature="e#728#1014#0" expanded="true" />
-            <element signature="e#789#1014#0" expanded="true" />
+            <element signature="e#508#552#0" expanded="true" />
+            <element signature="method#search#1;class#BinarySearchTree#0" />
+            <element signature="e#730#1016#0" expanded="true" />
+            <element signature="e#730#1016#0" expanded="true" />
+            <element signature="e#791#1016#0" expanded="true" />
             <element signature="e#801#815#0" expanded="true" />
-            <element signature="e#789#1014#0" expanded="true" />
-            <element signature="e#859#1014#0" expanded="true" />
+            <element signature="e#791#1016#0" expanded="true" />
+            <element signature="e#861#1016#0" expanded="true" />
             <element signature="e#871#885#0" expanded="true" />
-            <element signature="e#859#1014#0" expanded="true" />
+            <element signature="e#861#1016#0" expanded="true" />
             <element signature="e#915#929#0" expanded="true" />
             <element signature="e#981#996#0" expanded="true" />
-            <element signature="e#1214#1263#0" expanded="true" />
-            <element signature="e#1214#1263#0" expanded="true" />
+            <element signature="method#preorder#0;class#BinarySearchTree#0" />
+            <element signature="method#preorder#1;class#BinarySearchTree#0" />
+            <element signature="e#1216#1265#0" expanded="true" />
+            <element signature="e#1216#1265#0" expanded="true" />
             <element signature="e#1291#1305#0" expanded="true" />
             <element signature="e#1325#1339#0" expanded="true" />
             <element signature="e#1359#1374#0" expanded="true" />
-            <element signature="e#1572#1621#0" expanded="true" />
-            <element signature="e#1572#1621#0" expanded="true" />
+            <element signature="method#inorder#0;class#BinarySearchTree#0" />
+            <element signature="method#inorder#1;class#BinarySearchTree#0" />
+            <element signature="e#1628#1677#0" expanded="true" />
+            <element signature="e#1628#1677#0" expanded="true" />
             <element signature="e#1638#1652#0" expanded="true" />
             <element signature="e#1682#1696#0" expanded="true" />
             <element signature="e#1715#1730#0" expanded="true" />
-            <element signature="e#1936#1985#0" expanded="true" />
-            <element signature="e#1936#1985#0" expanded="true" />
+            <element signature="method#postorder#0;class#BinarySearchTree#0" />
+            <element signature="method#postorder#1;class#BinarySearchTree#0" />
+            <element signature="e#1992#2041#0" expanded="true" />
+            <element signature="e#1992#2041#0" expanded="true" />
             <element signature="e#2004#2018#0" expanded="true" />
             <element signature="e#2039#2054#0" expanded="true" />
             <element signature="e#2084#2098#0" expanded="true" />
+            <element signature="e#2199#2266#0" expanded="true" />
+            <element signature="e#2199#2266#0" expanded="true" />
+            <element signature="e#2273#2290#1" expanded="true" />
+            <element signature="e#2301#2378#0" expanded="true" />
+            <element signature="e#2306#2320#0" expanded="true" />
+            <element signature="e#2301#2378#0" expanded="true" />
+            <element signature="e#2351#2365#0" expanded="true" />
+            <element signature="e#2392#2406#0" expanded="true" />
+            <element signature="e#2466#2533#0" expanded="true" />
+            <element signature="e#2466#2533#0" expanded="true" />
+            <element signature="e#2550#2567#1" expanded="true" />
+            <element signature="e#2568#2645#0" expanded="true" />
+            <element signature="e#2583#2597#0" expanded="true" />
+            <element signature="e#2568#2645#0" expanded="true" />
+            <element signature="e#2628#2642#0" expanded="true" />
+            <element signature="e#2669#2683#0" expanded="true" />
+            <element signature="method#findMin#1;class#BinarySearchTree#0" />
+            <element signature="e#2450#2467#1" expanded="true" />
+            <element signature="e#2745#2812#0" expanded="true" />
+            <element signature="e#2745#2812#0" expanded="true" />
+            <element signature="e#2821#2899#0" expanded="true" />
+            <element signature="e#2567#2581#0" expanded="true" />
+            <element signature="e#2821#2899#0" expanded="true" />
+            <element signature="e#2604#2619#0" expanded="true" />
+            <element signature="e#2653#2667#0" expanded="true" />
+            <element signature="method#findHeight#1;class#BinarySearchTree#0" />
+            <element signature="e#3117#3169#0" expanded="true" />
+            <element signature="e#3117#3169#0" expanded="true" />
+            <element signature="e#2912#2941#1" expanded="true" />
+            <element signature="e#2940#2954#0" expanded="true" />
+            <element signature="e#2965#3010#1" expanded="true" />
+            <element signature="e#2994#3009#0" expanded="true" />
+            <element signature="e#3293#3326#0" expanded="true" />
+            <element signature="e#3293#3326#0" expanded="true" />
+            <element signature="e#3105#3106#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3471#3525#0" expanded="true" />
+            <element signature="e#3471#3525#0" expanded="true" />
+            <element signature="e#3534#4052#0" expanded="true" />
+            <element signature="e#3274#3288#0" expanded="true" />
+            <element signature="e#3534#4052#0" expanded="true" />
+            <element signature="e#3576#3618#0" expanded="true" />
+            <element signature="e#3324#3338#0" expanded="true" />
+            <element signature="e#3576#3618#0" expanded="true" />
+            <element signature="e#3635#4052#0" expanded="true" />
+            <element signature="e#3379#3393#0" expanded="true" />
+            <element signature="e#3635#4052#0" expanded="true" />
+            <element signature="e#3676#3720#0" expanded="true" />
+            <element signature="e#3430#3445#0" expanded="true" />
+            <element signature="e#3676#3720#0" expanded="true" />
+            <element signature="e#3487#3501#0" expanded="true" />
+            <element signature="e#3536#3551#0" expanded="true" />
+            <element signature="e#3839#3922#0" expanded="true" />
+            <element signature="e#3576#3591#0" expanded="true" />
+            <element signature="e#3839#3922#0" expanded="true" />
+            <element signature="e#3626#3640#0" expanded="true" />
+            <element signature="e#3935#3973#0" expanded="true" />
+            <element signature="e#3956#3971#0" expanded="true" />
+            <element signature="e#3935#3973#0" expanded="true" />
+            <element signature="e#3987#4041#0" expanded="true" />
+            <element signature="e#4008#4023#0" expanded="true" />
+            <element signature="e#4025#4039#0" expanded="true" />
+            <element signature="e#3987#4041#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+        <state relative-caret-position="654">
+          <caret line="226" column="35" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#insert#0;class#BinarySearchTreeTest#0" />
+            <element signature="method#preorder1#0;class#BinarySearchTreeTest#0" />
             <element signature="e#1258#1317#1" expanded="true" />
             <element signature="e#1632#1665#0" expanded="true" />
+            <element signature="method#preorder2#0;class#BinarySearchTreeTest#0" />
             <element signature="e#1739#1798#1" expanded="true" />
             <element signature="e#2186#2226#0" expanded="true" />
+            <element signature="method#inorder1#0;class#BinarySearchTreeTest#0" />
             <element signature="e#2309#2368#1" expanded="true" />
-            <element signature="e#2683#2716#0" expanded="true" />
+            <element signature="e#2673#2706#0" expanded="true" />
+            <element signature="method#inorder2#0;class#BinarySearchTreeTest#0" />
             <element signature="e#2790#2849#1" expanded="true" />
-            <element signature="e#3237#3277#0" expanded="true" />
+            <element signature="e#3225#3265#0" expanded="true" />
+            <element signature="method#preorder1#2;class#BinarySearchTreeTest#0" />
             <element signature="e#3352#3411#1" expanded="true" />
-            <element signature="e#3726#3759#0" expanded="true" />
+            <element signature="e#3716#3749#0" expanded="true" />
+            <element signature="method#postorder2#0;class#BinarySearchTreeTest#0" />
             <element signature="e#3833#3892#1" expanded="true" />
-            <element signature="e#4280#4320#0" expanded="true" />
+            <element signature="e#4272#4313#0" expanded="true" />
+            <element signature="method#findMinExists#0;class#BinarySearchTreeTest#0" />
+            <element signature="e#4404#4463#1" expanded="true" />
+            <element signature="method#findMinExists#1;class#BinarySearchTreeTest#0" />
+            <element signature="e#4720#4779#1" expanded="true" />
+            <element signature="method#findMinExists#1;class#BinarySearchTreeTest#0" />
+            <element signature="e#4952#5011#1" expanded="true" />
+            <element signature="method#findMinDoesNotExist#1;class#BinarySearchTreeTest#0" />
+            <element signature="e#5278#5337#1" expanded="true" />
+            <element signature="method#findHeightTypical#0;class#BinarySearchTreeTest#0" />
+            <element signature="e#5506#5565#1" expanded="true" />
+            <element signature="method#findHeightAtRoot#0;class#BinarySearchTreeTest#0" />
+            <element signature="e#6022#6081#1" expanded="true" />
+            <element signature="method#findHeightNoRoot#0;class#BinarySearchTreeTest#0" />
+            <element signature="e#6296#6355#1" expanded="true" />
+            <element signature="e#6521#6580#1" expanded="true" />
           </folding>
         </state>
       </provider>

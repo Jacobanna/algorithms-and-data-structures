@@ -12,11 +12,11 @@ public class BinarySearchTree {
     }
 
     private Node insert(Node root, int data) {
-        if(root == null) {
+        if (root == null) {
             root = new Node(data);
         } else if (data <= root.getData()) {
             root.setLeft(insert(root.getLeft(), data));
-        } else if (data > root.getData()){
+        } else if (data > root.getData()) {
             root.setRight(insert(root.getRight(), data));
         }
         return root;
@@ -82,5 +82,76 @@ public class BinarySearchTree {
         postorder(node.getLeft());
         postorder(node.getRight());
         System.out.println(node.getData());
+    }
+
+    public int findMin() {
+        if (root == null) {
+            return Integer.MIN_VALUE;
+        }
+        Node temp = root;
+        while (temp.getLeft() != null) {
+            temp = temp.getLeft();
+        }
+        return temp.getData();
+    }
+
+    private int findMin(Node node) {
+        if (node == null) {
+            return Integer.MIN_VALUE;
+        }
+        Node temp = node;
+        while (temp.getLeft() != null) {
+            temp = temp.getLeft();
+        }
+        return temp.getData();
+    }
+
+    public int findMax() {
+        Node temp = root;
+        if (temp == null) {
+            return Integer.MIN_VALUE;
+        }
+        while (temp.getLeft() != null) {
+            temp = temp.getRight();
+        }
+        return temp.getData();
+    }
+
+    //Number of edges in longest path from root to leaf node
+    public int findHeight() {
+        return findHeight(root);
+    }
+
+    private int findHeight(Node node) {
+        if (node == null) {
+            return -1;
+        }
+        int leftHeight = findHeight(node.getLeft());
+        int rightHeight = findHeight(node.getRight());
+        return Math.max(leftHeight, rightHeight) + 1;
+    }
+
+    public void delete(int data) {
+        root = delete(root, data);
+    }
+
+    private Node delete(Node node, int data) {
+        if (node == null) {
+            return node;
+        }
+        if (data <= node.getData()) {
+            node.setLeft(delete(node.getLeft(), data));
+        } else if (data > node.getData()) {
+            node.setRight(delete(node.getRight(), data));
+        } else {
+            if(node.getLeft() == null) {
+                return node.getRight();
+            } else if (node.getRight() == null) {
+                return node.getLeft();
+            }
+            node.setData(findMin(node.getRight()));
+            node.setRight(delete(node.getRight(), node.getData()));
+        }
+        return node;
     }
 }

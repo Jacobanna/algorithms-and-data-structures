@@ -135,5 +135,96 @@ public class BinarySearchTreeTest {
         System.out.println("Expected:\n6\n9\n8\n11\n33\n13\n12\n10 ");
 
     }
+
+    @Test
+    public void findMinExists() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        binarySearchTree.insert(10);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(8);
+        Assert.assertEquals(8, binarySearchTree.findMin());
+    }
+
+    @Test
+    public void findMinDoesNotExist() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        Assert.assertEquals(Integer.MIN_VALUE, binarySearchTree.findMin());
+    }
+
+    @Test
+    public void findMaxExists() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        binarySearchTree.insert(10);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(8);
+        Assert.assertEquals(12, binarySearchTree.findMax());
+    }
+
+    @Test
+    public void findMaxDoesNotExist() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        Assert.assertEquals(Integer.MIN_VALUE, binarySearchTree.findMax());
+    }
+
+    @Test
+    public void findHeightTypical() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        binarySearchTree.insert(10);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(8);
+        binarySearchTree.insert(6);
+        binarySearchTree.insert(9);
+        binarySearchTree.insert(11);
+        binarySearchTree.insert(13);
+        binarySearchTree.insert(33);
+        //Then
+        Assert.assertEquals(3, binarySearchTree.findHeight());
+    }
+
+    @Test
+    public void findHeightAtRoot() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When
+        binarySearchTree.insert(10);
+        //Then
+        Assert.assertEquals(0, binarySearchTree.findHeight());
+    }
+
+    @Test
+    public void findHeightNullRoot() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        //When & Then
+        Assert.assertEquals(-1, binarySearchTree.findHeight());
+    }
+
+    @Test
+    public void delete() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        binarySearchTree.insert(10);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(8);
+        binarySearchTree.insert(6);
+        binarySearchTree.insert(9);
+        binarySearchTree.insert(11);
+        binarySearchTree.insert(13);
+        binarySearchTree.insert(33);
+        //When
+        binarySearchTree.delete(8);
+        //Then
+        binarySearchTree.inorder();
+    }
 }
 
