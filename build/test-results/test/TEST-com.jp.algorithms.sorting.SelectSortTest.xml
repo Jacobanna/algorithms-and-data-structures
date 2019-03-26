@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jp.algorithms.sorting.SelectSortTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-26T20:27:00" hostname="DESKTOP-DILTDO4" time="0.002">
+  <properties/>
+  <testcase name="selectSortOneValue" classname="com.jp.algorithms.sorting.SelectSortTest" time="0.001"/>
+  <testcase name="selectSortManyValues" classname="com.jp.algorithms.sorting.SelectSortTest" time="0.0"/>
+  <testcase name="selectSortNoValues" classname="com.jp.algorithms.sorting.SelectSortTest" time="0.0"/>
+  <testcase name="selectSortNullArray" classname="com.jp.algorithms.sorting.SelectSortTest" time="0.0"/>
+  <system-out><![CDATA[-200
+-4
+7
+13
+17
+17
+21
+123
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

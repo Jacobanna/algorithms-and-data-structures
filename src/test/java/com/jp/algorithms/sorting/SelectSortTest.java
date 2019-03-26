@@ -5,54 +5,58 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-public class BubbleSortTest {
+public class SelectSortTest {
     @Test
-    public void bubbleSortManyValues() {
+    public void selectSortManyValues() {
         //Given
-        int[] array = new int[7];
+        int[] array = new int[8];
         array[0] = 7;
-        array[1] = 14;
-        array[2] = -3;
-        array[3] = 27;
-        array[4] = 44;
-        array[5] = 31;
+        array[1] = 21;
+        array[2] = -4;
+        array[3] = 13;
+        array[4] = 123;
+        array[5] = 17;
         array[6] = -200;
+        array[7] = 17;
         //When
-        array = BubbleSort.bubbleSort(array);
-        int[] expectedArray = {-200, -3, 7, 14, 27, 31, 44};
+        array = SelectSort.selectSort(array);
+        int[] expectedArray = {-200, -4, 7, 13, 17, 17, 21, 123};
         //Then
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
+        }
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
 
     @Test
-    public void bubbleSortOneValue() {
+    public void selectSortOneValue() {
         //Given
         int[] array = new int[1];
         array[0] = 7;
         //When
-        array = BubbleSort.bubbleSort(array);
+        array = SelectSort.selectSort(array);
         int[] expectedArray = {7};
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
 
     @Test
-    public void bubbleSortNoValues() {
+    public void selectSortNoValues() {
         //Given
         int[] array = new int[3];
         //When
-        array = BubbleSort.bubbleSort(array);
+        array = SelectSort.selectSort(array);
         int[] expectedArray = {0, 0, 0};
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
 
     @Test
-    public void bubbleSortNullArray() {
+    public void selectSortNullArray() {
         //Given
         int[] array = null;
         //When
-        array = BubbleSort.bubbleSort(array);
+        array = SelectSort.selectSort(array);
         int[] expectedArray = null;
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));

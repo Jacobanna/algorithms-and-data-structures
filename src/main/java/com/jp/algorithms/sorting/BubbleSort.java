@@ -2,6 +2,9 @@ package com.jp.algorithms.sorting;
 
 public class BubbleSort {
     public static int[] bubbleSort(int[] array) {
+        if (array == null) {
+            return null;
+        }
         int count = 0;
         int temp;
         boolean isSwapped = true;

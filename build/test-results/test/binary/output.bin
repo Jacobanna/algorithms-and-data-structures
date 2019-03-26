@@ -1,14 +1,136 @@
-8List has 4 elements, possible indexes to get are : 0-3
-!7List has 4 elements, possible indexes to add are: 0-3
-!7List has 4 elements, possible indexes to add are: 0-3
-*'Cannot perform get(3), list is empty.
-/.&Queue is full, remove element first.
-/.$Queue is empty, add element first.
-/1&Queue is full, remove element first.
-/2&Queue is full, remove element first.
-/2$Queue is empty, add element first.
-65$Queue is empty, add element first.
-<>%Stack is empty, cannot pop element.
-<?%Stack is full, cannot push element.
-<C&Stack is empty, cannot peek element.
-<C&Stack is empty, cannot peek element.
+-200
+-4
+7
+13
+17
+17
+21
+123
+Postorder:
+6
+8
+15
+60
+12
+10
+
+Expected:
+6
+8
+15
+60
+12
+10
+Postorder:
+6
+9
+8
+11
+33
+13
+12
+10
+
+Expected:
+6
+9
+8
+11
+33
+13
+12
+10 
+
+Inorder:
+6
+8
+9
+10
+11
+12
+13
+33
+Preorder:
+10
+8
+6
+12
+60
+15
+
+Expected:
+10
+8
+6
+12
+60
+15
+Preorder:
+10
+8
+6
+9
+12
+11
+13
+33
+
+Expected:
+10
+8
+6
+9
+12
+11
+13
+33
+ 
+Inorder:
+ 6
+ 8
+ 10
+ 12
+ 15
+ 60
+ 
+Expected:
+ 6
+ 8
+ 10
+ 12
+ 15
+ 60
+!
+Inorder:
+!6
+!8
+!9
+!10
+!11
+!12
+!13
+!33
+!
+Expected:
+!6
+!8
+!9
+!10
+!11
+!12
+!13
+!33
+'68List has 4 elements, possible indexes to get are : 0-3
+';7List has 4 elements, possible indexes to add are: 0-3
+';7List has 4 elements, possible indexes to add are: 0-3
+'D'Cannot perform get(3), list is empty.
+IH&Queue is full, remove element first.
+IH$Queue is empty, add element first.
+IK&Queue is full, remove element first.
+IL&Queue is full, remove element first.
+IL$Queue is empty, add element first.
+PO$Queue is empty, add element first.
+VX%Stack is empty, cannot pop element.
+VY%Stack is full, cannot push element.
+V]&Stack is empty, cannot peek element.
+V]&Stack is empty, cannot peek element.
