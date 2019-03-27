@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectionSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/InsertionSortTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -15,6 +15,34 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="SelectionSortTest.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectionSortTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="493">
+                    <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                      <element signature="e#519#554#0" expanded="true" />
+                      <element signature="e#519#554#0" expanded="true" />
+                      <element signature="e#519#554#0" expanded="true" />
+                      <element signature="e#831#866#0" expanded="true" />
+                      <element signature="e#831#866#0" expanded="true" />
+                      <element signature="e#831#866#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -55,6 +83,26 @@
               <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#216#241#1" expanded="true" />
+                <element signature="e#473#525#1" expanded="true" />
+                <element signature="e#567#602#0" expanded="true" />
+                <element signature="e#567#602#0" expanded="true" />
+                <element signature="e#567#602#0" expanded="true" />
+                <element signature="e#685#710#1" expanded="true" />
+                <element signature="e#802#828#1" expanded="true" />
+                <element signature="e#870#905#0" expanded="true" />
+                <element signature="e#870#905#0" expanded="true" />
+                <element signature="e#870#905#0" expanded="true" />
+                <element signature="e#988#1013#1" expanded="true" />
+                <element signature="e#1083#1115#1" expanded="true" />
+                <element signature="e#1157#1192#0" expanded="true" />
+                <element signature="e#1157#1192#0" expanded="true" />
+                <element signature="e#1157#1192#0" expanded="true" />
+                <element signature="e#1276#1295#1" expanded="true" />
+                <element signature="e#1365#1392#1" expanded="true" />
+                <element signature="e#1434#1469#0" expanded="true" />
+                <element signature="e#1434#1469#0" expanded="true" />
+                <element signature="e#1434#1469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,11 +111,37 @@
       <file leaf-file-name="InsertionSortTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/InsertionSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#inSortManyValues#0;class#InsertionSortTest#0" />
+                <element signature="method#insertionSortOneValue#0;class#InsertionSortTest#0" />
+                <element signature="method#insertionSortNoValues#0;class#InsertionSortTest#0" />
+                <element signature="method#inserSortNullArray#0;class#InsertionSortTest#0" />
                 <element signature="e#1522#1549#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="e#181#534#0" expanded="true" />
+                <element signature="e#124#133#1" expanded="true" />
+                <element signature="e#181#534#0" expanded="true" />
+                <element signature="e#181#534#0" expanded="true" />
+                <element signature="e#181#534#0" expanded="true" />
+                <element signature="e#181#534#0" expanded="true" />
+                <element signature="e#265#419#0" expanded="true" />
+                <element signature="e#274#277#0" expanded="true" />
+                <element signature="e#265#419#0" expanded="true" />
+                <element signature="e#320#405#0" expanded="true" />
+                <element signature="e#320#405#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -433,6 +507,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/InsertionSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectionSortTest.java" />
       </list>
     </option>
   </component>
@@ -447,9 +523,8 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="427" />
-    <option name="y" value="-17" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -643,11 +718,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InsertionSortTest">
+  <component name="RunManager" selected="JUnit.SelectionSortTest.selectionSortNullArray">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BubbleSortTest.bubbleSortNullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -658,30 +733,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.BubbleSortTest" />
-      <option name="METHOD_NAME" value="bubbleSortNullArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="InsertionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.InsertionSortTest" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.SelectionSortTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -693,7 +745,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="InsertionSortTest.selectSortNoValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSortTest.selectionSortManyValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -704,8 +756,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.InsertionSortTest" />
-      <option name="METHOD_NAME" value="selectSortNoValues" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.SelectionSortTest" />
+      <option name="METHOD_NAME" value="selectionSortManyValues" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -716,7 +768,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="InsertionSortTest.selectSortNullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSortTest.selectionSortNoValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -727,8 +779,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.InsertionSortTest" />
-      <option name="METHOD_NAME" value="selectSortNullArray" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.SelectionSortTest" />
+      <option name="METHOD_NAME" value="selectionSortNoValues" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -739,7 +791,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="InsertionSortTest.selectSortOneValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSortTest.selectionSortNullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -750,8 +802,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.InsertionSortTest" />
-      <option name="METHOD_NAME" value="selectSortOneValue" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.SelectionSortTest" />
+      <option name="METHOD_NAME" value="selectionSortNullArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SelectionSortTest.selectionSortOneValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.algorithms.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.SelectionSortTest" />
+      <option name="METHOD_NAME" value="selectionSortOneValue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -801,19 +876,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.InsertionSortTest.selectSortNoValues" />
-      <item itemvalue="JUnit.InsertionSortTest.selectSortOneValue" />
-      <item itemvalue="JUnit.InsertionSortTest.selectSortNullArray" />
-      <item itemvalue="JUnit.BubbleSortTest.bubbleSortNullArray" />
-      <item itemvalue="JUnit.InsertionSortTest" />
+      <item itemvalue="JUnit.SelectionSortTest.selectionSortManyValues" />
+      <item itemvalue="JUnit.SelectionSortTest" />
+      <item itemvalue="JUnit.SelectionSortTest.selectionSortOneValue" />
+      <item itemvalue="JUnit.SelectionSortTest.selectionSortNoValues" />
+      <item itemvalue="JUnit.SelectionSortTest.selectionSortNullArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InsertionSortTest" />
-        <item itemvalue="JUnit.BubbleSortTest.bubbleSortNullArray" />
-        <item itemvalue="JUnit.InsertionSortTest.selectSortNullArray" />
-        <item itemvalue="JUnit.InsertionSortTest.selectSortOneValue" />
-        <item itemvalue="JUnit.InsertionSortTest.selectSortNoValues" />
+        <item itemvalue="JUnit.SelectionSortTest.selectionSortNullArray" />
+        <item itemvalue="JUnit.SelectionSortTest.selectionSortNoValues" />
+        <item itemvalue="JUnit.SelectionSortTest.selectionSortOneValue" />
+        <item itemvalue="JUnit.SelectionSortTest" />
+        <item itemvalue="JUnit.SelectionSortTest.selectionSortManyValues" />
       </list>
     </recent_temporary>
   </component>
@@ -841,51 +916,52 @@
       <workItem from="1553552050490" duration="2246000" />
       <workItem from="1553628641090" duration="2059000" />
       <workItem from="1553631748135" duration="303000" />
-      <workItem from="1553717321356" duration="931000" />
+      <workItem from="1553717321356" duration="2514000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BubbleSortTest_bubbleSortOneValue - 2019.03.25 at 23h 45m 08s.xml">
-      <configuration name="BubbleSortTest.bubbleSortOneValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSortNoValues - 2019.03.25 at 23h 45m 30s.xml">
-      <configuration name="BubbleSortTest.bubbleSortNoValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortManyValues - 2019.03.26 at 21h 11m 30s.xml">
-      <configuration name="SelectSortTest.selectSortManyValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortManyValues - 2019.03.26 at 21h 12m 06s.xml">
-      <configuration name="SelectSortTest.selectSortManyValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortManyValues - 2019.03.26 at 21h 12m 17s.xml">
-      <configuration name="SelectSortTest.selectSortManyValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortNoValues - 2019.03.26 at 21h 24m 22s.xml">
-      <configuration name="SelectSortTest.selectSortNoValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortOneValue - 2019.03.26 at 21h 24m 46s.xml">
-      <configuration name="SelectSortTest.selectSortOneValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectSortTest_selectSortNullArray - 2019.03.26 at 21h 25m 20s.xml">
-      <configuration name="SelectSortTest.selectSortNullArray" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SelectSortTest_selectSortNullArray - 2019.03.26 at 21h 25m 53s.xml">
       <configuration name="SelectSortTest.selectSortNullArray" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BubbleSortTest_bubbleSortNullArray - 2019.03.26 at 21h 26m 36s.xml">
       <configuration name="BubbleSortTest.bubbleSortNullArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InsertionSortTest - 2019.03.27 at 21h 36m 39s.xml">
+      <configuration name="InsertionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_selectionSortManyValues - 2019.03.27 at 21h 47m 51s.xml">
+      <configuration name="SelectionSortTest.selectionSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_selectionSortManyValues - 2019.03.27 at 21h 48m 01s.xml">
+      <configuration name="SelectionSortTest.selectionSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_selectionSortManyValues - 2019.03.27 at 21h 48m 09s.xml">
+      <configuration name="SelectionSortTest.selectionSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_selectionSortManyValues - 2019.03.27 at 21h 50m 22s.xml">
+      <configuration name="SelectionSortTest.selectionSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_selectionSortManyValues - 2019.03.27 at 21h 58m 07s.xml">
+      <configuration name="SelectionSortTest.selectionSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.03.27 at 21h 58m 32s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.03.27 at 21h 59m 10s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55866000" />
+    <option name="totallyTimeSpent" value="57449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32893288" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -893,11 +969,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31808278" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23093683" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3179318" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23322332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4067164" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.83479214" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -906,7 +982,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32893288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
@@ -960,20 +1035,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/stack/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/stack/LinkedListStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/stack/ArrayStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -1301,13 +1362,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/BubbleSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1325,20 +1383,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="624">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#241#1" expanded="true" />
+            <element signature="e#473#525#1" expanded="true" />
+            <element signature="e#567#602#0" expanded="true" />
+            <element signature="e#567#602#0" expanded="true" />
+            <element signature="e#567#602#0" expanded="true" />
+            <element signature="e#685#710#1" expanded="true" />
+            <element signature="e#802#828#1" expanded="true" />
+            <element signature="e#870#905#0" expanded="true" />
+            <element signature="e#870#905#0" expanded="true" />
+            <element signature="e#870#905#0" expanded="true" />
+            <element signature="e#988#1013#1" expanded="true" />
+            <element signature="e#1083#1115#1" expanded="true" />
+            <element signature="e#1157#1192#0" expanded="true" />
+            <element signature="e#1157#1192#0" expanded="true" />
+            <element signature="e#1157#1192#0" expanded="true" />
+            <element signature="e#1276#1295#1" expanded="true" />
+            <element signature="e#1365#1392#1" expanded="true" />
+            <element signature="e#1434#1469#0" expanded="true" />
+            <element signature="e#1434#1469#0" expanded="true" />
+            <element signature="e#1434#1469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#181#534#0" expanded="true" />
+            <element signature="e#124#133#1" expanded="true" />
+            <element signature="e#181#534#0" expanded="true" />
+            <element signature="e#181#534#0" expanded="true" />
+            <element signature="e#181#534#0" expanded="true" />
+            <element signature="e#181#534#0" expanded="true" />
+            <element signature="e#265#419#0" expanded="true" />
+            <element signature="e#274#277#0" expanded="true" />
+            <element signature="e#265#419#0" expanded="true" />
+            <element signature="e#320#405#0" expanded="true" />
+            <element signature="e#320#405#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/InsertionSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#inSortManyValues#0;class#InsertionSortTest#0" />
+            <element signature="method#insertionSortOneValue#0;class#InsertionSortTest#0" />
+            <element signature="method#insertionSortNoValues#0;class#InsertionSortTest#0" />
+            <element signature="method#inserSortNullArray#0;class#InsertionSortTest#0" />
             <element signature="e#1522#1549#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#554#0" expanded="true" />
+            <element signature="e#519#554#0" expanded="true" />
+            <element signature="e#519#554#0" expanded="true" />
+            <element signature="e#831#866#0" expanded="true" />
+            <element signature="e#831#866#0" expanded="true" />
+            <element signature="e#831#866#0" expanded="true" />
           </folding>
         </state>
       </provider>
