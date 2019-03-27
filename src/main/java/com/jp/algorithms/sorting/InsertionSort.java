@@ -1,7 +1,7 @@
 package com.jp.algorithms.sorting;
 
-public class SelectSort {
-    public static int[] selectSort(int[] array) {
+public class InsertionSort {
+    public static int[] insertionSort(int[] array) {
         if(array == null) {
             return null;
         }
