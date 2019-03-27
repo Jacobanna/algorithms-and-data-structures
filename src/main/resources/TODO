@@ -1,0 +1,2 @@
+1. Probably should change BubbleSort, InsertionSort and Selection Sort to be void methods
+2. Insert at BinaryTree is not working for now, need to implement it CORRECTLY
