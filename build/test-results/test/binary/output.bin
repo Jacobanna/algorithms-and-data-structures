@@ -1,136 +1,136 @@
--200
--4
-7
-13
-17
-17
-21
-123
-! Postorder:
-! 6
-! 8
-! 15
-! 60
-! 12
-! 10
-! 
+-200
+-4
+7
+13
+17
+17
+21
+123
+&%Postorder:
+&%6
+&%8
+&%15
+&%60
+&%12
+&%10
+&%
 Expected:
-! 6
-! 8
-! 15
-! 60
-! 12
-! 10
-!"Postorder:
-!"6
-!"9
-!"8
-!"11
-!"33
-!"13
-!"12
-!"10
-!"
+&%6
+&%8
+&%15
+&%60
+&%12
+&%10
+&'Postorder:
+&'6
+&'9
+&'8
+&'11
+&'33
+&'13
+&'12
+&'10
+&'
 Expected:
-!"6
-!"9
-!"8
-!"11
-!"33
-!"13
-!"12
-!"10 
-!#
+&'6
+&'9
+&'8
+&'11
+&'33
+&'13
+&'12
+&'10 
+&(
 Inorder:
-!#6
-!#8
-!#9
-!#10
-!#11
-!#12
-!#13
-!#33
-!&Preorder:
-!&10
-!&8
-!&6
-!&12
-!&60
-!&15
-!&
+&(6
+&(8
+&(9
+&(10
+&(11
+&(12
+&(13
+&(33
+&+Preorder:
+&+10
+&+8
+&+6
+&+12
+&+60
+&+15
+&+
 Expected:
-!&10
-!&8
-!&6
-!&12
-!&60
-!&15
-!'Preorder:
-!'10
-!'8
-!'6
-!'9
-!'12
-!'11
-!'13
-!'33
-!'
+&+10
+&+8
+&+6
+&+12
+&+60
+&+15
+&,Preorder:
+&,10
+&,8
+&,6
+&,9
+&,12
+&,11
+&,13
+&,33
+&,
 Expected:
-!'10
-!'8
-!'6
-!'9
-!'12
-!'11
-!'13
-!'33
-!*
+&,10
+&,8
+&,6
+&,9
+&,12
+&,11
+&,13
+&,33
+&/
 Inorder:
-!*6
-!*8
-!*10
-!*12
-!*15
-!*60
-!*
+&/6
+&/8
+&/10
+&/12
+&/15
+&/60
+&/
 Expected:
-!*6
-!*8
-!*10
-!*12
-!*15
-!*60
-!+
+&/6
+&/8
+&/10
+&/12
+&/15
+&/60
+&0
 Inorder:
-!+6
-!+8
-!+9
-!+10
-!+11
-!+12
-!+13
-!+33
-!+
+&06
+&08
+&09
+&010
+&011
+&012
+&013
+&033
+&0
 Expected:
-!+6
-!+8
-!+9
-!+10
-!+11
-!+12
-!+13
-!+33
-1@8List has 4 elements, possible indexes to get are : 0-3
-1E7List has 4 elements, possible indexes to add are: 0-3
-1E7List has 4 elements, possible indexes to add are: 0-3
-1N'Cannot perform get(3), list is empty.
-SR&Queue is full, remove element first.
-SR$Queue is empty, add element first.
-SU&Queue is full, remove element first.
-SV&Queue is full, remove element first.
-SV$Queue is empty, add element first.
-ZY$Queue is empty, add element first.
-`b%Stack is empty, cannot pop element.
-`c%Stack is full, cannot push element.
-`g&Stack is empty, cannot peek element.
-`g&Stack is empty, cannot peek element.
+&06
+&08
+&09
+&010
+&011
+&012
+&013
+&033
+6E8List has 4 elements, possible indexes to get are : 0-3
+6J7List has 4 elements, possible indexes to add are: 0-3
+6J7List has 4 elements, possible indexes to add are: 0-3
+6S'Cannot perform get(3), list is empty.
+XW&Queue is full, remove element first.
+XW$Queue is empty, add element first.
+XZ&Queue is full, remove element first.
+X[&Queue is full, remove element first.
+X[$Queue is empty, add element first.
+_^$Queue is empty, add element first.
+eg%Stack is empty, cannot pop element.
+eh%Stack is full, cannot push element.
+el&Stack is empty, cannot peek element.
+el&Stack is empty, cannot peek element.

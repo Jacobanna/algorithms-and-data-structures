@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.stack.ArrayStackTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-03-27T22:18:17" hostname="DESKTOP-DILTDO4" time="0.001">
+<testsuite name="com.jp.datastructures.stack.ArrayStackTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-03-28T20:07:21" hostname="DESKTOP-DILTDO4" time="0.002">
   <properties/>
   <testcase name="peekNotEmpty" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.001"/>
   <testcase name="isEmptyTrue" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
@@ -7,7 +7,7 @@
   <testcase name="push" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
   <testcase name="searchDoesNotContain" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
   <testcase name="isEmptyFalse" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
-  <testcase name="searchContains" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
+  <testcase name="searchContains" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.001"/>
   <testcase name="peekEmpty" classname="com.jp.datastructures.stack.ArrayStackTest" time="0.0"/>
   <system-out><![CDATA[Stack is empty, cannot pop element.
 Stack is full, cannot push element.
