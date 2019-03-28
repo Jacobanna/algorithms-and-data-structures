@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.algorithms.other.CheckBalancedParenthesesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-28T20:07:21" hostname="DESKTOP-DILTDO4" time="0.003">
+<testsuite name="com.jp.algorithms.other.CheckBalancedParenthesesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-28T21:45:23" hostname="DESKTOP-DILTDO4" time="0.002">
   <properties/>
-  <testcase name="checkBalancedParenthesesTrue1" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.002"/>
-  <testcase name="checkBalancedParenthesesTrue2" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.0"/>
+  <testcase name="checkBalancedParenthesesTrue1" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.001"/>
+  <testcase name="checkBalancedParenthesesTrue2" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.001"/>
   <testcase name="checkBalancedParenthesesTrue3" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.0"/>
   <testcase name="checkBalancedParenthesesFalse1" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.0"/>
   <testcase name="checkBalancedParenthesesFalse2" classname="com.jp.algorithms.other.CheckBalancedParenthesesTest" time="0.0"/>

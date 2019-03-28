@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/HeapSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/QuickSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,41 +47,129 @@
       <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#211#299#0" expanded="true" />
+                <element signature="e#269#357#0" expanded="true" />
                 <element signature="e#204#215#1" expanded="true" />
-                <element signature="e#211#299#0" expanded="true" />
-                <element signature="e#308#484#0" expanded="true" />
+                <element signature="e#269#357#0" expanded="true" />
+                <element signature="e#366#542#0" expanded="true" />
                 <element signature="e#298#310#1" expanded="true" />
-                <element signature="e#308#484#0" expanded="true" />
+                <element signature="e#366#542#0" expanded="true" />
                 <element signature="e#343#359#1" expanded="true" />
                 <element signature="e#360#380#1" expanded="true" />
                 <element signature="e#389#401#1" expanded="true" />
-                <element signature="e#608#615#0" expanded="true" />
+                <element signature="e#666#673#0" expanded="true" />
                 <element signature="e#421#445#1" expanded="true" />
-                <element signature="e#641#648#0" expanded="true" />
+                <element signature="e#699#706#0" expanded="true" />
                 <element signature="e#684#700#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSortTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HeapSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/HeapSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#heapSortManyValues#0;class#HeapSortTest#0" />
                 <element signature="e#161#178#1" expanded="true" />
                 <element signature="e#405#429#1" expanded="true" />
                 <element signature="e#549#584#0" expanded="true" />
                 <element signature="e#549#584#0" expanded="true" />
                 <element signature="e#549#584#0" expanded="true" />
+                <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+                <element signature="e#675#700#1" expanded="true" />
+                <element signature="e#919#970#1" expanded="true" />
+                <element signature="e#838#873#0" expanded="true" />
+                <element signature="e#838#873#0" expanded="true" />
+                <element signature="e#838#873#0" expanded="true" />
+                <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+                <element signature="e#954#979#1" expanded="true" />
+                <element signature="e#1372#1423#1" expanded="true" />
+                <element signature="e#1111#1146#0" expanded="true" />
+                <element signature="e#1111#1146#0" expanded="true" />
+                <element signature="e#1111#1146#0" expanded="true" />
+                <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+                <element signature="e#1581#1606#1" expanded="true" />
+                <element signature="e#1825#1876#1" expanded="true" />
+                <element signature="e#1374#1409#0" expanded="true" />
+                <element signature="e#1374#1409#0" expanded="true" />
+                <element signature="e#1374#1409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+              <folding>
+                <element signature="e#117#188#0" expanded="true" />
+                <element signature="e#117#188#0" expanded="true" />
+                <element signature="e#311#361#0" expanded="true" />
+                <element signature="e#311#361#0" expanded="true" />
+                <element signature="e#367#419#1" expanded="true" />
+                <element signature="e#575#601#1" expanded="true" />
+                <element signature="e#566#588#1" expanded="true" />
+                <element signature="e#615#628#1" expanded="true" />
+                <element signature="e#701#1001#0" expanded="true" />
+                <element signature="e#701#1001#0" expanded="true" />
+                <element signature="e#733#974#0" expanded="true" />
+                <element signature="e#733#974#0" expanded="true" />
+                <element signature="e#799#960#0" expanded="true" />
+                <element signature="e#799#960#0" expanded="true" />
+                <element signature="e#1028#1169#0" expanded="true" />
+                <element signature="e#1028#1169#0" expanded="true" />
+                <element signature="e#1385#1399#1" expanded="true" />
+                <element signature="e#1436#1453#1" expanded="true" />
+                <element signature="e#1468#1484#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSortTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/QuickSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="860">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#213#238#1" expanded="true" />
+                <element signature="e#457#508#1" expanded="true" />
+                <element signature="e#553#588#0" expanded="true" />
+                <element signature="e#553#588#0" expanded="true" />
+                <element signature="e#553#588#0" expanded="true" />
+                <element signature="e#666#691#1" expanded="true" />
+                <element signature="e#771#797#1" expanded="true" />
+                <element signature="e#845#880#0" expanded="true" />
+                <element signature="e#845#880#0" expanded="true" />
+                <element signature="e#845#880#0" expanded="true" />
+                <element signature="e#955#980#1" expanded="true" />
+                <element signature="e#1038#1070#1" expanded="true" />
+                <element signature="e#1121#1156#0" expanded="true" />
+                <element signature="e#1121#1156#0" expanded="true" />
+                <element signature="e#1121#1156#0" expanded="true" />
+                <element signature="e#1229#1248#1" expanded="true" />
+                <element signature="e#1306#1333#1" expanded="true" />
+                <element signature="e#1387#1422#0" expanded="true" />
+                <element signature="e#1387#1422#0" expanded="true" />
+                <element signature="e#1387#1422#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -452,8 +539,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/TODO" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/MergeSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/HeapSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/QuickSortTest.java" />
       </list>
     </option>
   </component>
@@ -469,8 +558,8 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="539" />
-    <option name="y" value="-21" />
+    <option name="x" value="455" />
+    <option name="y" value="-19" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -642,32 +731,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HeapSortTest.heapSortNullArray">
+  <component name="RunManager" selected="JUnit.QuickSortTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="HeapSortTest.heapSortManyValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.HeapSortTest" />
-      <option name="METHOD_NAME" value="heapSortManyValues" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="HeapSortTest.heapSortNoValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
@@ -738,7 +804,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MergeSortTest.mergeSortNullArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
       <extension name="coverage">
         <pattern>
@@ -749,8 +815,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.MergeSortTest" />
-      <option name="METHOD_NAME" value="mergeSortNullArray" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.QuickSortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QuickSortTest.quickSortManyValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.algorithms.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.QuickSortTest" />
+      <option name="METHOD_NAME" value="quickSortManyValues" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -800,19 +889,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MergeSortTest.mergeSortNullArray" />
-      <item itemvalue="JUnit.HeapSortTest.heapSortManyValues" />
       <item itemvalue="JUnit.HeapSortTest.heapSortOneValue" />
       <item itemvalue="JUnit.HeapSortTest.heapSortNoValues" />
       <item itemvalue="JUnit.HeapSortTest.heapSortNullArray" />
+      <item itemvalue="JUnit.QuickSortTest.quickSortManyValues" />
+      <item itemvalue="JUnit.QuickSortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QuickSortTest" />
+        <item itemvalue="JUnit.QuickSortTest.quickSortManyValues" />
         <item itemvalue="JUnit.HeapSortTest.heapSortNullArray" />
         <item itemvalue="JUnit.HeapSortTest.heapSortNoValues" />
         <item itemvalue="JUnit.HeapSortTest.heapSortOneValue" />
-        <item itemvalue="JUnit.HeapSortTest.heapSortManyValues" />
-        <item itemvalue="JUnit.MergeSortTest.mergeSortNullArray" />
       </list>
     </recent_temporary>
   </component>
@@ -841,26 +930,11 @@
       <workItem from="1553628641090" duration="2059000" />
       <workItem from="1553631748135" duration="303000" />
       <workItem from="1553717321356" duration="7371000" />
-      <workItem from="1553801031714" duration="2295000" />
+      <workItem from="1553801031714" duration="5637000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectionSortTest_selectionSortOneValue - 2019.03.27 at 22h 03m 11s.xml">
-      <configuration name="SelectionSortTest.selectionSortOneValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest_selectionSortNoValues - 2019.03.27 at 22h 03m 33s.xml">
-      <configuration name="SelectionSortTest.selectionSortNoValues" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest_selectionSortNullArray - 2019.03.27 at 22h 04m 02s.xml">
-      <configuration name="SelectionSortTest.selectionSortNullArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest_selectionSortNullArray - 2019.03.27 at 22h 04m 23s.xml">
-      <configuration name="SelectionSortTest.selectionSortNullArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortTest_mergeSortManyValues - 2019.03.27 at 23h 12m 19s.xml">
-      <configuration name="MergeSortTest.mergeSortManyValues" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MergeSortTest_mergeSortManyValues - 2019.03.27 at 23h 16m 20s.xml">
       <configuration name="MergeSortTest.mergeSortManyValues" configurationId="JUnit" />
     </history-entry>
@@ -876,9 +950,24 @@
     <history-entry file="MergeSortTest_mergeSortNullArray - 2019.03.27 at 23h 18m 07s.xml">
       <configuration name="MergeSortTest.mergeSortNullArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HeapSortTest_heapSortManyValues - 2019.03.28 at 21h 04m 39s.xml">
+      <configuration name="HeapSortTest.heapSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeapSortTest_heapSortManyValues - 2019.03.28 at 21h 05m 11s.xml">
+      <configuration name="HeapSortTest.heapSortManyValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeapSortTest_heapSortOneValue - 2019.03.28 at 21h 05m 56s.xml">
+      <configuration name="HeapSortTest.heapSortOneValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeapSortTest_heapSortNoValues - 2019.03.28 at 21h 06m 15s.xml">
+      <configuration name="HeapSortTest.heapSortNoValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeapSortTest_heapSortNullArray - 2019.03.28 at 21h 06m 45s.xml">
+      <configuration name="HeapSortTest.heapSortNullArray" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64601000" />
+    <option name="totallyTimeSpent" value="67943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -886,6 +975,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32893288" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -897,7 +987,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23311546" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4824094" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -906,7 +996,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32893288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
@@ -960,20 +1049,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/list/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="348" column="45" selection-start-line="348" selection-start-column="45" selection-end-line="348" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="204" column="5" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/list/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1240,13 +1315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1258,6 +1326,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#inSortManyValues#0;class#InsertionSortTest#0" />
+            <element signature="method#insertionSortOneValue#0;class#InsertionSortTest#0" />
+            <element signature="method#insertionSortNoValues#0;class#InsertionSortTest#0" />
+            <element signature="method#inserSortNullArray#0;class#InsertionSortTest#0" />
+            <element signature="e#1522#1549#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1299,30 +1375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#211#299#0" expanded="true" />
-            <element signature="e#204#215#1" expanded="true" />
-            <element signature="e#211#299#0" expanded="true" />
-            <element signature="e#308#484#0" expanded="true" />
-            <element signature="e#298#310#1" expanded="true" />
-            <element signature="e#308#484#0" expanded="true" />
-            <element signature="e#343#359#1" expanded="true" />
-            <element signature="e#360#380#1" expanded="true" />
-            <element signature="e#389#401#1" expanded="true" />
-            <element signature="e#608#615#0" expanded="true" />
-            <element signature="e#421#445#1" expanded="true" />
-            <element signature="e#641#648#0" expanded="true" />
-            <element signature="e#684#700#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -1341,17 +1393,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#269#357#0" expanded="true" />
+            <element signature="e#204#215#1" expanded="true" />
+            <element signature="e#269#357#0" expanded="true" />
+            <element signature="e#366#542#0" expanded="true" />
+            <element signature="e#298#310#1" expanded="true" />
+            <element signature="e#366#542#0" expanded="true" />
+            <element signature="e#343#359#1" expanded="true" />
+            <element signature="e#360#380#1" expanded="true" />
+            <element signature="e#389#401#1" expanded="true" />
+            <element signature="e#666#673#0" expanded="true" />
+            <element signature="e#421#445#1" expanded="true" />
+            <element signature="e#699#706#0" expanded="true" />
+            <element signature="e#684#700#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <folding>
+            <element signature="e#117#188#0" expanded="true" />
+            <element signature="e#117#188#0" expanded="true" />
+            <element signature="e#311#361#0" expanded="true" />
+            <element signature="e#311#361#0" expanded="true" />
+            <element signature="e#367#419#1" expanded="true" />
+            <element signature="e#575#601#1" expanded="true" />
+            <element signature="e#566#588#1" expanded="true" />
+            <element signature="e#615#628#1" expanded="true" />
+            <element signature="e#701#1001#0" expanded="true" />
+            <element signature="e#701#1001#0" expanded="true" />
+            <element signature="e#733#974#0" expanded="true" />
+            <element signature="e#733#974#0" expanded="true" />
+            <element signature="e#799#960#0" expanded="true" />
+            <element signature="e#799#960#0" expanded="true" />
+            <element signature="e#1028#1169#0" expanded="true" />
+            <element signature="e#1028#1169#0" expanded="true" />
+            <element signature="e#1385#1399#1" expanded="true" />
+            <element signature="e#1436#1453#1" expanded="true" />
+            <element signature="e#1468#1484#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/HeapSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#heapSortManyValues#0;class#HeapSortTest#0" />
             <element signature="e#161#178#1" expanded="true" />
             <element signature="e#405#429#1" expanded="true" />
             <element signature="e#549#584#0" expanded="true" />
             <element signature="e#549#584#0" expanded="true" />
             <element signature="e#549#584#0" expanded="true" />
+            <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+            <element signature="e#675#700#1" expanded="true" />
+            <element signature="e#919#970#1" expanded="true" />
+            <element signature="e#838#873#0" expanded="true" />
+            <element signature="e#838#873#0" expanded="true" />
+            <element signature="e#838#873#0" expanded="true" />
+            <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+            <element signature="e#954#979#1" expanded="true" />
+            <element signature="e#1372#1423#1" expanded="true" />
+            <element signature="e#1111#1146#0" expanded="true" />
+            <element signature="e#1111#1146#0" expanded="true" />
+            <element signature="e#1111#1146#0" expanded="true" />
+            <element signature="method#heapSortManyValues#1;class#HeapSortTest#0" />
+            <element signature="e#1581#1606#1" expanded="true" />
+            <element signature="e#1825#1876#1" expanded="true" />
+            <element signature="e#1374#1409#0" expanded="true" />
+            <element signature="e#1374#1409#0" expanded="true" />
+            <element signature="e#1374#1409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#238#1" expanded="true" />
+            <element signature="e#457#508#1" expanded="true" />
+            <element signature="e#553#588#0" expanded="true" />
+            <element signature="e#553#588#0" expanded="true" />
+            <element signature="e#553#588#0" expanded="true" />
+            <element signature="e#666#691#1" expanded="true" />
+            <element signature="e#771#797#1" expanded="true" />
+            <element signature="e#845#880#0" expanded="true" />
+            <element signature="e#845#880#0" expanded="true" />
+            <element signature="e#845#880#0" expanded="true" />
+            <element signature="e#955#980#1" expanded="true" />
+            <element signature="e#1038#1070#1" expanded="true" />
+            <element signature="e#1121#1156#0" expanded="true" />
+            <element signature="e#1121#1156#0" expanded="true" />
+            <element signature="e#1121#1156#0" expanded="true" />
+            <element signature="e#1229#1248#1" expanded="true" />
+            <element signature="e#1306#1333#1" expanded="true" />
+            <element signature="e#1387#1422#0" expanded="true" />
+            <element signature="e#1387#1422#0" expanded="true" />
+            <element signature="e#1387#1422#0" expanded="true" />
           </folding>
         </state>
       </provider>

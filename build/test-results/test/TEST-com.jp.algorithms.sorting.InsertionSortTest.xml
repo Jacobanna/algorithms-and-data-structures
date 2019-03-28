@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.algorithms.sorting.InsertionSortTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-28T20:07:21" hostname="DESKTOP-DILTDO4" time="0.002">
+<testsuite name="com.jp.algorithms.sorting.InsertionSortTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-28T21:45:23" hostname="DESKTOP-DILTDO4" time="0.001">
   <properties/>
-  <testcase name="insertionSortOneValue" classname="com.jp.algorithms.sorting.InsertionSortTest" time="0.001"/>
+  <testcase name="insertionSortOneValue" classname="com.jp.algorithms.sorting.InsertionSortTest" time="0.0"/>
   <testcase name="insertionSortNullArray" classname="com.jp.algorithms.sorting.InsertionSortTest" time="0.0"/>
   <testcase name="insertionSortManyValues" classname="com.jp.algorithms.sorting.InsertionSortTest" time="0.001"/>
   <testcase name="insertionSortNoValues" classname="com.jp.algorithms.sorting.InsertionSortTest" time="0.0"/>

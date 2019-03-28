@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.queue.LinkedListQueueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-03-28T20:07:21" hostname="DESKTOP-DILTDO4" time="0.001">
+<testsuite name="com.jp.datastructures.queue.LinkedListQueueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-03-28T21:45:23" hostname="DESKTOP-DILTDO4" time="0.001">
   <properties/>
-  <testcase name="remove" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.0"/>
+  <testcase name="remove" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.001"/>
   <testcase name="isEmptyTrue" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.0"/>
   <testcase name="add" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.0"/>
-  <testcase name="peek" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.001"/>
+  <testcase name="peek" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.0"/>
   <testcase name="isEmptyFalse" classname="com.jp.datastructures.queue.LinkedListQueueTest" time="0.0"/>
   <system-out><![CDATA[Queue is empty, add element first.
 ]]></system-out>
