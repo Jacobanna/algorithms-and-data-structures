@@ -17,7 +17,7 @@ public class SelectionSortTest {
         array[4] = 43;
         int[] expectedArray = {-12, 1, 4, 7, 43};
         //When
-        array = SelectionSort.selectionSort(array);
+        SelectionSort.selectionSort(array);
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
@@ -29,7 +29,7 @@ public class SelectionSortTest {
         array[0] = 7;
         int[] expectedArray = {7};
         //When
-        array = SelectionSort.selectionSort(array);
+        SelectionSort.selectionSort(array);
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
@@ -40,7 +40,7 @@ public class SelectionSortTest {
         int[] array = new int[3];
         int[] expectedArray = {0, 0, 0};
         //When
-        array = SelectionSort.selectionSort(array);
+        SelectionSort.selectionSort(array);
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }
@@ -51,7 +51,7 @@ public class SelectionSortTest {
         int[] array = null;
         int[] expectedArray = null;
         //When
-        array = SelectionSort.selectionSort(array);
+        SelectionSort.selectionSort(array);
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
     }

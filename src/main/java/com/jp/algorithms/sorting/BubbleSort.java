@@ -1,9 +1,9 @@
 package com.jp.algorithms.sorting;
 
 public class BubbleSort {
-    public static int[] bubbleSort(int[] array) {
+    public static void bubbleSort(int[] array) {
         if (array == null) {
-            return null;
+            return;
         }
         int count = 0;
         int temp;
@@ -20,6 +20,5 @@ public class BubbleSort {
             }
             count++;
         }
-        return array;
     }
 }

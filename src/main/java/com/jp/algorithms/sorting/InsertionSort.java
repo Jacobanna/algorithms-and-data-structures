@@ -1,9 +1,9 @@
 package com.jp.algorithms.sorting;
 
 public class InsertionSort {
-    public static int[] insertionSort(int[] array) {
+    public static void insertionSort(int[] array) {
         if(array == null) {
-            return null;
+            return;
         }
         int current;
         int index;
@@ -16,6 +16,5 @@ public class InsertionSort {
             }
             array[index] = current;
         }
-        return array;
     }
 }

@@ -18,7 +18,7 @@ public class BubbleSortTest {
         array[5] = 31;
         array[6] = -200;
         //When
-        array = BubbleSort.bubbleSort(array);
+        BubbleSort.bubbleSort(array);
         int[] expectedArray = {-200, -3, 7, 14, 27, 31, 44};
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
@@ -30,7 +30,7 @@ public class BubbleSortTest {
         int[] array = new int[1];
         array[0] = 7;
         //When
-        array = BubbleSort.bubbleSort(array);
+        BubbleSort.bubbleSort(array);
         int[] expectedArray = {7};
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
@@ -41,7 +41,7 @@ public class BubbleSortTest {
         //Given
         int[] array = new int[3];
         //When
-        array = BubbleSort.bubbleSort(array);
+        BubbleSort.bubbleSort(array);
         int[] expectedArray = {0, 0, 0};
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));
@@ -52,7 +52,7 @@ public class BubbleSortTest {
         //Given
         int[] array = null;
         //When
-        array = BubbleSort.bubbleSort(array);
+        BubbleSort.bubbleSort(array);
         int[] expectedArray = null;
         //Then
         Assert.assertTrue(Arrays.equals(expectedArray, array));

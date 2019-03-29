@@ -1,9 +1,9 @@
 package com.jp.algorithms.sorting;
 
 public class SelectionSort {
-    public static int[] selectionSort(int[] array) {
+    public static void selectionSort(int[] array) {
         if (array == null) {
-            return null;
+            return;
         }
         int minIndex;
         int temp;
@@ -19,6 +19,5 @@ public class SelectionSort {
             array[minIndex] = array[i];
             array[i] = temp;
         }
-        return array;
     }
 }

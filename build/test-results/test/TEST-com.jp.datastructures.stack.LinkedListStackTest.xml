@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.stack.LinkedListStackTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-28T21:45:23" hostname="DESKTOP-DILTDO4" time="0.001">
+<testsuite name="com.jp.datastructures.stack.LinkedListStackTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-29T19:43:23" hostname="DESKTOP-DILTDO4" time="0.001">
   <properties/>
-  <testcase name="isEmptyTrue" classname="com.jp.datastructures.stack.LinkedListStackTest" time="0.001"/>
+  <testcase name="isEmptyTrue" classname="com.jp.datastructures.stack.LinkedListStackTest" time="0.0"/>
   <testcase name="pop" classname="com.jp.datastructures.stack.LinkedListStackTest" time="0.0"/>
   <testcase name="peek" classname="com.jp.datastructures.stack.LinkedListStackTest" time="0.0"/>
   <testcase name="push" classname="com.jp.datastructures.stack.LinkedListStackTest" time="0.0"/>

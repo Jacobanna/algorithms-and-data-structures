@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.algorithms.other.ReverseStringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-28T21:45:23" hostname="DESKTOP-DILTDO4" time="0.001">
+<testsuite name="com.jp.algorithms.other.ReverseStringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T19:43:23" hostname="DESKTOP-DILTDO4" time="0.001">
   <properties/>
-  <testcase name="reverseEmpty" classname="com.jp.algorithms.other.ReverseStringTest" time="0.001"/>
+  <testcase name="reverseEmpty" classname="com.jp.algorithms.other.ReverseStringTest" time="0.0"/>
   <testcase name="reverse" classname="com.jp.algorithms.other.ReverseStringTest" time="0.0"/>
   <testcase name="reverseNull" classname="com.jp.algorithms.other.ReverseStringTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
