@@ -6,131 +6,131 @@
 17
 21
 123
-+*Postorder:
-+*6
-+*8
-+*15
-+*60
-+*12
-+*10
-+*
+0/Postorder:
+0/6
+0/8
+0/15
+0/60
+0/12
+0/10
+0/
 Expected:
-+*6
-+*8
-+*15
-+*60
-+*12
-+*10
-+,Postorder:
-+,6
-+,9
-+,8
-+,11
-+,33
-+,13
-+,12
-+,10
-+,
+0/6
+0/8
+0/15
+0/60
+0/12
+0/10
+01Postorder:
+016
+019
+018
+0111
+0133
+0113
+0112
+0110
+01
 Expected:
-+,6
-+,9
-+,8
-+,11
-+,33
-+,13
-+,12
-+,10 
-+-
+016
+019
+018
+0111
+0133
+0113
+0112
+0110 
+02
 Inorder:
-+-6
-+-8
-+-9
-+-10
-+-11
-+-12
-+-13
-+-33
-+0Preorder:
-+010
-+08
-+06
-+012
-+060
-+015
-+0
+026
+028
+029
+0210
+0211
+0212
+0213
+0233
+05Preorder:
+0510
+058
+056
+0512
+0560
+0515
+05
 Expected:
-+010
-+08
-+06
-+012
-+060
-+015
-+1Preorder:
-+110
-+18
-+16
-+19
-+112
-+111
-+113
-+133
-+1
+0510
+058
+056
+0512
+0560
+0515
+06Preorder:
+0610
+068
+066
+069
+0612
+0611
+0613
+0633
+06
 Expected:
-+110
-+18
-+16
-+19
-+112
-+111
-+113
-+133
-+4
+0610
+068
+066
+069
+0612
+0611
+0613
+0633
+09
 Inorder:
-+46
-+48
-+410
-+412
-+415
-+460
-+4
+096
+098
+0910
+0912
+0915
+0960
+09
 Expected:
-+46
-+48
-+410
-+412
-+415
-+460
-+5
+096
+098
+0910
+0912
+0915
+0960
+0:
 Inorder:
-+56
-+58
-+59
-+510
-+511
-+512
-+513
-+533
-+5
+0:6
+0:8
+0:9
+0:10
+0:11
+0:12
+0:13
+0:33
+0:
 Expected:
-+56
-+58
-+59
-+510
-+511
-+512
-+513
-+533
-;J8List has 4 elements, possible indexes to get are : 0-3
-;O7List has 4 elements, possible indexes to add are: 0-3
-;O7List has 4 elements, possible indexes to add are: 0-3
-;X'Cannot perform get(3), list is empty.
-]\&Queue is full, remove element first.
-]\$Queue is empty, add element first.
-]_&Queue is full, remove element first.
-]`&Queue is full, remove element first.
-]`$Queue is empty, add element first.
-dc$Queue is empty, add element first.
-jl%Stack is empty, cannot pop element.
-jm%Stack is full, cannot push element.
-jq&Stack is empty, cannot peek element.
-jq&Stack is empty, cannot peek element.
+0:6
+0:8
+0:9
+0:10
+0:11
+0:12
+0:13
+0:33
+@O8List has 4 elements, possible indexes to get are : 0-3
+@T7List has 4 elements, possible indexes to add are: 0-3
+@T7List has 4 elements, possible indexes to add are: 0-3
+@]'Cannot perform get(3), list is empty.
+ba&Queue is full, remove element first.
+ba$Queue is empty, add element first.
+bd&Queue is full, remove element first.
+be&Queue is full, remove element first.
+be$Queue is empty, add element first.
+ih$Queue is empty, add element first.
+oq%Stack is empty, cannot pop element.
+or%Stack is full, cannot push element.
+ov&Stack is empty, cannot peek element.
+ov&Stack is empty, cannot peek element.
