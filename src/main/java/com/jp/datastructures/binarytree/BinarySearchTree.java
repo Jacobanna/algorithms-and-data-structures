@@ -135,23 +135,27 @@ public class BinarySearchTree {
         root = delete(root, data);
     }
 
-    private Node delete(Node node, int data) {
-        if (node == null) {
-            return node;
+    private Node delete(Node root, int data) {
+        if (root == null) {
+            return root;
         }
-        if (data <= node.getData()) {
-            node.setLeft(delete(node.getLeft(), data));
-        } else if (data > node.getData()) {
-            node.setRight(delete(node.getRight(), data));
+        if (data < root.getData()) {
+            root.setLeft(delete(root.getLeft(), data));
+        } else if (data > root.getData()) {
+            root.setRight(delete(root.getRight(), data));
         } else {
-            if(node.getLeft() == null) {
-                return node.getRight();
-            } else if (node.getRight() == null) {
-                return node.getLeft();
+            if(root.getLeft() == null && root.getRight() == null) {
+                return null;
+            } else if(root.getLeft() == null) {
+                return root.getRight();
+            } else if (root.getRight() == null) {
+                return root.getLeft();
+            } else {
+                int min = findMin(root.getRight());
+                root.setData(min);
+                root.setRight(delete(root.getRight(), min));
             }
-            node.setData(findMin(node.getRight()));
-            node.setRight(delete(node.getRight(), node.getData()));
         }
-        return node;
+        return root;
     }
 }

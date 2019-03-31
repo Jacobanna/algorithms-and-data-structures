@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e7ffb-f22f-4a3f-982a-27589b89bb57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Sorting Algorithms" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/RadixSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/binarytree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jp/datastructures/binarytree/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/jp/datastructures/binarytree/BinarySearchTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/jp/datastructures/binarytree/BinarySearchTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,6 +33,61 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="BST.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BST.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="85">
+                    <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+                    <folding>
+                      <element signature="e#122#152#0" expanded="true" />
+                      <element signature="e#122#152#0" expanded="true" />
+                      <element signature="e#162#1328#0" expanded="true" />
+                      <element signature="e#173#187#0" expanded="true" />
+                      <element signature="e#162#1328#0" expanded="true" />
+                      <element signature="e#203#245#0" expanded="true" />
+                      <element signature="e#223#237#0" expanded="true" />
+                      <element signature="e#203#245#0" expanded="true" />
+                      <element signature="e#262#1328#0" expanded="true" />
+                      <element signature="e#273#287#0" expanded="true" />
+                      <element signature="e#262#1328#0" expanded="true" />
+                      <element signature="e#303#347#0" expanded="true" />
+                      <element signature="e#324#339#0" expanded="true" />
+                      <element signature="e#303#347#0" expanded="true" />
+                      <element signature="e#417#1318#0" expanded="true" />
+                      <element signature="e#421#435#0" expanded="true" />
+                      <element signature="e#447#462#0" expanded="true" />
+                      <element signature="e#417#1318#0" expanded="true" />
+                      <element signature="e#509#527#0" expanded="true" />
+                      <element signature="e#509#527#0" expanded="true" />
+                      <element signature="e#578#1318#0" expanded="true" />
+                      <element signature="e#582#596#0" expanded="true" />
+                      <element signature="e#578#1318#0" expanded="true" />
+                      <element signature="e#696#714#0" expanded="true" />
+                      <element signature="e#696#714#0" expanded="true" />
+                      <element signature="e#740#755#0" expanded="true" />
+                      <element signature="e#776#1318#0" expanded="true" />
+                      <element signature="e#780#795#0" expanded="true" />
+                      <element signature="e#776#1318#0" expanded="true" />
+                      <element signature="e#896#914#0" expanded="true" />
+                      <element signature="e#896#914#0" expanded="true" />
+                      <element signature="e#940#954#0" expanded="true" />
+                      <element signature="e#1284#1302#0" expanded="true" />
+                      <element signature="e#1284#1302#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -41,69 +98,76 @@
       <file leaf-file-name="RadixSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/RadixSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="147" column="67" selection-start-line="147" selection-start-column="67" selection-end-line="147" selection-end-column="67" />
               <folding>
-                <element signature="e#117#167#0" expanded="true" />
-                <element signature="e#117#167#0" expanded="true" />
-                <element signature="e#127#157#1" expanded="true" />
-                <element signature="e#315#456#0" expanded="true" />
-                <element signature="e#171#191#1" expanded="true" />
-                <element signature="e#215#245#1" expanded="true" />
-                <element signature="e#315#456#0" expanded="true" />
-                <element signature="e#399#428#1" expanded="true" />
-                <element signature="e#452#478#1" expanded="true" />
-                <element signature="e#750#840#0" expanded="true" />
-                <element signature="e#750#840#0" expanded="true" />
-                <element signature="e#849#934#0" expanded="true" />
-                <element signature="e#849#934#0" expanded="true" />
-                <element signature="e#943#1100#0" expanded="true" />
-                <element signature="e#952#958#0" expanded="true" />
-                <element signature="e#943#1100#0" expanded="true" />
-                <element signature="e#1000#1020#0" expanded="true" />
-                <element signature="e#1061#1083#0" expanded="true" />
-                <element signature="e#1061#1083#0" expanded="true" />
-                <element signature="e#1109#1181#0" expanded="true" />
-                <element signature="e#1109#1181#0" expanded="true" />
-                <element signature="e#1103#1122#1" expanded="true" />
-                <element signature="e#1280#1401#0" expanded="true" />
-                <element signature="e#1136#1146#1" expanded="true" />
-                <element signature="e#1280#1401#0" expanded="true" />
-                <element signature="e#1280#1401#0" expanded="true" />
-                <element signature="e#1280#1401#0" expanded="true" />
-                <element signature="e#1280#1401#0" expanded="true" />
+                <element signature="e#2462#2529#0" expanded="true" />
+                <element signature="e#2462#2529#0" expanded="true" />
+                <element signature="e#2538#2555#1" expanded="true" />
+                <element signature="e#2564#2641#0" expanded="true" />
+                <element signature="e#2564#2641#0" expanded="true" />
+                <element signature="e#2616#2630#0" expanded="true" />
+                <element signature="e#2657#2671#0" expanded="true" />
+                <element signature="method#findMax#0;class#BinarySearchTree#0" />
+                <element signature="e#3501#3555#0" expanded="true" />
+                <element signature="e#3501#3555#0" expanded="true" />
+                <element signature="e#3564#4234#0" expanded="true" />
+                <element signature="e#3610#3624#0" expanded="true" />
+                <element signature="e#3564#4234#0" expanded="true" />
+                <element signature="e#3605#3647#0" expanded="true" />
+                <element signature="e#3660#3674#0" expanded="true" />
+                <element signature="e#3605#3647#0" expanded="true" />
+                <element signature="e#3664#4234#0" expanded="true" />
+                <element signature="e#3710#3724#0" expanded="true" />
+                <element signature="e#3664#4234#0" expanded="true" />
+                <element signature="e#3705#3749#0" expanded="true" />
+                <element signature="e#3761#3776#0" expanded="true" />
+                <element signature="e#3705#3749#0" expanded="true" />
+                <element signature="e#3818#3832#0" expanded="true" />
+                <element signature="e#3844#3859#0" expanded="true" />
+                <element signature="e#3984#3998#0" expanded="true" />
+                <element signature="e#4095#4110#0" expanded="true" />
+                <element signature="e#3972#4224#0" expanded="true" />
+                <element signature="e#4100#4115#0" expanded="true" />
+                <element signature="e#3972#4224#0" expanded="true" />
+                <element signature="e#4248#4262#0" expanded="true" />
+                <element signature="e#4301#4336#1" expanded="true" />
+                <element signature="e#4319#4334#0" expanded="true" />
+                <element signature="e#4131#4148#0" expanded="true" />
+                <element signature="e#4131#4148#0" expanded="true" />
+                <element signature="e#4166#4209#0" expanded="true" />
+                <element signature="e#4409#4424#0" expanded="true" />
+                <element signature="e#4166#4209#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RadixSortTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchTreeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadixSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/RadixSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="541">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#157#180#1" expanded="true" />
-                <element signature="e#393#417#1" expanded="true" />
-                <element signature="e#528#563#0" expanded="true" />
-                <element signature="e#528#563#0" expanded="true" />
-                <element signature="e#528#563#0" expanded="true" />
-                <element signature="e#889#914#1" expanded="true" />
-                <element signature="e#1125#1171#1" expanded="true" />
-                <element signature="e#824#859#0" expanded="true" />
-                <element signature="e#824#859#0" expanded="true" />
-                <element signature="e#824#859#0" expanded="true" />
-                <element signature="e#1552#1577#1" expanded="true" />
-                <element signature="e#1788#1834#1" expanded="true" />
-                <element signature="e#1104#1139#0" expanded="true" />
-                <element signature="e#1104#1139#0" expanded="true" />
-                <element signature="e#1104#1139#0" expanded="true" />
-                <element signature="e#2206#2225#1" expanded="true" />
-                <element signature="e#2451#2497#1" expanded="true" />
-                <element signature="e#1374#1409#0" expanded="true" />
-                <element signature="e#1374#1409#0" expanded="true" />
-                <element signature="e#1374#1409#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -440,8 +504,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/queue/LinkedListQueue.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/queue/LinkedListQueueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/Node.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/SelectSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/main/resources/TODO" />
@@ -460,6 +522,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/Sorting Algorithms" />
         <option value="$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/RadixSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/RadixSortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -474,9 +539,8 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="257" />
-    <option name="y" value="-14" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -488,8 +552,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -540,8 +602,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -551,6 +612,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -596,13 +658,24 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-and-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jp" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -638,9 +711,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadixSortTest">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.delete">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BinarySearchTreeTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms-and-data-structures_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jp.datastructures.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jp.datastructures.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.jp.datastructures.binarytree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="BubbleSortTest.bubbleSortManyValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-data-structures_test" />
@@ -679,29 +775,6 @@
       <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.QuickSortTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="QuickSortTest.quickSortManyValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms-and-data-structures_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jp.algorithms.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jp.algorithms.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.jp.algorithms.sorting.QuickSortTest" />
-      <option name="METHOD_NAME" value="quickSortManyValues" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -796,19 +869,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.QuickSortTest.quickSortManyValues" />
       <item itemvalue="JUnit.QuickSortTest" />
       <item itemvalue="JUnit.BubbleSortTest.bubbleSortManyValues" />
       <item itemvalue="JUnit.RadixSortTest.radixSortTest" />
       <item itemvalue="JUnit.RadixSortTest" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
         <item itemvalue="JUnit.RadixSortTest" />
         <item itemvalue="JUnit.RadixSortTest.radixSortTest" />
         <item itemvalue="JUnit.BubbleSortTest.bubbleSortManyValues" />
         <item itemvalue="JUnit.QuickSortTest" />
-        <item itemvalue="JUnit.QuickSortTest.quickSortManyValues" />
       </list>
     </recent_temporary>
   </component>
@@ -839,52 +912,53 @@
       <workItem from="1553717321356" duration="7371000" />
       <workItem from="1553801031714" duration="6330000" />
       <workItem from="1553888366055" duration="1132000" />
-      <workItem from="1553962353316" duration="5527000" />
+      <workItem from="1553962353316" duration="6290000" />
+      <workItem from="1554059228134" duration="2771000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HeapSortTest_heapSortNoValues - 2019.03.28 at 21h 06m 15s.xml">
-      <configuration name="HeapSortTest.heapSortNoValues" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 42m 20s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HeapSortTest_heapSortNullArray - 2019.03.28 at 21h 06m 45s.xml">
-      <configuration name="HeapSortTest.heapSortNullArray" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 44m 12s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest_quickSortManyValues - 2019.03.28 at 22h 44m 33s.xml">
-      <configuration name="QuickSortTest.quickSortManyValues" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 45m 55s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest - 2019.03.28 at 22h 44m 38s.xml">
-      <configuration name="QuickSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 49m 42s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuickSortTest - 2019.03.28 at 22h 44m 56s.xml">
-      <configuration name="QuickSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 51m 01s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadixSortTest_radixSortTest - 2019.03.30 at 17h 58m 59s.xml">
-      <configuration name="RadixSortTest.radixSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 51m 09s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadixSortTest_radixSortTest - 2019.03.30 at 18h 19m 06s.xml">
-      <configuration name="RadixSortTest.radixSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 51m 53s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadixSortTest_radixSortTest - 2019.03.30 at 18h 19m 55s.xml">
-      <configuration name="RadixSortTest.radixSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 52m 07s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadixSortTest_radixSortTest - 2019.03.30 at 18h 25m 05s.xml">
-      <configuration name="RadixSortTest.radixSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 53m 03s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RadixSortTest_radixSortTest - 2019.03.30 at 18h 26m 27s.xml">
-      <configuration name="RadixSortTest.radixSortTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTreeTest_delete - 2019.03.31 at 21h 53m 50s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75295000" />
+    <option name="totallyTimeSpent" value="78829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278867" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278328" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -892,12 +966,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31154683" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23542354" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4147415" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23529412" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28774616" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4247405" />
       <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -911,6 +984,7 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
@@ -954,7 +1028,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1189,20 +1263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="226" column="35" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1214,9 +1274,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1231,10 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="8" selection-start-line="8" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#heapSortManyValues#0;class#HeapSortTest#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1242,9 +1295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1280,9 +1330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1290,9 +1337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1303,83 +1347,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Sorting Algorithms">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/RadixSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
           <folding>
-            <element signature="e#680#980#0" expanded="true" />
-            <element signature="e#680#980#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/algorithms/sorting/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="306">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/datastructures/binarytree/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
-            <element signature="e#117#167#0" expanded="true" />
-            <element signature="e#117#167#0" expanded="true" />
-            <element signature="e#127#157#1" expanded="true" />
-            <element signature="e#315#456#0" expanded="true" />
-            <element signature="e#171#191#1" expanded="true" />
-            <element signature="e#215#245#1" expanded="true" />
-            <element signature="e#315#456#0" expanded="true" />
-            <element signature="e#399#428#1" expanded="true" />
-            <element signature="e#452#478#1" expanded="true" />
-            <element signature="e#750#840#0" expanded="true" />
-            <element signature="e#750#840#0" expanded="true" />
-            <element signature="e#849#934#0" expanded="true" />
-            <element signature="e#849#934#0" expanded="true" />
-            <element signature="e#943#1100#0" expanded="true" />
-            <element signature="e#952#958#0" expanded="true" />
-            <element signature="e#943#1100#0" expanded="true" />
-            <element signature="e#1000#1020#0" expanded="true" />
-            <element signature="e#1061#1083#0" expanded="true" />
-            <element signature="e#1061#1083#0" expanded="true" />
-            <element signature="e#1109#1181#0" expanded="true" />
-            <element signature="e#1109#1181#0" expanded="true" />
-            <element signature="e#1103#1122#1" expanded="true" />
-            <element signature="e#1280#1401#0" expanded="true" />
-            <element signature="e#1136#1146#1" expanded="true" />
-            <element signature="e#1280#1401#0" expanded="true" />
-            <element signature="e#1280#1401#0" expanded="true" />
-            <element signature="e#1280#1401#0" expanded="true" />
-            <element signature="e#1280#1401#0" expanded="true" />
+            <element signature="e#122#152#0" expanded="true" />
+            <element signature="e#122#152#0" expanded="true" />
+            <element signature="e#162#1328#0" expanded="true" />
+            <element signature="e#173#187#0" expanded="true" />
+            <element signature="e#162#1328#0" expanded="true" />
+            <element signature="e#203#245#0" expanded="true" />
+            <element signature="e#223#237#0" expanded="true" />
+            <element signature="e#203#245#0" expanded="true" />
+            <element signature="e#262#1328#0" expanded="true" />
+            <element signature="e#273#287#0" expanded="true" />
+            <element signature="e#262#1328#0" expanded="true" />
+            <element signature="e#303#347#0" expanded="true" />
+            <element signature="e#324#339#0" expanded="true" />
+            <element signature="e#303#347#0" expanded="true" />
+            <element signature="e#417#1318#0" expanded="true" />
+            <element signature="e#421#435#0" expanded="true" />
+            <element signature="e#447#462#0" expanded="true" />
+            <element signature="e#417#1318#0" expanded="true" />
+            <element signature="e#509#527#0" expanded="true" />
+            <element signature="e#509#527#0" expanded="true" />
+            <element signature="e#578#1318#0" expanded="true" />
+            <element signature="e#582#596#0" expanded="true" />
+            <element signature="e#578#1318#0" expanded="true" />
+            <element signature="e#696#714#0" expanded="true" />
+            <element signature="e#696#714#0" expanded="true" />
+            <element signature="e#740#755#0" expanded="true" />
+            <element signature="e#776#1318#0" expanded="true" />
+            <element signature="e#780#795#0" expanded="true" />
+            <element signature="e#776#1318#0" expanded="true" />
+            <element signature="e#896#914#0" expanded="true" />
+            <element signature="e#896#914#0" expanded="true" />
+            <element signature="e#940#954#0" expanded="true" />
+            <element signature="e#1284#1302#0" expanded="true" />
+            <element signature="e#1284#1302#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jp/algorithms/sorting/RadixSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jp/datastructures/binarytree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="484">
+          <caret line="147" column="67" selection-start-line="147" selection-start-column="67" selection-end-line="147" selection-end-column="67" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#180#1" expanded="true" />
-            <element signature="e#393#417#1" expanded="true" />
-            <element signature="e#528#563#0" expanded="true" />
-            <element signature="e#528#563#0" expanded="true" />
-            <element signature="e#528#563#0" expanded="true" />
-            <element signature="e#889#914#1" expanded="true" />
-            <element signature="e#1125#1171#1" expanded="true" />
-            <element signature="e#824#859#0" expanded="true" />
-            <element signature="e#824#859#0" expanded="true" />
-            <element signature="e#824#859#0" expanded="true" />
-            <element signature="e#1552#1577#1" expanded="true" />
-            <element signature="e#1788#1834#1" expanded="true" />
-            <element signature="e#1104#1139#0" expanded="true" />
-            <element signature="e#1104#1139#0" expanded="true" />
-            <element signature="e#1104#1139#0" expanded="true" />
-            <element signature="e#2206#2225#1" expanded="true" />
-            <element signature="e#2451#2497#1" expanded="true" />
-            <element signature="e#1374#1409#0" expanded="true" />
-            <element signature="e#1374#1409#0" expanded="true" />
-            <element signature="e#1374#1409#0" expanded="true" />
+            <element signature="e#2462#2529#0" expanded="true" />
+            <element signature="e#2462#2529#0" expanded="true" />
+            <element signature="e#2538#2555#1" expanded="true" />
+            <element signature="e#2564#2641#0" expanded="true" />
+            <element signature="e#2564#2641#0" expanded="true" />
+            <element signature="e#2616#2630#0" expanded="true" />
+            <element signature="e#2657#2671#0" expanded="true" />
+            <element signature="method#findMax#0;class#BinarySearchTree#0" />
+            <element signature="e#3501#3555#0" expanded="true" />
+            <element signature="e#3501#3555#0" expanded="true" />
+            <element signature="e#3564#4234#0" expanded="true" />
+            <element signature="e#3610#3624#0" expanded="true" />
+            <element signature="e#3564#4234#0" expanded="true" />
+            <element signature="e#3605#3647#0" expanded="true" />
+            <element signature="e#3660#3674#0" expanded="true" />
+            <element signature="e#3605#3647#0" expanded="true" />
+            <element signature="e#3664#4234#0" expanded="true" />
+            <element signature="e#3710#3724#0" expanded="true" />
+            <element signature="e#3664#4234#0" expanded="true" />
+            <element signature="e#3705#3749#0" expanded="true" />
+            <element signature="e#3761#3776#0" expanded="true" />
+            <element signature="e#3705#3749#0" expanded="true" />
+            <element signature="e#3818#3832#0" expanded="true" />
+            <element signature="e#3844#3859#0" expanded="true" />
+            <element signature="e#3984#3998#0" expanded="true" />
+            <element signature="e#4095#4110#0" expanded="true" />
+            <element signature="e#3972#4224#0" expanded="true" />
+            <element signature="e#4100#4115#0" expanded="true" />
+            <element signature="e#3972#4224#0" expanded="true" />
+            <element signature="e#4248#4262#0" expanded="true" />
+            <element signature="e#4301#4336#1" expanded="true" />
+            <element signature="e#4319#4334#0" expanded="true" />
+            <element signature="e#4131#4148#0" expanded="true" />
+            <element signature="e#4131#4148#0" expanded="true" />
+            <element signature="e#4166#4209#0" expanded="true" />
+            <element signature="e#4409#4424#0" expanded="true" />
+            <element signature="e#4166#4209#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.list.LinkedListTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2019-03-30T17:49:35" hostname="DESKTOP-DILTDO4" time="0.004">
+<testsuite name="com.jp.datastructures.list.LinkedListTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2019-03-31T19:59:00" hostname="DESKTOP-DILTDO4" time="0.006">
   <properties/>
-  <testcase name="addAtPosLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="addAtPosLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
   <testcase name="getFirstNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="containsEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="reverseIterativeNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
@@ -10,13 +10,13 @@
   <testcase name="reverseRecursiveOneElement" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="indexOfExists" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="getNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
-  <testcase name="getFirstEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getFirstEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
   <testcase name="removeFirstOccurenceMiddle" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="addAtPosMiddle" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="addAtPosFirst" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="reverseIterativeOneElement" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="removeFirstWithElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
-  <testcase name="getOutOfBoundaries" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getOutOfBoundaries" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
   <testcase name="clear" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="removeFirstNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="removeFirstOccurenceNotInList" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
@@ -26,7 +26,7 @@
   <testcase name="containsNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="removeLastWithElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="reverseIterativeManyElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
-  <testcase name="getLastNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
+  <testcase name="getLastNotEmpty" classname="com.jp.datastructures.list.LinkedListTest" time="0.001"/>
   <testcase name="removeFirstOccurenceLast" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="reverseRecursiveManyElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>
   <testcase name="reverseRecursiveNoElements" classname="com.jp.datastructures.list.LinkedListTest" time="0.0"/>

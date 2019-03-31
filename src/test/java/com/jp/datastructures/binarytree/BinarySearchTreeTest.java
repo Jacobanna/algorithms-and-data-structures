@@ -223,8 +223,15 @@ public class BinarySearchTreeTest {
         binarySearchTree.insert(33);
         //When
         binarySearchTree.delete(8);
+        binarySearchTree.delete(11);
+        binarySearchTree.delete(33);
+        binarySearchTree.delete(10);
+        binarySearchTree.delete(12);
+        binarySearchTree.delete(6);
+        binarySearchTree.delete(9);
+        binarySearchTree.delete(13);
         //Then
-        binarySearchTree.inorder();
+        Assert.assertEquals(Integer.MIN_VALUE, binarySearchTree.findMin());
     }
 }
 
