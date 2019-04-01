@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.binarytree.BinarySearchTreeTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2019-03-31T19:59:00" hostname="DESKTOP-DILTDO4" time="0.005">
+<testsuite name="com.jp.datastructures.binarytree.BinarySearchTreeTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-04-01T20:33:19" hostname="DESKTOP-DILTDO4" time="0.008">
   <properties/>
-  <testcase name="postorder1" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
-  <testcase name="postorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
+  <testcase name="postorder1" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.002"/>
+  <testcase name="postorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.002"/>
   <testcase name="delete" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="findMaxDoesNotExist" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="insert" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="preorder1" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
-  <testcase name="preorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
+  <testcase name="preorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
   <testcase name="findMaxExists" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="findMinExists" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
-  <testcase name="inorder1" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
-  <testcase name="inorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
+  <testcase name="levelorder" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
+  <testcase name="inorder1" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.001"/>
+  <testcase name="inorder2" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="findHeightNullRoot" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="findHeightAtRoot" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
   <testcase name="findMinDoesNotExist" classname="com.jp.datastructures.binarytree.BinarySearchTreeTest" time="0.0"/>
@@ -80,7 +81,7 @@ Expected:
 11
 13
 33
-Inorder:
+10 8 12 6 9 11 13 33 Inorder:
 6
 8
 10

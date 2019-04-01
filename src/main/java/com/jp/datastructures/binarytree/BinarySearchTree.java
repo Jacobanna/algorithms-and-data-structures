@@ -1,5 +1,8 @@
 package com.jp.datastructures.binarytree;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class BinarySearchTree {
     private Node root;
 
@@ -82,6 +85,28 @@ public class BinarySearchTree {
         postorder(node.getLeft());
         postorder(node.getRight());
         System.out.println(node.getData());
+    }
+
+    public void breadthFirstTraversal() {
+        breadthFirstTraversal(root);
+    }
+
+    private void breadthFirstTraversal(Node root) {
+        Queue<Node> queue = new LinkedList();
+        if (root == null)
+            return;
+        queue.clear();
+        queue.add(root);
+        while(!queue.isEmpty()){
+            Node node = queue.remove();
+            System.out.print(node.getData() + " ");
+            if(node.getLeft() != null) {
+                queue.add(node.getLeft());
+            }
+            if(node.getRight() != null) {
+                queue.add(node.getRight());
+            }
+        }
     }
 
     public int findMin() {

@@ -233,5 +233,22 @@ public class BinarySearchTreeTest {
         //Then
         Assert.assertEquals(Integer.MIN_VALUE, binarySearchTree.findMin());
     }
+
+    @Test
+    public void levelorder() {
+        //Given
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        binarySearchTree.insert(10);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(8);
+        binarySearchTree.insert(6);
+        binarySearchTree.insert(9);
+        binarySearchTree.insert(11);
+        binarySearchTree.insert(13);
+        binarySearchTree.insert(33);
+        //When
+        binarySearchTree.breadthFirstTraversal();
+        //Then
+    }
 }
 

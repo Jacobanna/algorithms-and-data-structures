@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jp.datastructures.queue.ArrayQueueTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-31T19:59:00" hostname="DESKTOP-DILTDO4" time="0.001">
+<testsuite name="com.jp.datastructures.queue.ArrayQueueTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-04-01T20:33:19" hostname="DESKTOP-DILTDO4" time="0.002">
   <properties/>
   <testcase name="remove" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.001"/>
   <testcase name="sizeFrontEqualRear" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.0"/>
   <testcase name="add" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.0"/>
   <testcase name="peek" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.0"/>
-  <testcase name="sizeEmpty" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.0"/>
+  <testcase name="sizeEmpty" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.001"/>
   <testcase name="sizeFull" classname="com.jp.datastructures.queue.ArrayQueueTest" time="0.0"/>
   <system-out><![CDATA[Queue is full, remove element first.
 Queue is empty, add element first.

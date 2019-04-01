@@ -74,53 +74,53 @@ Expected:
 0611
 0613
 0633
-09
-Inorder:
-096
-098
-0910
-0912
-0915
-0960
-09
-Expected:
-096
-098
-0910
-0912
-0915
-0960
-0:
+0910 8 12 6 9 11 13 33 0:
 Inorder:
 0:6
 0:8
-0:9
 0:10
-0:11
 0:12
-0:13
-0:33
+0:15
+0:60
 0:
 Expected:
 0:6
 0:8
-0:9
 0:10
-0:11
 0:12
-0:13
-0:33
-@O8List has 4 elements, possible indexes to get are : 0-3
-@T7List has 4 elements, possible indexes to add are: 0-3
-@T7List has 4 elements, possible indexes to add are: 0-3
-@]'Cannot perform get(3), list is empty.
-ba&Queue is full, remove element first.
-ba$Queue is empty, add element first.
-bd&Queue is full, remove element first.
-be&Queue is full, remove element first.
-be$Queue is empty, add element first.
-ih$Queue is empty, add element first.
-oq%Stack is empty, cannot pop element.
-or%Stack is full, cannot push element.
-ov&Stack is empty, cannot peek element.
-ov&Stack is empty, cannot peek element.
+0:15
+0:60
+0;
+Inorder:
+0;6
+0;8
+0;9
+0;10
+0;11
+0;12
+0;13
+0;33
+0;
+Expected:
+0;6
+0;8
+0;9
+0;10
+0;11
+0;12
+0;13
+0;33
+AP8List has 4 elements, possible indexes to get are : 0-3
+AU7List has 4 elements, possible indexes to add are: 0-3
+AU7List has 4 elements, possible indexes to add are: 0-3
+A^'Cannot perform get(3), list is empty.
+cb&Queue is full, remove element first.
+cb$Queue is empty, add element first.
+ce&Queue is full, remove element first.
+cf&Queue is full, remove element first.
+cf$Queue is empty, add element first.
+ji$Queue is empty, add element first.
+pr%Stack is empty, cannot pop element.
+ps%Stack is full, cannot push element.
+pw&Stack is empty, cannot peek element.
+pw&Stack is empty, cannot peek element.
